@@ -1,0 +1,116 @@
+0.0::1.0::Patient::Hello.
+1.55495::2.5067::Doctor::Hello?
+2.52555::3.86132::Patient::Hi, hi.
+3.73072::4.92087::Doctor::Hi, can you hear me?
+5.0511::6.44526::Patient::, I can hear you well.
+6.43092::10.47492::Doctor::Hi, my name is Doctor Gohil. I'm one of the doctors that works at Babylon.
+11.64752::15.62596::Doctor::Can I, can I check your name and date of birth, please?
+11.83782::13.73326::Patient::Uh, hi doctor. My name is.
+15.58794::26.54598::Patient::Yes my, my name is uh, Roberto Mendoza. And, uh, I'm, I was born on the first of January, of um, uh, nineteen ninety two.
+18.74438::19.60837::Doctor::OK.
+26.34793::31.26778::Doctor::OK, and are you in a space that's quiet and you're able to talk?
+31.22634::37.93931::Patient::Ohh sorry, I um, of nineteen ninety, sorry I'm forty eight. Sorry, I forgot that .
+37.63981::40.16995::Doctor::So, you're forty eight, and are you able to talk at the moment?
+40.28238::41.37329::Patient::Yeah, yeah.
+41.59494::49.69405::Doctor::OK. Tell me, uh, it says here you have a , uh, you're having problems going to the toilet?
+50.11689::70.85417::Patient::Yes, so I have uh, I have um. I don't know how do you say it properly, in English. Uh, I mean without sounding good, like diarrhoea, for, for, yeah. So, it's lasting for like three days. And, uh, yeah, I, I don't know, uh, I don't know, what could cause it. I, uh, um.
+58.62626::59.62626::Doctor::OK.
+71.82819::78.44542::Patient::Uh, I have a bit of uh, pain, abdominal pain. And I, had a bit of vomiting.
+79.44542::88.63523::Patient::And uh, uh, yeah. So this uh, kind of like uh, what is happening to me.
+88.66966::92.72672::Doctor::OK. Tell me how you were three days ago, before this started.
+93.25165::94.92765::Doctor::Did you have any medical problems?
+95.48926::105.79087::Patient::Uh, so I have, I have, I have a, asthma, and I take some uh, some uh, um, inhaler.
+105.76332::106.79681::Doctor::OK.
+105.79087::122.48933::Patient::I don't know, uh, I take an inhaler, um. and um. uh, I have an allergy. I have N, N, NK, NKDA allergy. So, I don't know if it's because, uh, I don't know. Could be the inhaler, or, yeah.
+116.55476::117.55476::Doctor::OK.
+120.42528::121.42528::Doctor::That's .
+122.89216::125.5404::Doctor::And apart from asthma, do you have anything else?
+126.74481::139.12203::Patient::Uh, I don't maybe it's work, because you know it's, this thing here in the stomach stuff. I, I always have in the back of my head and my father. Because he died about um, ten years ago of bowel cancer.
+133.97466::134.71864::Doctor::Yep.
+138.95788::140.02964::Doctor::OK?
+140.61346::143.33609::Patient::So, yeah, this is kind of uh.
+144.40102::147.21276::Patient::Uh, my, my worries. I, I don't know .
+147.53347::155.43988::Doctor::OK. So, you've, you've had the diarrhoea for three days, and now you're having pain and vomiting.
+148.2777::149.2777::Patient::
+153.29961::154.29961::Patient::Yeah.
+155.97114::158.62078::Patient::Yes, yes, .
+157.97481::161.78195::Doctor::Was the diarrhoea been getting better or worse?
+161.97721::177.51133::Patient::Uh, uh, I , I think it, it's not getting better or worse. It's kind of like uh, uh, like, middle, like normal, like uh, it, it, it hasn't gone away, it hasn't worsened.
+173.50482::174.43281::Doctor::OK.
+177.34017::180.15301::Doctor::OK. And how often do you go to the toilet?
+181.09528::193.67034::Patient::I go, I need to go, I, I can't go to work because I need to go like every. I don't is this feeling like I go to the toilet, and then when I finish, I need to, I feel I need to go again.
+192.65596::193.81424::Doctor::OK.
+193.67034::199.788::Patient::And, and uh, and, yeah. So, I need to be like close to the toilet uh, all the time.
+198.69916::200.73514::Doctor::That must be, that must be hard.
+201.26321::203.28511::Patient::Yeah, yeah, it's.
+202.48335::205.10926::Doctor::Have you had to drink more water than normal?
+205.61207::214.98179::Patient::I don't know, maybe I'm not drinking enough water, yeah. I drink uh, I think I, yeah I don't know. I, I think I don't drink enough water.
+215.21725::218.20288::Doctor::An important question, have you noticed any blood?
+218.98587::222.33625::Patient::Uh, no, I haven't noticed any, any blood.
+222.32521::229.08065::Doctor::And you mentioned tummy pain, can you tell me more about your tummy pain, like where it is, and if it goes anywhere?
+228.08078::247.16842::Patient::So, , the pain is mainly uh, focus in, in the centre area of the abdomen, like under the belly, under the belly button. And, uh, yeah, and sometimes I can hear my stomach, uh, like, it comes, uh, yeah.
+237.03035::238.03035::Doctor::
+239.62028::240.42027::Doctor::Yep.
+245.53398::248.39012::Doctor::OK. You've been able to eat and drink?
+248.475::261.56262::Patient::Uh, yes, but, yes but I, I go to the toilet also often. So I, I, I, yeah I try not to eat a lot because I, yeah I just, going to the toilet every, ten minute.
+261.27067::266.39025::Doctor::Hmm. And you said the tummy pain's in the middle of your tummy. Does it go anywhere else?
+266.38745::275.0517::Patient::No, no, just there, and it, it seems to be alleviate a bit, toilet, and maybe it's like trapped gas. So, I don't know what it is, but.
+276.32558::279.67092::Doctor::OK. And when was the last time you vomited?
+281.1904::290.68677::Patient::I think it was this morning. This morning, I, but the, the thing is like, because I'm not eating anything now. So, I, I haven't vomited again.
+290.78611::292.5631::Doctor::Did you have any breakfast?
+291.68677::292.76469::Patient::Right, I don't know.
+294.20426::300.10284::Patient::I didn't. Uh, no sorry, yes I did actually, I did. Pardon, I had some fruit, I had some fruit.
+297.40486::298.56313::Doctor::
+299.92285::302.96603::Doctor::OK. And , and you vomited that up, afterwards?
+303.51161::318.08829::Patient::And afterwards, I didn't have anything, then I got a bit of nausea, and I vomited, and then, uh, yeah and that was it, and that was it. And I have any today, and so now I'm, uh, I think I'm OK, but uh, yeah, and I don't, yeah.
+318.06687::320.43378::Doctor::Did you notice any blood when you vomit?
+321.73063::338.20513::Patient::Hmm. I think I do, I think I do, but is uh, uh, no, no actually I can't say sorry, I'm sorry. I, I, I don't think there is blood because uh, yeah it was, it was the strawberries that I was having for breakfast. So, so, yeah, it wasn't blood.
+332.18207::333.18207::Doctor::
+337.96628::347.05502::Doctor::OK. And, um, did you eat anything that you think might of been bad, or anything that could have caused the tummy pain?
+339.70148::340.70148::Patient::Yeah, .
+347.07375::364.76303::Patient::Uh, I, I don't know. To be honest, sometimes I have, when I get a bit of anxiety, I, I use my inhaler. And, but my inhaler kind of um, run out the one. Because you know, I'm a foreigner, so I have uh, this brand, but I bought a new one here.
+355.44842::356.59843::Doctor::Yeah.
+363.89452::365.2573::Doctor::. OK.
+364.76303::370.91323::Patient::And, uh, I don't know maybe this new one has cause it, this, this problem. I don't know.
+368.74015::369.93052::Doctor::OK.
+371.41973::390.14695::Doctor::OK. It's very unlikely for an inhaler to cause tummy pain, like this. Normally, it's when you eat, um, bad food or food that has gone off, and you normally get symptoms like you have suggested. But just to double-check, have you noticed any problems with your breathing?
+376.26361::377.26361::Patient::Mmm.
+381.12493::382.12493::Patient::Uh-huh.
+390.92047::405.48265::Patient::Um, uh, I, I always have problems with my breathing, because of the asthma like, . When I, , I need to use my inhaler a little bit, but apart of the normal, I haven't, I haven't.
+396.87316::397.87316::Doctor::OK.
+405.1466::409.95958::Doctor::OK. And how about chest, have you noticed any chest pain?
+408.70163::413.00746::Patient::, no, I haven't , I haven't noticed any chest pain.
+412.88765::418.21862::Doctor::OK. And how about, um, walking and talking, are those all both OK?
+418.55899::433.26374::Patient::Uh, walking and talking, uh, yes, yes. Uh, I, I, but uh, but yeah I don't walk very far because uh, I, yeah I need to, I need to go to the toilet now and then. So, I'm spending some time at home.
+431.96173::436.40581::Doctor::Yep. And when you press on your tummy, does it cause any pain?
+436.92068::438.7382::Patient::Ohh, it does a little bit.
+438.70333::439.68522::Doctor::OK.
+444.52933::447.01018::Doctor::Sorry, I was just writing some things down.
+447.81121::448.81121::Patient::Sure.
+449.59293::461.33556::Doctor::So, what it sounds like to me is that you might have eaten something bad, and it's causing your tummy pain. And it's , this is normally called gastroenteritis, so, an infection of the tummy.
+456.05941::457.1324::Patient::OK.
+461.57766::463.07402::Patient::Ohh, OK.
+462.67216::482.4349::Doctor::Normally, when patients have this do some things. Number one is to drink lots of water and fluids, because you're losing lots at the moment. Number two is to make sure and look out for any fevers, so, if you start getting a temperature then you need .
+474.08864::475.08864::Patient::
+480.57041::481.57041::Patient::Mmm, OK.
+483.92807::484.92807::Patient::Uh-huh.
+483.96728::489.12559::Doctor::And please stay home for the time being until you get slightly better.
+490.45363::494.00838::Patient::OK. OK, I, yeah.
+491.56445::493.24072::Doctor::And normally,
+494.32822::499.01053::Doctor::Normally, things like antibiotics don't help, they make the situation worse.
+500.10329::518.89896::Patient::OK. I didn't, yeah, sorry I didn't. No, I was saying I didn't have any, fever recently. I, I was sweating a little bit the last four days, but I, I. Not sure if, if I had bit of fever, but very, little or, or, I'm, I'm but I don't think so, I don't think. I don't know maybe.
+500.84507::502.16162::Doctor::So, that's.
+503.01773::504.16162::Doctor::Go ahead.
+519.57901::532.06112::Doctor::So, I think that's what we should do for the time being, if you feel you're getting much worse, than I would suggest you go and see your GP in real, in real life, in person, so they can loot at your belly.
+520.19093::521.19093::Patient::
+530.07416::531.07416::Patient::OK.
+532.23475::541.36616::Patient::OK, I will, yeah I will book then, book , I will wait a couple of days to see, or one more day, and then I will book, and then, yeah.
+539.42088::543.83098::Doctor::Great! Cool! Do you have any more questions for me?
+543.72382::556.2713::Patient::Uh, , no, that's uh, that's it. I was maybe just concerned about my father's uh, medical history, that would uh, I could be at some kind of risk.
+553.83825::554.83825::Doctor::Yes.
+556.19914::571.32758::Doctor::So, the, the things that you've told me are most suggestive of an infection of your tummy and less likely to be something your father had, but if your things don't get worse, then that's something that we can look up from the GP.
+566.17643::567.17643::Patient::OK.
+571.98334::581.41004::Patient::OK, OK. Yeah, that sounds good, that sounds good. OK. Thank you very much doctor, for your time. Bye bye.
+572.90313::574.31897::Doctor::Does that sound OK?
+576.58328::577.85998::Doctor::Thank you .
+579.72636::581.06862::Doctor::Bye bye.

@@ -1,0 +1,121 @@
+1.53273::2.14211::Doctor::Hi.
+1.53623::2.27536::Patient::Hey.
+6.49623::7.70802::Doctor::Hi. Can you hear me?
+7.60869::8.69564::Patient::Yeah. I can hear you.
+8.86427::14.4496::Doctor::Good. Um, my name is Doctor Gohil. I'm one of the physicians that works here at Babylon.
+14.32074::15.24636::Patient::OK.
+14.4496::17.09803::Doctor::May I confirm your name and date of birth, please?
+17.06621::25.44326::Patient::Uh, uh, my name is Sarah Smith. And, my date of birth is the twentieth of April nineteen eighty.
+17.28156::19.89777::Doctor::
+26.19405::26.84054::Patient::Great.
+27.44548::32.14717::Doctor::Nineteen eighty three. And, are you in a space that's private and quiet, and you can talk?
+28.62074::29.16808::Patient::Yeah.
+31.57966::32.34544::Patient::
+32.58085::33.17698::Patient::Yeah.
+33.67842::39.86464::Doctor::Good. So, it says, erm, I've got a note to say, it says you're feeling short of breath. Is that correct?
+39.26032::40.8077::Patient::Yeah, yeah.
+41.80055::44.00486::Doctor::OK. Are you able to tell me a little bit more about that?
+44.44477::51.15742::Patient::Yeah. I was watching TV and, um, just like over the last hour, I've started to feel, like, a bit short of breath.
+53.2468::55.34522::Doctor::That is, while you're sitting watching TV?
+55.45924::56.13693::Patient::Yeah.
+57.10862::60.14135::Doctor::OK. And, have you noticed anything like this before?
+60.79436::62.33323::Patient::Um, no.
+64.49176::68.06999::Doctor::OK. And, apart from the shortness of breath, have you noticed anything else?
+68.78848::72.10564::Patient::Um, so, I , I started with a cough yesterday.
+72.05749::72.84655::Doctor::OK.
+75.74691::76.92171::Patient::Um.
+77.74494::83.02933::Patient::Yeah. I, I don't know if it's, um, relevant, but I had a C-section a few weeks ago.
+83.46919::86.2883::Doctor::OK. And, how long ago was that? Just a few weeks?
+86.53992::87.50339::Patient::Yeah, four weeks.
+87.71017::89.5818::Doctor::OK. And, are you with baby at the moment?
+89.99147::90.8675::Patient::Yes, I am.
+91.85575::93.34286::Doctor::And, how is baby doing?
+93.93912::95.16574::Patient::Yeah. .
+95.06127::98.38471::Doctor::OK. Any coughs or colds with, uh, them?
+98.80688::100.36216::Patient::No, no. He's fine.
+100.21146::105.27124::Doctor::OK. So, you've noticed shortness of breath for just an hour, while sitting and watching TV?
+103.76567::104.50948::Patient::Yep.
+105.37851::105.96906::Patient::Mm-hmm.
+105.75539::108.84169::Doctor::And, you had your C-section a couple of weeks ago?
+109.17757::109.75609::Patient::Yeah.
+109.68281::111.63991::Doctor::And, yesterday you noticed a cough?
+112.10307::112.97084::Patient::Yeah.
+113.02389::116.03635::Doctor::So, talk to me about the cough. Have you bought anything up?
+116.50898::117.96916::Patient::Uh, no, I haven't, no.
+118.51467::122.83515::Doctor::And, when was the last time you were ill with the flu, or symptoms like this?
+123.31841::127.88386::Patient::Um, you know, I get coughs and colds quite a lot, but probably.
+129.18186::130.52154::Patient::Good few months ago.
+131.95106::136.06424::Doctor::OK. And, this shortness of breath you're having, is it getting worse?
+137.06782::138.33351::Patient::Um.
+139.17851::145.65194::Patient::No. I mean, I don't know. I feel like I'm getting really stressed out because, like, my heart, it's really going.
+145.40922::148.19685::Doctor::OK. So, you're feeling your heart more than normal?
+148.21692::149.10121::Patient::Yeah.
+150.76955::154.25586::Doctor::And, the shortness of breath, does it cause any pain in your chest?
+155.4198::157.02922::Patient::Um, no.
+157.07263::159.67847::Doctor::How about when you take a very deep breath in?
+162.02873::168.97074::Patient::Um, I mean, yeah. My chest feels sore, but so does my C-section scar. You know, it's, it's all tender.
+168.48866::169.13846::Doctor::OK.
+170.04992::173.48865::Doctor::And, since your C-section, did you have to take any medications?
+174.19411::176.26095::Patient::Um, no. Just some painkillers.
+179.3378::182.09584::Doctor::All right. And, can you remember what the name of those were?
+182.31208::186.3292::Patient::Uh, they gave me some, uh, Codeine.
+187.60774::189.57683::Doctor::And, have you had to use that regularly?
+189.90842::195.48873::Patient::Uh, yeah. I, I've been taking that fairly, fairly regularly. But, probably haven't taken it for a week.
+195.54625::201.89859::Doctor::OK. And, apart from the C-section and the shortness of breath, have you got any other medical problems I should know about?
+199.47135::200.09945::Patient::Yeah.
+202.50045::204.86924::Patient::Um, no.
+205.63935::207.05022::Doctor::And, you were .
+205.96326::209.07213::Patient::tell you, I'm allergic to Ibuprofen, though.
+208.83255::209.53834::Doctor::OK.
+210.30697::212.29171::Doctor::And, what happens when you take Ibuprofen?
+212.82778::213.91212::Patient::Um.
+214.66357::217.25669::Patient::I don't know. Sorry.
+216.32939::217.19784::Doctor::
+218.39828::222.9338::Doctor::So, I need you to do something for me. Have you measured the rate of your heart before?
+223.23152::224.36196::Patient::Uh, yes.
+224.45604::227.69109::Doctor::Have you measured it recently, either with an iWatch or something similar?
+228.73876::230.02862::Patient::No, I haven't, no.
+229.72342::240.33236::Doctor::OK. We might need to do that over the phone. So, are you able to put your right hand on your left wrist, just underneath your thumb? And, see if you can feel your heartbeat.
+238.73623::239.41392::Patient::Yep.
+241.43439::242.15341::Patient::Yep.
+242.28121::250.43533::Doctor::So, uh, what I need you to do is, when I count to three, count down from three, just count the number of beats you've noticed. And, I'll tell you when to stop. Is that OK?
+248.71358::249.44291::Patient::Mm-hmm.
+250.42894::251.13231::Patient::Yep.
+250.9527::254.54965::Doctor::So, we'll start in three, two, one. Go.
+263.82244::266.1164::Doctor::Great. That should be enough. How many did you count?
+266.83355::270.95608::Patient::Uh, I counted thirty.
+271.00924::271.80611::Doctor::Good.
+273.60036::280.91339::Doctor::So, your heart is running slightly fast at the moment, which is probably because of the shortness of breath and some of the pain that you're under.
+276.69496::277.50488::Patient::Mm-hmm.
+280.92708::281.92708::Patient::OK.
+282.08285::288.40092::Doctor::Given that you've had a C-section, and you're short of breath, which has come on quite recently and quite quickly
+288.40092::293.65507::Doctor::It might be worth you going into the hospital to get checked out the bit further.
+293.71361::294.6227::Patient::OK.
+294.52503::302.6568::Doctor::So, there's two ways of us doing this. The first is, I can call an ambulance. Or, you can take yourself to the hospital with baby.
+302.9141::303.66617::Patient::Mm-hmm.
+303.31894::304.8712::Doctor::Which one would you prefer?
+305.08646::311.29162::Patient::Uh, it feels a bit dramatic to call an ambulance. Um, I, I will, I will go. I will, I will take myself.
+311.44634::317.63055::Doctor::Sure. And, what I would suggest is, go fairly quickly and take some bits for baby at the same time.
+317.67417::318.42623::Patient::OK.
+318.60762::323.43063::Doctor::And, if you're taking any medications like Codeine, don't, don't take them for the time being.
+323.63691::324.88352::Patient::Mm-hmm, OK.
+324.78219::326.75436::Doctor::Is anyone else with you at home?
+326.86232::328.58792::Patient::Uh, no. My partner's at work.
+328.68535::329.44317::Doctor::OK.
+330.83379::333.592::Doctor::So, I think that's the best thing to do, for the time being.
+333.53568::334.35387::Patient::Mm-hmm.
+334.36927::338.01025::Doctor::So, what I'm worried about at the moment is, given that you've had a C-section
+338.56745::345.09833::Doctor::Some people can suffer with clots. And, those can either be found in the legs or your chest, so in your lungs.
+345.32809::346.07189::Patient::Yeah.
+345.66576::350.82356::Doctor::It's quite a common thing to happen. And, it's not something to worry about. But, needs to be checked out in the hospital first.
+351.07991::351.84024::Patient::OK.
+351.61335::356.20395::Doctor::And, if it, if that does become the case, they can give you something to reduce the clot.
+356.46713::358.68057::Patient::All right, OK. That makes sense.
+357.24567::358.62979::Doctor::Fairly quick process.
+359.82107::364.6548::Patient::OK. Yeah. I mean, my mum's had, uh, clots in her legs before. So, I guess, you know.
+365.91624::368.82548::Patient::Yeah, that makes sense. I know, I know what they are.
+369.06675::373.32061::Doctor::Good. Are you, uh, are you particularly worried about anything, or do you want to ask me anything, before we go?
+373.36769::377.39068::Patient::No, no. I'm fine. I'll, uh, I'll just take myself to the hospital.
+377.19133::378.63134::Doctor::Great. Thank you so much.
+378.54771::380.10742::Patient::All right. Thank you. Bye.
+379.40544::380.01369::Doctor::

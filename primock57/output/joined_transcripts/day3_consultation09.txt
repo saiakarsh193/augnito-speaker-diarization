@@ -1,0 +1,134 @@
+0.43381::1.43381::Patient::Hi.
+1.34667::17.14::Doctor::Hello. Hi, I'm Doctor Jacob and welcome to Babylon. Hello. Hi. So, um, just before we start, is it all right if you could confirm your name for me please? And your date of birth?
+5.4274::6.64424::Patient::
+12.95682::15.05307::Patient::Sure, my name is Mary Smith.
+17.40832::21.85367::Patient::My date of birth is August sixteen, nineteen seventy six.
+21.62667::24.73333::Doctor::And your email address for me, please.
+24.64862::28.50368::Patient::My email address is Mary dot Smith at gmail dot com.
+28.46667::34.4::Doctor::That's correct. And just to confirm, that you're in a secure location, and we can have a confidential conversation.
+34.50305::35.52714::Patient::Absolutely.
+35.52::40.46::Doctor::Right. So you've mentioned that you have some pain in your jaw. Is that correct?
+40.58687::42.86382::Patient::Um, well.
+43.62891::52.53306::Patient::I think that's just, like, the first thing that I typed, but, uh, uh, it wasn't really what I, you know, I just typed it and then I clicked submit, so, that was uh, um.
+52.53306::67.10812::Patient::I mean it's part of the problem but I would say that, more of a problem for me, is that I can't quite move my left arm. I mean, I can move it but it's it's numb, and then I also feel some, like tingling in my fingertips.
+67.75333::73.36::Doctor::OK, so numbness in the left arm, yeah? How long has it been going on for?
+70.43915::71.91499::Patient::Yes, yes.
+74.2582::83.04637::Patient::So, I've started taking this boxing class. I've been taking this boxing class for a few weeks, and I feel like maybe, um
+77.54666::78.25333::Doctor::Mm hmm.
+84.468::93.57701::Patient::It's probably been, I'd say, for at least two weeks, and it's kind of gotten worse. Like,in the beginning, I just kind of felt a little bit of a tingling.
+89.98::90.80666::Doctor::Mm-hmm.
+93.57701::105.14623::Patient::and then it's gotten, it's gotten worse since then. Then the numbing kind of started I can feel it both in my, uh, um, you know a little bit in my elbow, and then in my arm, as well as in my hand
+105.01333::105.68::Doctor::Mm-hmm.
+105.14623::117.67489::Patient::And now because it hasn't gotten better, I tried to get a massage, it's not better. Or, you know, try to take warm baths. It's not better, so I figured I'd call you and, and just figure out what's going on.
+117.80666::123.63333::Doctor::Right. So, have you mentioned that message and a warm bath, any medications that you've taken so far?
+124.61993::126.6198::Patient::Uh, well it's.
+127.42705::141.14833::Patient::You know it's, it's numb and I, I kind of looked at stuff online, um, but you know I, I do take Ibuprofen because my muscles were sore, a little bit, and I've been taking this boxing class.
+131.36666::132.05333::Doctor::Uh huh.
+138.63333::139.27333::Doctor::
+141.14833::149.50613::Patient::So, you know, I kind of hurt like my knuckles on my right hand. So that's been a little bit painful, so I've just kind of taken ibuprofen for that.
+149.24666::149.95333::Doctor::OK.
+149.50613::156.85732::Patient::But, like I said, I mean, I tried massage, I tried some hot baths, and that didn't help with this numbness thing.
+153.97333::154.56::Doctor::Mmm.
+157.06::157.76666::Doctor::Sure.
+157.60434::159.70058::Patient::I'm just kind of getting a little worried.
+159.4::171.21333::Doctor::Of course. So you just mentioned that your pain is from elbow downwards, is that, you know, the tingling, numbness elbow . Not from your shoulder?
+160.27895::160.94767::Patient::
+171.27781::186.20376::Patient::And, um, well it's kind of funny, you know sometimes I will feel it in my shoulder. Like if I try to, if I try to like you know move like in boxing and stuff, I will even like, uh, um, maybe feel a little bit of, a little bit of pain.
+186.20376::195.64847::Patient::Uh, but I would say, if i'm just like resting if I'm sitting like, right now, I can feel like it's numb, and I, I actually feel, tingling right now, not in all of my fingers, just in some.
+195.83999::198.02666::Doctor::Yeah. So, which fingers do you feel numb?
+198.56992::202.3527::Patient::OK, so it's my second, third, and fourth finger.
+202.31333::210.89333::Doctor::Uh huh. Second, third and fourth finger. And is it your palm side or, you know, the back of your hand side which is numb, or both?
+210.68912::214.45985::Patient::No. It's, it's the, it's this side. So, the front side.
+214.39333::226.29333::Doctor::It's the front side. OK, right. And have you been dropping things at all? Like, you know, when you try to hold onto things, like a glass or something, have dropping it?
+224.84421::225.70567::Patient::Yes.
+226.87433::235.73046::Patient::So not so much with the glass, but I will say, um, well I play a little bit of a piano and so I just noticed it's been kind of harder to get the notes.
+235.63999::236.28666::Doctor::Mm-hmm.
+235.73046::246.17924::Patient::I can, I can grasp, I can grasp a a glass but because I use my right hand most of the time, you know, I'm not left handed so, it's kind of hard for me to.
+241.58666::242.03333::Doctor::
+244.51999::262.11999::Doctor::So So you would say this in mind weakness, mind. So just to get my facts right. So you would say it's definitely weakness rather than because of the pain, you can't hold it. That's two different things. So you know sometimes you can't hold it because it's hurting you .
+248.98022::249.7453::Patient::Yes.
+252.6788::253.27523::Patient::Yeah.
+260.92499::267.3219::Patient::No, no, it's not hurting, it's not hurting, it's, like, numb, I can't feel it, right? Well, yeah.
+264.62666::274.25333::Doctor::OK. Fine. So, you're definitely having some sort some form of weakness, OK. Edward, any neck pain at all?
+270.89989::272.4721::Patient::Yes, absolutely.
+274.97191::277.22477::Patient::No, not, no, nothing .
+276.77333::290.58666::Doctor::neck pain and all? OK, right, OK. So, just a bit more of a background because I don't have much information on the system. Um, do you have any past, uh, medical history that you'd like to share?
+284.51915::285.18185::Patient::Mm hmm.
+291.83173::299.58087::Patient::Well, I guess because of this. You know, I'm not sure if it's boxing. I also had a really bad cold, like a month ago.
+299.27333::299.94666::Doctor::Mm-hmm.
+299.58087::306.88417::Patient::I mean, I was out, you know, drinking with, uh, friends, um, one of our co-workers just had his three year anniversary and
+306.88417::321.29814::Patient::We kinda went crazy and we were like out partying until, you know, late hours, and I just got uncharacteristically drunk for me. And then after that, I was sick for probably good like two weeks. I was at home. I think I must have had some kind of like a flu or something.
+314.15332::314.71999::Doctor::what
+321.11332::321.67332::Doctor::Mm-hmm.
+321.29814::335.13386::Patient::So it's that. And then, I'd say another weird thing that happened to me a few weeks ago, is like, I all of a sudden just couldn't see from the, uh, from my left eye. Like, I, I lost some, like a little bit of a field of vision
+335.13386::342.82236::Patient::Uh, and, but that, that just lasted not very long. I mean, that just lasted maybe for, I don't know, twenty, twenty minutes?
+335.29999::335.85999::Doctor::OK.
+342.82236::348.62023::Patient::Uh, and I kind of thought, I don't know maybe it was the the cold you know and the virus and all that so
+348.53999::349.13999::Doctor::Mm-hmm.
+349.27088::360.43225::Patient::I, I guess that's what I can, you know, that's the last thing I can remember, but in general, I'm, I'm pretty healthy. You know, I work out, uh, , and I, I don't really have any medical problems.
+357.06666::357.68666::Doctor::Yeah.
+360.21332::363.63999::Doctor::Do you have any headaches at all, from the, in the recent past?
+364.51619::369.48557::Patient::Um, sometimes I get headaches but I think they're just tired headaches. You know sometimes I'll get kind of
+370.34101::379.94169::Patient::Tired but I think that's probably because I work too much. Or, you know because like I'll go for a workout and then I'll really just exhaust myself and then I just kind of feel this fatigue.
+379.94169::390.18213::Patient::Uh, or sometimes like this morning for example, I just felt really, fatigued and I couldn't even get myself to the gym. But, you know, since I have this numbness it's kind of like, hard to workout right?
+379.97332::380.63332::Doctor::Hmm.
+390.49332::393.99999::Doctor::Do you wear glasses at all, glasses, contact lenses?
+394.50701::395.20584::Patient::No.
+394.80666::402.17999::Doctor::No, so no glasses . And, you've not experienced anything like a seizure or a fit, anything like that?
+402.81946::403.86162::Patient::What's a seizure?
+403.95999::407.63999::Doctor::Like when you you lose consciousness and you start shaking.
+408.26481::410.95134::Patient::Ohh, no, no, no, no, nothing like that, mmm mmm.
+409.13999::420.62666::Doctor::OK, no fits, yeah, OK. And your weakness is only in your left arm. Legs are walking and all this, normal, yeah?
+416.78808::418.09527::Patient::Right, exactly.
+420.67941::423.24547::Patient::Yeah, yeah, yeah, walking is normal, yeah.
+423.15999::431.54666::Doctor::You mentioned for a while you couldn't see, you know, the outside peripheral vision from your left eye. How long did that episode last for?
+432.14809::447.38725::Patient::You know I think it was only maybe like twenty minutes or so. It's almost like it happened and I thought ohh my God. It's probably I'm still like sick from this, you know virus thing, cold, and so I just kind of slacked it off. And then when I, uh, um, when I woke up it was gone.
+447.83332::454.11999::Doctor::Sure, OK. Um, OK. So is there any regular medications that you're using?
+455.18759::469.52795::Patient::Not really. I just take ibuprofen every once in a while, I take vitamin D. Um, I take some I, I like my my GP really wants me to take iron supplements, but you know, they're just like huge pills so I, I, most of the time I just forget.
+469.52665::470.08665::Doctor::OK.
+469.52795::473.59922::Patient::But, vitamin D I take. And then, sometimes I take Melatonin to help me sleep.
+473.53999::474.17332::Doctor::OK
+475.49332::476.43332::Doctor::Alright.
+477.65332::484.01999::Doctor::And any family history you'd like to share? Any significant family history?
+484.41307::492.50653::Patient::I know that my dad has I don't know if it it's hypo, I think it's hypothyroidism.
+492.37332::493.00665::Doctor::Yeah.
+492.50653::498.26686::Patient::Um, and then my, like, he's got he's got some autoimmune stuff going on, like that much I know.
+496.87332::498.69332::Doctor::Mm-hmm.
+498.26686::505.78207::Patient::And then, my mom, my mom, she's actually not in a great shape. She's got diabetes type two.
+505.78207::518.24062::Patient::She's got hypertension, um, she's got, gosh, what is it, ohh, yeah, she's got high cholesterol, um, and I think that's it for her. Yeah.
+518.07999::523.07332::Doctor::Yeah, right. Any neurological conditions in the family?
+524.38454::525.42068::Patient::Uh.
+525.25999::528.72862::Doctor::there are related conditions. No, OK, that's fine.
+526.21589::526.91472::Patient::
+528.02314::529.8905::Patient::
+530.04122::546.03999::Doctor::OK, so, right. So after, you know, speaking and examining, you know, yourself, I think it's quite important that we do investigate it a bit further. I'm just wondering whether there's something a bit more than just the boxing here.
+546.03999::566.57332::Doctor::OK, few things that's, made me think other than, just like a boxing injury, is for instance, um, you know, when you said you can't, your vision went, your peripheral vision was not there for about twenty. So, and that with the weakness of the arms, make me think, is there something else going on rather than just an injury?
+546.18977::546.9127::Patient::OK.
+557.10431::557.89951::Patient::
+565.45893::566.05536::Patient::
+566.76022::568.59144::Patient::What do you think may be going on?
+568.51998::588.68665::Doctor::sometimes you know you do get things like MS, multiple sclerosis. So people with multiple sclerosis can have, um, visual problems, like what you've experienced and sometimes you know the odd numbness tingling sensations going on. OK?
+574.88595::575.62695::Patient::Ohh!
+587.96286::591.01682::Patient::Ohh my God! Will I be in a wheelchair?
+592.08665::609.44665::Doctor::We, if we capture it a bit early there are treatments for it. OK? I'm not, obviously I'm not suggesting that you do have it, but it is quite important to find out that, whether you have it or not that's the most serious kind of thing that needs to be, uh, dealt with here.
+609.44665::623.49332::Doctor::Yeah. So, what we can do is I'm going to do an urgent, very urgent neurology referral. Yeah? What they, what that might entail is the brain scan and things like that. Hello?
+609.6953::611.61085::Patient::K, OK.
+617.91139::619.26074::Patient::OK
+622.88089::626.19385::Patient::I see. Yeah yeah yeah! Yeah, I'm here, I'm here.
+625.76665::637.65998::Doctor::I know this might sound a bit of a shock to you, um, but I'm, I think it is more important that we investigate this a bit more seriously.
+632.01252::632.68123::Patient::Yeah.
+638.16259::640.59615::Patient::Alright. Yeah, that makes sense.
+640.47998::642.82665::Doctor::OK. Any questions at all?
+643.4152::649.6555::Patient::Well, what's, OK, so you're gonna do the referral, um, should I be taking any drugs or, um
+648.28665::664.07332::Doctor::No, that's something we can't do. The treatment for it is actually some steroids and things like that, uh, when you have an acute you know, acute reaction or things like that. But, saying that, first we need to firm diagnosis.
+664.07332::685.60665::Doctor::Yeah. While you're waiting for this to be done, if there's any weakness, uh, you know, if the weakness progresses to your legs, or there's any kind of headaches, vomiting, fits, and your visual symptoms are getting worse and not getting better, then that would be an A and E.
+664.08151::666.50302::Patient::Mm hmm, yes, OK.
+686.10909::687.72347::Patient::OK, got it.
+688.32665::689.32665::Doctor::Alright.
+688.6271::691.70515::Patient::Sounds good! OK, thank you, doctor.
+691.62665::704.03331::Doctor::Yeah. I'm I'm sorry. I, I do appreciate you are a bit worried, but, you know, it's good that we know that you've come and spoken to us today, and hopefully we'll get things sorted and the ball rolling. OK?
+703.42066::706.66134::Patient::Thank you, doctor. Appreciate your time.
+706.63998::708.71331::Doctor::That's OK. You take care.
+707.66134::708.43246::Patient::Thank you.
+709.0831::709.86626::Patient::Bye bye!
+709.71998::710.93998::Doctor::Good bye now, bye.

@@ -1,0 +1,115 @@
+1.24402::3.2558::Doctor::Hi there, I'm Doctor Smith from Babylon.
+3.29729::4.03378::Patient::
+3.99988::11.85616::Doctor::Hi. Can you just confirm your name, date of birth and your address, please?
+8.45269::13.02025::Patient::Yes. Italy.
+14.4797::15.6216::Patient::And,
+14.52858::15.34407::Doctor::
+16.34407::19.6057::Doctor::I see, sounds a bit . Um.
+20.35573::22.95672::Doctor::Are you in a private place so you can have a consultation today?
+23.82428::24.50671::Patient::Sorry?
+24.59354::27.86707::Doctor::Are you in a private place so you can have a consultation today?
+28.42562::29.35806::Patient::Uh, yes.
+28.50402::30.81338::Doctor::What can I do for you?
+31.66211::38.60804::Patient::So, I have had a pain in my lower tummy the last two days. I feel kind of hot and sweaty.
+31.81338::33.00383::Doctor::
+33.67054::34.21822::Doctor::
+39.15225::42.24723::Doctor::OK. And any pain like this in the past?
+43.31749::45.27694::Patient::Uh, not yet, no.
+45.38387::48.12175::Doctor::OK, can you just describe to me whereabouts it is?
+49.72964::52.2499::Patient::Um, so, I don't, what, sorry?
+52.86533::56.9484::Doctor::Can you describe to me whereabouts the pain is? Is it, is it.
+55.91882::57.68908::Patient::So it's my lower tummy.
+57.62701::60.82317::Doctor::Yeah. Is it in the middle or to one side?
+61.58097::64.22961::Patient::Uh, not, um, with a needle.
+64.8466::72.1851::Doctor::In the middle, OK. And any other symptoms along that, with that? Have you had any nausea or any vomiting?
+72.65527::76.6485::Patient::Uh, no. I'm just a bit nausea but no vomiting.
+76.63705::82.29123::Doctor::OK. Any change in your bowel habit recently, or any diarrhoea? Constipation?
+82.79714::92.01333::Patient::Uh, I had been constipated in, like, in the last, um, last week, but now it's fine. And, yeah, like
+90.27846::93.07585::Doctor::to the toilet?
+93.39171::93.90523::Patient::Sorry?
+93.74256::95.67697::Doctor::When did you last go to the toilet?
+96.2836::98.14846::Patient::Uh, like two hours ago.
+97.95657::99.36128::Doctor::And was it normal?
+99.63495::100.22954::Patient::Yeah.
+100.30176::102.27188::Doctor::Any blood in the stool?
+103.15521::112.68898::Patient::Um, so there was some, like, slight, uh, blood in the urine, but, like, it was a little bit pink but.
+112.63976::115.88353::Doctor::OK. And has this ever happened in the past before?
+116.9646::118.37816::Patient::Um, no.
+119.28799::122.01397::Doctor::Right. Any pain when you pass water?
+122.9756::124.67614::Patient::Uh, no, that's fine.
+124.71019::127.18024::Doctor::Are you having to go more often than normal?
+128.02679::132.89164::Patient::Uh, yeah, a little bit, but I wasn't drinking a lot in these days.
+133.76288::135.88774::Doctor::Are you more thirsty than normal?
+136.41866::137.31055::Patient::Uh, yeah.
+139.04223::143.31563::Doctor::And you said you felt hot and cold. Have you measured your temperature?
+143.80378::148.30377::Patient::Uh, yes, I measured it but it's fine, like, around thirty seven.
+147.0891::152.50521::Doctor::What was it? Thirty seven. Have you measured it at any other time when it's been raised?
+149.70918::150.18891::Patient::Yeah.
+153.20242::153.81053::Patient::Sorry?
+153.61234::156.73113::Doctor::Have you measured it at any other time when it's been raised?
+156.51322::160.43214::Patient::Um, no, no, I just measured, like, one hour ago.
+160.67719::170.55108::Doctor::OK, that's fine. And, are you getting any pain higher up in your stomach? Any acid coming up into your throat or anything like that?
+169.20914::174.21589::Patient::No, no, but like just a bit of nausea but not vomiting.
+174.46144::178.34798::Doctor::OK. And any other discharge below?
+179.08074::180.08074::Patient::Uh, no.
+180.6871::184.19274::Doctor::OK. Um, and have you been abroad recently?
+185.13479::186.83073::Patient::Um, no, no.
+187.00204::189.6804::Doctor::No. And no similar problems to this before?
+190.99288::191.51316::Patient::No.
+191.44221::194.4003::Doctor::Have you had any other medical problems in the past?
+195.26315::203.43344::Patient::Um, no, no, nothing sore. I mean, depends what, like, normal stuff like cold, flu.
+203.11958::208.65473::Doctor::OK, nothing significant. Any allergies to medications?
+204.77664::205.18205::Patient::
+208.83069::211.82393::Patient::Uh, yes, amoxycillin.
+212.63055::215.21368::Doctor::OK. Do you take any regular medications?
+215.91176::216.64825::Patient::Uh, no.
+216.33272::218.33854::Doctor::Any over the counter medications?
+218.50635::228.01984::Patient::No. I have had the just, the, uh, internal uh, contraceptive implant, but like, for one year, now, no more.
+229.39086::234.12849::Doctor::OK. Um, and do you have regular periods?
+235.10766::236.10766::Patient::Uh, yeah.
+237.37821::241.30642::Doctor::Any bleeding in between periods or after intercourse?
+241.97927::244.33738::Patient::Um, no, no, no.
+244.64541::245.45496::Doctor::OK.
+245.39143::247.75629::Patient::Just like
+247.96072::253.79941::Doctor::Right. Um, and you haven't felt shivery or sweaty? You said you had felt a bit sweaty.
+254.00628::256.16168::Patient::Yeah. , yeah.
+255.87665::260.01317::Doctor::OK. And any, any back pain or strong smell to the urine?
+261.04005::266.53328::Patient::Uh, no back pain. No, I typically don't suffer from back pain, so, no.
+267.00052::271.67863::Doctor::Right, OK. Anyone in your family had any medical problems before?
+272.09408::284.66162::Patient::Uh, so, actually my mom had the breast cancer. Uh, but, again, not so important. I mean, just, like, the beginning it was , uh, cured in time.
+276.30913::277.10082::Doctor::OK.
+283.76083::286.58204::Doctor::OK. And who do you live with at home?
+287.62107::289.06702::Patient::Um, sorry?
+289.11161::290.75438::Doctor::Who do you live with at home?
+291.43863::293.26971::Patient::Uh, with my parents.
+293.53392::296.51582::Doctor::And, do you smoke or drink alcohol regularly?
+297.18187::298.41835::Patient::Uh, yes.
+298.45023::300.15252::Doctor::How much in a normal week?
+300.58051::303.86429::Patient::Uh, so, I don't smoke. I drink, I .
+304.97915::306.98591::Patient::Four times per week.
+307.05655::308.19939::Doctor::And how much?
+308.97915::314.00616::Patient::Uh, yeah, a beer like, per time, let's say. .
+312.76442::313.85965::Doctor::
+315.80596::317.07973::Doctor::What per time?
+317.51291::319.02643::Patient::Uh, let's say a beer.
+319.02604::319.91891::Doctor::OK.
+320.02643::322.71561::Patient::Four times a week on average, yeah.
+322.37111::330.04885::Doctor::Right, OK. Um, so, it, it may be possible that you might be having an infection in the urine.
+330.74938::331.55343::Patient::Uh-huh.
+331.43571::337.73862::Doctor::If you feel like you're, you're going, you're having a little bit of difficulty when you're passing urine.
+338.20882::338.89126::Patient::Yeah.
+339.76825::345.31531::Doctor::Um, it might be worth taking a three day course of antibiotics.
+346.00582::364.37271::Doctor::To clear that. Um, but, if the pain is getting worse, or you have a high temperature or back pain or develop any new symptoms, we feel like it's not getting better, then, um, we should speak to you again, because we might need to see you face-to-face for an examination.
+346.40475::347.19529::Patient::Uh-huh.
+364.7966::366.52633::Patient::Uh-huh, OK.
+366.30116::370.34245::Doctor::Um, have you allocated a pharmacy with Babylon?
+371.17497::372.57361::Patient::Uh, yes.
+373.25888::378.75236::Doctor::OK. So, are you happy to take a course of antibiotics, if I send it through to the pharmacy?
+379.26955::382.48576::Patient::Uh, yeah, that's fine. If it helps, yeah. OK.
+382.54368::391.67362::Doctor::OK, so I can do that for you. Start taking them as soon as you get them, it's just twice a day for three days. Um, if your pain's getting worse,
+388.47899::389.21547::Patient::OK.
+392.4177::398.20282::Doctor::um, or you've got new symptoms, just contact us straightaway, or if you're getting a recurrence of the same problem again.
+398.48572::402.12085::Patient::Uh-huh, OK. Sure. OK.
+400.45267::403.92855::Doctor::OK? Alright then, have you got any other questions?
+404.16814::409.08::Patient::Uh, no, that's fine. Yeah. Thank you. Thank you. Bye.
+405.79749::408.25564::Doctor::OK, thanks a lot. Bye.

@@ -1,0 +1,130 @@
+0.0::2.64429::Doctor::Hello?
+3.45123::5.42224::Patient::Hello. Can you hear me well?
+4.36912::12.33438::Doctor::Uh uh yes. I think. It's a bit better. It's a bit, it's a bit, it's not very clear. But let's continue anyway.
+12.66858::13.68308::Patient::OK.
+12.91077::15.6191::Doctor::Uh, OK. Let's start again. So how can I help you sir?
+16.58162::27.95837::Patient::Yes. So, it's been a few days now. I have like a sore, and a red skin. It's kind of, it's really itchy, and it's like super annoying. So I'd like to find something quick to solve it.
+24.95936::25.57047::Doctor::OK.
+27.81352::31.98713::Doctor::No, no problem. I'm happy to help. Um whereabouts in your skin is it affected?
+32.43662::41.52637::Patient::Uh, mostly like my chest, my, my hands, my arms. Like, like really, it's it's super annoying. Like it's itching a lot, like all the time. And
+41.52637::61.33756::Patient::I can't even sleep at night. I really need something quickly to, to solve it. Because even at work I, I can, when I'm in a meeting and I have to, like uh think about my work, I can't focus, I can't actually focus on my work. It's really annoying because I can't actually think about, uh, what I have to say. I'm always like, uh, disturbed by this disease.
+53.28569::53.81347::Doctor::Yeah.
+56.28569::56.6468::Doctor::
+60.95929::69.75094::Doctor::No no, OK. I'm certain this is obviously affecting you. And uh we'll try our very best to get get this sorted out for you. Um, have you had anything like this before in the past?
+70.97737::75.80326::Patient::Um so yes. Uh earlier I was like prescribed for my eczema.
+75.64676::76.27176::Doctor::OK.
+75.80326::86.43196::Patient::And they gave me like some cream, and something to, uh when I like shower, when I was in the shower, had to put something. But um
+84.46618::85.11896::Doctor::OK.
+86.64674::87.54952::Doctor::Did it help?
+88.85663::97.23909::Patient::Um I mean, at that time yes. That's, those symptoms, like these symptoms appear like, when the symptoms appeared again, I tried those and it didn't work.
+97.23909::107.40727::Patient::I've tried a few things. Like I bought a, a steroid cream at the pharmacy last night. But it apparently didn't help, because it's still itching a lot today. Uh, yeah.
+104.07031::104.73003::Doctor::OK.
+105.57726::106.23698::Doctor::OK.
+107.11893::109.01476::Doctor::Do you remember the name of the cream you bought?
+109.74059::111.27682::Patient::A steroid cream.
+111.09809::118.7439::Doctor::OK, steroid, OK. um would you say these symptoms are very similar to your eczema symptoms, or different?
+119.46519::120.74055::Patient::Um
+121.30577::130.13336::Patient::it's much more like itchy. And my eczema was more like only in the arm. But now it's also on the chest. And in the on the, on the hands as well.
+129.88971::130.59805::Doctor::OK.
+130.13336::134.87016::Patient::Like pretty, yeah when, like I like, for instance hiking, during the weekend. And
+133.60498::134.05638::Doctor::
+134.87016::151.13171::Patient::I am, I can't really do it anymore, because it's like very like I wanted to do that last weekend. And because super painful, and I I have to take like showers every day to be able to, cannot uh ease this itching part, which is very very annoying.
+143.15358::143.6883::Doctor::Yes.
+149.95218::156.41744::Doctor::No. Well OK. That's so you mentioned the itchiness. Um you also mentioned it's been quite sore.
+154.1317::154.79203::Patient::Yeah.
+156.41744::162.41048::Doctor::Um have you, have you noticed any uh bleeding or discharge from your skins?
+156.88451::157.98675::Patient::. OK.
+163.16064::171.59539::Patient::No. Um so my skin is a bit cracked in some parts, like kind of cracked, if you see what I mean. But uh, yeah.
+169.88963::170.50769::Doctor::OK.
+171.67436::176.14657::Doctor::You've not, haven't uh seen any other uh pus or blood, coming out of your skin.
+176.81276::177.81276::Patient::No.
+177.50768::180.22295::Doctor::No. And you mentioned it all started three days ago.
+180.91045::188.02752::Doctor::Are you, four days ago. Are you aware of any triggers, or anything that you may have done, that may have caused your symptoms to start?
+180.95767::181.92869::Patient::Four days ago.
+188.02752::194.38959::Doctor::So for example, have you changed your uh shower gel, any clothing?
+194.38959::196.16731::Doctor::Have you been around anyone else?
+195.41753::215.1749::Patient::No I . It's actually like, it's really annoying, because I'm thinking about, maybe I should change something. Because I I haven't, and I don't understand I cannot, um afraid of asking people around me because it's cannot you know um, I don't feel really comfortable asking about these questions. It's kind of intimate that. So I your help now.
+213.13955::213.85483::Doctor::Mm.
+215.15344::218.04492::Doctor::Mm. No no, OK. That's OK. Um
+218.04492::228.11174::Doctor::Fine, so just to resummarize. For the last four days, you've had very itchy skin, very sore skin all over your body, mainly your chest. And did you also mention your arms and legs as well?
+225.91398::226.61183::Patient::Yeah.
+229.60027::235.56612::Patient::Uh, no. Just the chest, hands and like, like inside the elbows. Yeah.
+231.57702::232.18118::Doctor::
+234.49368::236.62562::Doctor::OK. anything on your face at all?
+238.05887::238.97584::Patient::Am I what?
+238.7159::239.86173::Doctor::On your face?
+240.68663::241.88494::Patient::On my face? No.
+241.6395::247.377::Doctor::No, OK. And apart from this, any other symptoms have you noticed? For example, have you noticed any temperature or fevers?
+248.82474::251.79794::Patient::No. just very itchy. Nothing else.
+250.41866::254.58532::Doctor::Itchy. OK. So your, your bowels are working OK?
+254.58532::259.05059::Doctor::Your chest is OK? No cough, no breathing difficulties?
+259.99695::260.6405::Patient::No.
+261.14086::262.84919::Doctor::You're passing urine OK.
+264.40274::265.57554::Patient::I I think so.
+265.5228::267.91863::Doctor::OK, alright. Um
+269.09919::273.73112::Doctor::It's always good to know. So, I mean, do you have any ideas as to what could be causing your symptoms?
+275.18163::276.02973::Patient::Any what?
+275.93251::278.93945::Doctor::Any ideas, as to what could be causing your symptoms?
+279.40653::289.98619::Patient::Um so I had eczema before. So maybe it's disease, but it seems like more uh, like uh my eczema was only on the arms. So, I'm I'm not sure. I I really have no idea.
+288.64776::289.16859::Doctor::
+289.79041::294.9653::Doctor::OK. That's OK. So um, normally at this stage I like to examine you. Um
+294.9653::304.16856::Doctor::To see the rash itself, to see exactly what type of rash it is. But from what you've told me, you mentioned it's, you've got some dry skin and some, uh cracked skin as well.
+304.16856::308.10605::Doctor::Uh and has been very itchy. And so would your um
+304.70489::305.22185::Patient::Yeah.
+308.9255::312.46407::Doctor::Uh your your background of eczema. Um
+312.46407::312.83183::Doctor::So
+312.83183::320.0::Doctor::Sorry to say, there's a couple of questions I wanted to ask you, which I completely forgot, my apologies. Um, apart from the eczema, do you have any other medical problems I should be aware of?
+320.49329::325.13095::Patient::Uh, no. I just had asthma in the past. But not anymore.
+324.1963::328.72407::Doctor::OK. Not anymore, OK. And do you take any regular medications at the moment?
+329.50775::331.06608::Patient::Uh no.
+331.03656::333.43934::Doctor::No, OK. Do you have any allergies to anything?
+332.99283::335.62366::Patient::I like some , sorry? Yeah?
+336.44628::339.76754::Doctor::sorry I said do you have any allergies to anything?
+345.7032::346.16848::Doctor::
+346.86987::347.53654::Doctor::Hello?
+347.58013::349.04591::Patient::Hello? Yes.
+348.53654::352.92542::Doctor::can you hear me? That's alright I think it . Uh do you have any allergies at all?
+353.05434::354.84098::Patient::Ohh, allergies. Uh, no.
+354.97403::361.64763::Doctor::No, OK. Um and tell me about your um uh your situation at home. Who do you live with?
+362.91341::374.15973::Patient::Uh so, I live with a few flatmates. I'm a, so you know I'm thirty one. Uh I, yeah I'm I have a full time job. And so I'm living with a few people to save money.
+375.14065::376.87676::Doctor::OK. And what do you do for work?
+377.65247::381.27207::Patient::Uh I work uh at a pharmaceutical company.
+381.27207::392.76834::Patient::So it's been a, it's been a few years now. Uh it's uh, it's kind of interesting. We're working I'm a, like a kind of project manager. Uh I mean, do you want to, to know more about it?
+392.70311::401.82115::Doctor::OK. Uh no no no that's , that's absolutely fine. Um just a couple of questions I want to ask you, which can sometimes affect your symptoms, is, do you smoke at all?
+402.88423::403.59602::Patient::No.
+403.49476::406.07114::Doctor::No. And do you drink much in the way of alcohol?
+404.84783::405.52191::Patient::
+407.07263::420.26097::Patient::Uh you know, once in a while I can, I like hanging out with people once in a while. So yeah I'd say a few, a few beers per week. Something like this. Nothing, nothing crazy. I used to drink a lot more when I was younger. But it's been, it's been a while.
+418.50167::427.41906::Doctor::OK. OK. OK I've got to say, at this stage I've got to say this sound quality is not uh great. But I will continue because we've come this far. Um
+427.41906::433.87255::Doctor::So um, based on everything you mentioned Sarah , I do wonder whether this is a flare-up of your eczema. Um
+427.5363::427.93732::Patient::
+433.87255::439.52416::Doctor::The reason being that you said it was quite itchy. Um it's mainly affecting your chest and your back.
+439.52416::451.09372::Doctor::Um and uh, having looked at your skin, uh the the the rash does appear quite familiar. Um you mentioned using steroid creams, yesterday.
+441.50725::442.27005::Patient::
+451.09372::458.98778::Doctor::Um from the pharmacy. I wonder whether giving you a stronger prescription of a of a steroid may be beneficial.
+458.98778::465.96792::Doctor::Uh, which I'm happy to prescribe to you today. As well as, I'm going to give you something, some emollients, which helps to moisturize the skin.
+459.08688::459.94195::Patient::OK.
+462.07238::462.85499::Patient::OK.
+465.96792::473.20635::Doctor::Um which use in the bath and shower. And it's definitely worth um using that for the first seven to ten days.
+466.20281::467.20281::Patient::OK.
+473.20635::476.79576::Doctor::Uh before we make the decision on whether it's working or not.
+473.47814::474.24626::Patient::OK.
+476.79576::483.23229::Doctor::Um it's also worth um using antihistamines, which you can sometimes buy over counter.
+483.23229::489.38691::Doctor::Things like Loratadine or Piriton, which can help the itchiness of your skin.
+487.85489::488.85489::Patient::OK.
+489.38691::499.4713::Doctor::And uh, um it's also worth keeping a diary of any triggers which are affecting your symptoms, anything you wear or anything you use, in terms of shower gels or soap.
+499.4713::503.79752::Doctor::Because if that's causing your symptoms, then we need to have a discussion about an eczema CU.
+504.01423::509.34754::Patient::OK. Yes, I have tried antihistamines, uh lately, but it didn't really help.
+510.41834::512.04086::Doctor::Ohh, could you say that again, sorry?
+512.31855::516.75331::Patient::I have tried uh antihistamines, but uh but it didn't really help.
+514.23954::514.8753::Doctor::OK.
+516.66889::523.29253::Doctor::OK. So it's something for you to think about. you can get different types of antihistamines. I can give you something a little bit stronger today as well.
+523.29253::529.61705::Doctor::Um, something like Fexofenadine, which I can give to you today. It's definitely worth trying, and it's not going to do you any harm.
+523.76777::524.36436::Patient::OK.
+529.61705::535.03428::Doctor::Um but I think using the steroids and the emollients, um on a regular basis
+535.03428::542.90184::Doctor::Uh over the next week to ten days, should hopefully control your symptoms. But do come back and see me next week, if things don't get better.
+543.59377::544.70971::Patient::That sounds good.
+544.70317::547.25947::Doctor::OK? Um do you have any questions for me?
+547.84398::555.81111::Patient::Uh, no that's it. Thank you very much. Bye. Thank you as well. Bye.
+549.5045::551.23298::Doctor::OK. Well I wish you all the best.
+552.66344::553.76278::Doctor::Thank you. Have a good day.

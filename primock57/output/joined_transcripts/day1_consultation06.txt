@@ -1,0 +1,162 @@
+0.0::1.16957::Doctor::
+1.98681::2.80859::Doctor::Hello?
+5.25268::6.12411::Patient::Hello there.
+6.52517::8.49063::Doctor::Uh, hello. Can you hear me OK?
+9.89015::11.32545::Patient::Yes, I can hear you.
+11.19759::18.99477::Doctor::OK, great. . I am, yes. Nice to see you here, Oscar. Um, how can I help you this afternoon?
+12.20114::13.27534::Patient::Are you the doctor?
+20.30431::24.92749::Patient::Um, I'm, contacting you because I've been, quite short of breath lately.
+25.12387::28.77699::Doctor::OK. Do you want to tell me a bit more about it? When did it all start?
+30.38203::34.75851::Patient::Uh, well it seems to have been, slowly getting worse over the last couple of weeks.
+34.75851::39.31141::Patient::Um, now it's, become quite troublesome, in the last few days.
+39.31141::51.42723::Patient::Uh, I kind of, normally I can walk to the shops, without a problem but, now I'm having to sort of sit down and catch my breath. And I'm really starting to get a bit breathless, just about the house.
+39.43389::40.05316::Doctor::
+51.42723::55.13031::Patient::And uh, it's got me kind of worried, don't really know what's going on.
+51.44375::52.15294::Doctor::OK.
+55.14737::58.13629::Doctor::OK. OK. Is there anything you're particularly worried about?
+60.12699::67.16879::Patient::Um, well, I've, I've uh, I've got um, heart failure.
+66.84291::67.71438::Doctor::OK.
+67.16879::72.25455::Patient::Uh, I was told that, uh, a while ago.
+72.25455::81.73894::Patient::Um, and I got a bit breathless when I was first diagnosed, and put on some medicine that, that um, that helped, but I'm a bit worried it's just getting worse.
+72.65622::73.26625::Doctor::OK.
+75.33206::75.9916::Doctor::Right.
+79.35911::80.08786::Doctor::
+81.55836::87.42339::Doctor::Right, OK. So you mentioned you're feeling, uh, short of breath for the last couple of weeks, but mainly the last couple of days it's got a bit worse.
+87.42339::98.76156::Doctor::Um, uh, and you're now feeling more breathless on kind of minimal, minimal exertion you mentioned. Um, have you noticed any other symptoms at all, uh, uh, with your breath? So, for example, any pain in your chest?
+100.66643::102.0048::Patient::No pain in my chest.
+102.13958::105.62029::Doctor::OK. And have you found yourself coughing, coughing at all?
+104.07804::104.64334::Patient::Um.
+107.06404::110.53598::Patient::Uh, I've got a bit of a dry cough, but it's not too troublesome.
+110.53661::117.3852::Doctor::OK. OK. And how's your general health otherwise? Are you feeling uh, weak, lethargic?
+119.02871::125.07787::Patient::Um, I'm feeling a little run-down, um, but otherwise, otherwise pretty normal.
+124.97833::125.77094::Doctor::OK.
+125.3143::127.1967::Patient::I've noticed my ankles have got a bit bigger.
+127.44067::129.09519::Doctor::OK. And what do you mean by that?
+130.65187::134.81223::Patient::Uh, it's just like, it's sort of swollen up a bit.
+135.21376::137.71019::Doctor::OK. Um, is that, is that both ?
+137.23004::143.34749::Patient::Kind of . Um, yeah, both ankles. Yeah, it's a bit embarrassing.
+138.72937::139.7912::Doctor::Both ankles?
+143.3403::149.34216::Doctor::OK. Uh, I can imagine, yeah. Um, and again, over how long has this, have you noticed this for?
+150.53588::153.41994::Patient::Um, I kind of noticed it the last few days.
+153.38634::156.95303::Doctor::Past few days, OK. And is this something that you've had before, in the past?
+158.59053::165.10107::Patient::Uh, I think my ankles did swell up a bit last time, the heart failure was a problem.
+164.91211::177.5494::Doctor::OK. OK. Um, fine. OK. So, um, just to really recap, uh, so you're really, in the last couple of weeks, uh, you've been feeling breathless, uh, but worse in the last couple of days. You mentioned you had a bit of a dry cough.
+177.5494::188.8029::Doctor::Um, and some swelling in your ankles. Um, reporting no chest pain. Um, and, and have you had any, have you any, have you noticed your heartbeat racing at all? So, palpitations or skipped heartbeat?
+189.59231::191.01405::Patient::No, not really.
+190.90742::193.2775::Doctor::OK. And any temperatures or fevers?
+194.54148::195.37719::Patient::Uh, no.
+195.45548::198.79222::Doctor::OK. And how about your appetite? Are you eating and drinking OK?
+199.83826::201.6807::Patient::Yeah, I, , I'm, that's fine.
+201.74069::204.94935::Doctor::OK. And your waterworks? Are you passing urine OK?
+206.37634::212.50676::Patient::Uh, yeah, but yeah. I usually pee a lot, , ever since the drugs .
+209.65125::211.91301::Doctor::Yeah.
+212.95752::222.59168::Doctor::Sure, OK. Alright. Um, fine. So, your uh, your past medical history. You mentioned heart failure. Any, any other medical history I should be aware of?
+223.94152::227.98017::Patient::Uh, well I was told I had like a, they called it like a small heart attack.
+228.4078::236.39453::Patient::About, five years ago. Um, I uh, I had, I, I had like some chest pain and, they took me into hospital.
+236.33841::237.02774::Doctor::OK.
+236.89584::240.50586::Patient::And um, they, uh, but then I just got better.
+240.92337::247.34717::Doctor::OK. And when, when you say a small heart attack, did they give you a name, for what happened, a, a name of a diagnosis?
+241.79845::242.46321::Patient::Um.
+248.74342::254.98492::Patient::Uh, I can't remember. They just called it something a , uh, something like that, a small heart attack.
+254.83827::259.24702::Doctor::It's more hard to say. OK. Was it like angina or, um,
+259.5493::260.08281::Patient::Um.
+262.04843::265.7762::Patient::Uh, no they, they said that it, uh, it seemed, it was like, more than angina.
+265.7452::266.52414::Doctor::OK.
+266.38949::275.89917::Patient::Um, uh, but um, I didn't, but I only had to stay in hospital for a few days, and, uh.
+274.50751::275.33603::Doctor::OK.
+277.08535::277.79437::Doctor::OK.
+277.33735::279.17637::Patient::And yeah, I've been OK since then.
+279.05065::285.28593::Doctor::You've been OK since then. OK, alright. So, apart from the uh, the heart, the heart problems, the heart failure, any other problems I should be aware of?
+286.70948::289.41962::Patient::Uh, no, I think I'm otherwise, I'm OK.
+289.26053::296.29227::Doctor::OK. Um, do you take any regular medications, apart from your diuretics that you're taking? And do you know which ones?
+296.01702::298.83989::Patient::Uh, yeah, I take something called Furosemide.
+299.16188::301.01212::Doctor::. Do you know which dose you're taking?
+301.91235::305.63843::Patient::I can't remember, I'm sorry doctor. I have to check.
+304.48156::305.17737::Doctor::That's OK.
+306.32917::307.98788::Doctor::No problems. Um,
+308.76779::310.03753::Doctor::Any other medications?
+311.34711::314.40739::Patient::Uh, yeah. I take Aspirin.
+314.26421::314.88887::Doctor::OK.
+315.7831::317.83985::Patient::And uh, Bisoprolol.
+319.18168::320.42114::Doctor::The Metoprolol, was it?
+321.2668::321.77569::Doctor::Or?
+321.66159::323.19015::Patient::Uh, Bisoprolol.
+323.23652::325.61275::Doctor::Sorry, the connection's not very good. OK. Thank you, yeah.
+327.59884::328.04542::Doctor::
+327.62244::330.17316::Patient::Um, .
+330.15647::334.92524::Doctor::And a thousand, OK. Alright. Any allergies at all? Any medications?
+334.99924::337.43402::Patient::Uh, no, no allergies.
+335.90842::336.39234::Doctor::No.
+337.50574::346.03922::Doctor::OK. And is there anything in the family that's, uh, that, that's uh, that's important for me to know? Any family history of medical problems, heart problems, lung problems?
+347.37602::351.63688::Patient::Uh , my, my father died of a, uh, of a heart attack.
+351.54958::356.22806::Doctor::I'm sorry to hear that. And, um, how old was your father when he passed away?
+357.21658::360.99918::Patient::Uh, he was, um, early sixties.
+360.60552::364.43661::Doctor::Early sixties, OK. Alright. Anything else I should be aware of?
+365.92671::369.24554::Patient::Um, my mother had osteoporosis.
+369.09228::369.75988::Doctor::OK.
+371.10631::372.40958::Doctor::Is your mother still with us?
+373.89502::375.57887::Patient::Uh, yeah, she's still living.
+375.6122::382.27899::Doctor::OK, alright. Um, and socially, sir, just tell me a bit more about your situation at home. Who lives at home with you?
+383.20017::387.63764::Patient::Uh, I live on my own. Well, I got two cats.
+387.65125::390.44021::Doctor::You've got two cats. OK, great. Do they have names?
+391.50368::399.88316::Patient::They're my family. Uh, they're, they're called, um, they're called, Polly and Tim.
+399.68442::400.43372::Doctor::OK.
+401.49403::407.72623::Doctor::Um, so it's just you and your cats. And um, in terms of day to day, are you working at the moment?
+409.02807::414.72371::Patient::Uh, I work part-time as, a, uh, lorry driver.
+415.42778::418.78555::Doctor::OK. And how is that? Is that quite stressful, long hours?
+419.5063::427.44759::Patient::Uh, it's OK. Um, I uh, yeah , when I'm working it's pretty exhausting.
+427.34909::428.12206::Doctor::Mm.
+427.44759::433.96662::Patient::Um, I guess I'm a bit worried, that if I get sick I won't, if I get more sick then, I won't be able to work properly.
+434.12588::442.45237::Doctor::Yeah, that's certainly a consideration, isn't it? So let's, let's try and get you better soon, so it doesn't have any um, impact on your, on your job.
+440.56422::441.09621::Patient::No.
+442.45237::448.83909::Doctor::Uh, and do you find yourself doing a lot of anti-social hours? Do you , do you do a lot of night driving, weekend driving?
+449.86195::450.37919::Doctor::
+449.94506::454.92651::Patient::Ohh no, I , I , I, I only take shifts during the day, I don't like working at night.
+453.27933::453.89029::Doctor::OK.
+454.82237::461.5624::Doctor::OK, alright. And what about smoking and alcohol? So, 'cause that can sometimes be very important when it comes to heart problems. Do you, do you smoke at all?
+463.17101::464.18736::Patient::Not any more.
+464.41062::465.94137::Doctor::So, you used to smoke?
+467.36127::468.03021::Patient::Yeah.
+467.93582::470.11031::Doctor::And how many did you smoke a day, on average?
+472.58476::476.90256::Patient::Ooh it was about, about a pack a day, back in the day.
+476.88757::480.13303::Doctor::Um, and how many, how many years was that for?
+481.59313::485.12935::Patient::Ohh that was, oof, good twenty five years.
+485.14758::492.22894::Doctor::OK. And what about the stopping? That must have been difficult for you. stopping. Um, and what, what about alcohol?
+493.67167::494.9989::Patient::I don't drink alcohol.
+494.91516::497.54315::Doctor::OK. Do you do much in the way of exercise, sir?
+499.04237::502.96825::Patient::Uh, I try and walk to the shops, at least once a day.
+502.94261::503.71876::Doctor::OK.
+503.52118::511.50776::Patient::Um, but uh, that's about it, I've. Yeah, I don't, I don't go running like I used to when i was young.
+504.5563::505.29536::Doctor::OK.
+511.40004::517.94921::Doctor::Right, OK. And certainly now your symptoms, you, you're, you said you're feeling more breathless even walking to the uh, to the shop, she said.
+517.94921::528.84486::Doctor::Um, right. Ohh um, based on your, based on you history, and having listened to your story, I, I wonder whether you've had a flare-up of your heart failure, sir. Um,
+528.84486::532.98363::Doctor::Which can sometimes happen. Um, um, and uh,
+530.08577::530.77026::Patient::Mmm.
+532.2634::532.65706::Patient::That.
+532.98363::541.20454::Doctor::It's . So, it seems like your heart's not pumping as well as it should be. Um, and obviously having diagnosed with heart failure, there's obviously
+533.55503::534.37561::Patient::What's going on.
+541.20454::547.636::Doctor::Um, that's the first thing that comes to my mind. Um, now there's a couple of options move forward. Um,
+545.10023::545.84308::Patient::Mmm.
+547.636::554.71038::Doctor::Given that you're otherwise well at the moment, and having examined you, your chest, and your saturations and blood pressure are all OK,
+554.71038::561.88415::Doctor::I'm quite happy to increase your dose of Furosemide. Maybe, rather than one tablet a day, we can do two tablets a day, for the first few days.
+562.24535::565.12839::Doctor::Um, and see, and see how you're getting on.
+566.30142::568.17512::Patient::OK. If you think that'll be better.
+566.91901::567.56009::Doctor::Uh,
+568.37219::580.06464::Doctor::I think, I think, it's, it's, it's definitely worth treating your symptoms. But what we should also think about is maybe doing a couple of other tests, like a blood test, and maybe an echocardiogram of your heart, to see how well your heart's pumping.
+581.27871::582.08565::Patient::OK.
+582.46829::591.36774::Doctor::Is that something you've had before? Yeah, so um, an , it's a, it's a general scan of your heart. You might have had this done before, when you were diagnosed. And it's just to get a good
+582.99439::583.7668::Patient::What does that?
+590.95354::592.07616::Patient::Ohh yes, I remember now.
+593.04324::593.77254::Doctor::Sorry?
+594.76762::597.36097::Patient::Uh, yeah, I remember now. .
+595.80791::604.6319::Doctor::You remember that. OK, fine. That's something I can organize for you today. And, and that might take a week or two weeks for that to be organized. But, I think certainly in the meantime, let's, um,
+604.6319::612.6443::Doctor::Let's, let's get a blood test done. We can check your um, you know your full blood count, look for signs of anemia. We can have a check of your kidney function.
+612.6443::620.4561::Doctor::Um, and we can definitely increase your um, your Furosemide, uh, to you know, one tablet twice a day.
+620.4561::625.7375::Doctor::But I really like, would like you to come back and see me in about a week's time, see how you're getting on. That sound reasonable?
+626.68295::628.02518::Patient::I think that sounds like a good plan.
+628.5853::642.0411::Doctor::And of course, in the meantime if you are getting more unwell, feel like you're getting more breathless, or you're having any other symptoms like chest pain, or palpitations or dizziness, then, uh, you know I want you to give me a call sooner than that, and we can have a chat on the phone as well.
+643.02608::645.0855::Patient::OK. I'll see how I get on.
+645.34993::646.99823::Doctor::OK? Do you have any questions for me?
+648.89708::652.07099::Patient::Uh, I think that's all pretty clear. Thank you very much Doctor.
+651.85868::656.98958::Doctor::Great, and then well I wish you all the best! Have a good day. OK. Thank you.
+654.25629::656.08548::Patient::OK. See you soon.

@@ -1,0 +1,121 @@
+1.24342::3.12499::Doctor::Hi there, it's Doctor Smith from Babylon.
+3.36485::4.0608::Patient::Hi.
+4.33552::7.48682::Doctor::Hi. Can you confirm you name, date of birth and your home address, please?
+7.79052::13.3513::Patient::Uh, Sandra Bullock, uh, twentieth of February, nineteen fifty eight.
+8.42761::11.28944::Doctor::Hello.
+11.28944::15.28942::Doctor::
+15.28942::16.63152::Doctor::And your home address?
+17.60129::22.29046::Patient::Uh, seven three four, court in St. .
+22.13151::26.88148::Doctor::OK, that's fine. Uh, are you in a private place that you can have a consultation at the moment?
+27.07422::28.22963::Patient::Yeah, yeah, I am.
+28.59845::30.36831::Doctor::OK, what can I do for you today?
+30.93908::36.84446::Patient::Um, well, like five days ago I started having problems like a cough, and my nose is just constantly streaming.
+37.57222::41.51957::Doctor::OK. And, and are you normally fit and well?
+42.13498::47.35793::Patient::Yeah, normally I'm diabetic, but other than that, like, generally pretty good.
+47.50639::51.32874::Doctor::Right, OK. So, just tell me about the last, did you say five days?
+51.61467::53.21602::Patient::Yeah, five days or so ago.
+53.17084::55.44715::Doctor::OK. How about your cough at the moment?
+56.12142::60.29707::Patient::Uh, it's quite bad. It's kind of quite dry, um.
+61.09437::64.56058::Patient::I'm coughing maybe every twenty, thirty minutes or so.
+64.61158::66.90104::Doctor::OK, you bringing up any phlegm at all?
+67.74976::68.74976::Patient::No.
+69.17077::71.29576::Doctor::No. Any chest pain?
+70.243::70.74976::Patient::No.
+71.99975::73.243::Patient::Chest what, sorry?
+72.91418::74.61154::Doctor::Any pain in your chest?
+74.84434::75.78353::Patient::Uh, no.
+75.99312::81.01283::Doctor::Any difficulty breathing, feeling short of breath or any pain when you take a deep breath?
+81.41865::82.66189::Patient::No, that's all fine.
+82.6444::84.99966::Doctor::Have you coughed up any blood or anything like that?
+85.55088::86.05817::Patient::Nope.
+86.32202::88.86148::Doctor::And what about your nose symptoms?
+89.62464::92.96673::Doctor::Are you front of your sinuses or anything?
+89.73495::91.98495::Patient::Uh, just .
+93.2218::99.1955::Patient::Uh, nothing up in here but just constant streaming, like, using a million tissues.
+98.86801::101.493::Doctor::OK. And any blood coming from the nose?
+101.77446::103.49815::Patient::No, it's pretty green.
+103.86141::107.89429::Doctor::Right, OK. Any other symptoms, like sore ears? Sore throat?
+108.10343::119.60624::Patient::Uh, I I've been feeling really hot, um, I don't know if it's fever as such, but, like, to touch I'm quite hot but sometimes I'm feeling really chilly, needing to be under a blanket, that sort of thing.
+119.22974::121.82184::Doctor::Have you checked your temperature with a thermometer?
+122.26138::123.61665::Patient::Uhh, no, I haven't.
+123.86788::128.09812::Doctor::OK. Um, and are you eating and drinking normally?
+128.87982::138.61013::Patient::Uhh, yes. Um, kind of around when it started, I had some diarrhoea, but I don't know if that was associated. But since then it's all been pretty fine.
+138.79542::142.60461::Doctor::OK. So, you're drinking well, holding down fluids OK?
+143.23515::143.78778::Patient::Yeah.
+143.80856::145.49934::Doctor::And passing water OK?
+146.05094::147.10357::Patient::Yeah, that's fine.
+146.63092::148.38749::Doctor::No vomiting, diarrhoea now?
+148.66278::149.22857::Patient::No.
+149.64407::154.36773::Doctor::OK, that's fine. Um, any rashes that you've noticed?
+154.73517::157.82729::Patient::Rashes? Uhh, no, nothing like that.
+155.51904::156.14405::Doctor::Yeah.
+157.62431::160.16377::Doctor::Any headaches or change in your vision?
+160.4194::164.77468::Patient::No, um, I've had quite achy muscles, but that's pretty much it.
+165.38086::169.34794::Doctor::OK. And normally, do you have any chest problems?
+170.12996::171.18918::Patient::Uh, no.
+171.14399::173.96635::Doctor::Do you ever get wheezing, short of breath?
+174.9984::178.87999::Patient::Uh, I mean, like, if I do intense exercise, then yes. But not .
+177.94659::185.40645::Doctor::. And, do you regularly have any infections in your chest, or anything that needs treatment, normally?
+185.91949::191.89978::Patient::No, uh, I've got hypertension, um, so I'm on some drugs for that, um, but that's it, really.
+191.7952::195.24255::Doctor::OK. Um, any other medical problems?
+196.79454::200.08402::Patient::Uh, just the hypertension and the diabetes.
+199.83463::202.14384::Doctor::OK, and what type of drugs are you on?
+202.76166::208.76169::Patient::Uh, I think something called metformin, and lisinopril I think is the other one.
+209.20961::211.70302::Doctor::OK, and when did you last have your blood pressure checked?
+213.03144::220.50515::Patient::Uh, ooh, uh, a while ago. Um, .
+217.95958::221.27535::Doctor::Do you know if it, do you know if it's been stable?
+221.93279::223.32753::Patient::Uh, I can't remember.
+223.24245::230.57793::Doctor::OK. And with your blood, with your diabetes, have you had a blood test recently?
+231.46572::235.72889::Patient::Um, yeah. Like.
+236.7881::240.33417::Patient::Yeah, it was normal. It was around three weeks ago.
+240.81471::244.20285::Doctor::OK, and do you know what dose of the lisinopril you're taking?
+244.88682::247.48551::Patient::Uh, two hundred.
+248.36731::256.41332::Doctor::OK. Have you been able to pass water normally? Any increase in in frequency that you're passing water or any increased thirst?
+257.16976::259.63029::Patient::Uh, no, not particularly.
+259.75542::261.87383::Doctor::And has your weight been stable?
+262.72241::263.47241::Patient::Yeah.
+263.47909::265.57777::Doctor::What is your weight and height?
+265.86057::272.51849::Patient::Uh, my height is five foot five, and my weight is sixty five kilograms.
+272.87378::275.57771::Doctor::OK. And do you smoke at all?
+275.93298::276.6764::Patient::
+276.65666::278.22244::Doctor::You drink any alcohol?
+278.71588::280.74878::Patient::Yes, the odd cherry.
+281.41981::284.12376::Doctor::OK.Um, who do you live with at home?
+284.51853::286.5909::Patient::Uh, my partner and my dog.
+288.13032::289.70926::Doctor::And do you work?
+290.27512::293.30803::Patient::Uh, yes. I'm an office manager.
+293.21582::293.98556::Doctor::OK.
+295.2224::300.99868::Doctor::And have you been doing anything yourself to help with the symptoms? Anything that you've bought in the chemist?
+302.01859::308.49888::Patient::Um, uh, a quite a few lemon sips. Um, they seems to be helping.
+306.97233::307.77497::Doctor::
+308.58418::312.38021::Doctor::Do you, what, what do you mean by quite a few? How many in, in a day do you normally take?
+312.7489::316.59102::Patient::Uh, maybe two or three. Maybe, like, at the start of the day and at the end of the day.
+316.88678::319.44598::Doctor::OK. Have you noticed any improvement in that?
+320.32129::323.71604::Patient::Yeah. It tends to soothe my throat a bit for when I'm going to sleep.
+324.46572::328.32096::Doctor::OK. Um, do you have any allergies to anything?
+329.14369::333.64371::Patient::Uh, I sometimes suffer from some, like, hay fever. But, um, but it's not bad
+332.242::335.80778::Doctor::Any . Any allergies to any medications at all?
+336.05161::337.61082::Patient::Not that I'm aware of, no.
+337.82752::358.21594::Doctor::OK. So, what you've described to me, it sounds like you, you probably have got an infection in the chest, um, because it's, it, you know, you're obviously getting symptoms of from your nose and your chest. Um, it sounds like you might have a high temperature, it's definitely worth getting a thermometer and checking your temperature.
+358.49908::361.57804::Patient::OK. I can just get one of those at a pharmacy or something?
+361.90049::380.10253::Doctor::Yeah, and most of the time, these infections are caused by viruses, so they do normally settle by themselves. But it can take, you know, a week or two, um, and you can persistently have the cough ongoing longer than that.
+380.81823::384.10849::Doctor::Um, the important thing to do would be to take your temperature.
+384.80648::404.20239::Doctor::Um, and if you feel like, if the temperature's ongoing, above thirty seven point five, thirty eight, um, and you keep spiking temperatures and that's not settling down, or your cough's getting worse, you're coughing up lots of nasty phlegm or you cough up any blood or get blood coming out your nose,
+404.20239::419.5849::Doctor::um, or any shortness of breath, chest pain, then we certainly would need to speak to you again. With the diabetes you are a bit more likely to get a bacterial infection than if you didn't have the diabetes, so it's something we do need to be careful of.
+411.11116::411.85458::Patient::OK.
+420.62436::424.96648::Patient::OK. So, then we would at potentially antibiotics at that time, perhaps?
+424.74596::430.77279::Doctor::Yeah, potentially. If it is, if it's not settling or the temperature's ongoing, getting worse, then we definitely need to talk to you again.
+430.92703::431.7165::Patient::OK.
+431.77279::435.0211::Doctor::Um, have you got any other questions?
+435.63757::438.04547::Patient::Um, no, that's all fine.
+437.95558::451.29112::Doctor::It's fine to carry on what you're doing at the moment, with the lemsip. I wouldn't take, and that, that contains paracetamol so don't take any other paracetamol containing products, um, with that at the same time.
+445.79295::446.33111::Patient::Yeah.
+451.29112::464.63848::Doctor::Um, the cough syrup isn't advisable in the daytime because it's best for your body if you just keep coughing. But if you're kept up all night and you can't sleep at all, then it, it's OK to have a little bit of cough syrup, just to settle that down.
+465.35481::466.5127::Patient::OK. Cool.
+467.21566::483.1206::Doctor::OK? Do you have blood sugar checking equipment? Do you check? No, OK. Well, if you make sure that you have the regular diabetes and blood pressure checkups that your GP has asked you for?
+468.55876::469.15744::Patient::Yep.
+473.11798::474.40746::Patient::I'm not at home.
+483.42779::483.94697::Patient::Yeah.
+484.32126::489.23998::Doctor::OK, great. Alright then, take care. Bye.
+485.05881::485.67723::Patient::
+486.73644::489.17998::Patient::Alright. Thanks so much. Bye.

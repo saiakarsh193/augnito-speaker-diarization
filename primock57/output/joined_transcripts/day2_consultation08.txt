@@ -1,0 +1,133 @@
+2.45501::3.91671::Doctor::Hi, good morning!
+4.26919::5.27595::Patient::Hello there!
+5.16203::8.32119::Doctor::Hi there, this is uh this is Doctor Dean from .
+8.89728::12.40754::Patient::Hello there? Um, I'm wondering if you can help me today.
+9.88458::10.70075::Doctor::
+12.51157::19.09408::Doctor::OK, sure, I'll try. Before we start, could I please confirm your full name and date of birth?
+19.63066::26.49907::Patient::Yes, it's Sarah Smith, and it's the second of November, um, nineteen ninety two.
+26.65824::30.64145::Doctor::That's great! Thank you, sir. So are you in a private place where you are OK to speak at the moment?
+30.82101::32.49965::Patient::I am indeed, yes.
+32.20623::34.32093::Doctor::OK, so tell me what's been going on.
+34.91124::49.03756::Patient::OK. I, I've really not been feeling so well at all recently. I, I've been struggling with fever for the past week. Yeah, I would say it's about seven days ago. I'm just, I'm really hot and sweaty all the time, and just generally not feeling good.
+49.49031::55.99961::Doctor::OK, alright, sorry to hear that. Now, um, uh, along with this fever and this any other symptoms at all?
+56.78019::71.34289::Patient::Um, I'd say that I'm aching all over really, my muscles are really aching. I'm feeling quite nauseous, uh, so I've not been able to eat very much, and I have been drinking but it's been quite a small amount.
+71.75631::79.90073::Patient::Um, and, yeah, just generally quite tired and unwell. I'm sweating during the the the night, I'm quite cold.
+72.58463::73.3861::Doctor::
+80.30057::88.61967::Doctor::OK, all right. Um, and um, so you're having periods of when you're feeling hot, and also periods when you're feeling cold as well.
+88.90284::92.64263::Patient::Yes, yes, quite interchangeable, not really a pattern to it.
+92.87794::96.0285::Doctor::OK, uh, and have you been taking your medication?
+96.82066::107.2886::Patient::Uh, I've been trying to, like, take ibuprofen and paracetamol just to from over the counter, but it's not really helping, just been taking the recommended dose every day of those.
+107.61344::111.34123::Doctor::Sure, and when you say it's not helping, is it bringing the temperature down at all?
+111.86152::117.96931::Patient::Perhaps slightly, yes, but I'm still experiencing these symptoms, so, it does take the edge off a bit.
+118.08327::124.72109::Doctor::OK, alright. And can I just double check have you gotten any cough or cold or sore throat or anything like that?
+124.77242::129.3639::Patient::Mmm, not those sort of symptoms, really. Um
+128.46204::132.04416::Doctor::But which are you getting, other than the ones you've already mentioned to me?
+132.81586::136.5677::Patient::Um, so, I have a habit
+137.68512::147.19399::Patient::that it's mainly just the sweating, really, and the and the nausea, uh, that's overtaking all all day and, uh, the aching muscles all over.
+147.04839::149.65783::Doctor::Sure. Have you have you had any ear pain ?
+150.40279::155.29129::Patient::Mmm, no, my ears are fine, actually. I haven't had any problems with my ears.
+155.40296::163.99752::Doctor::OK, um, just, I just need to check for any other causes of infection in the body. So I'm gonna go through some, um, kind of systemic questions. Have you had any diarrhoea?
+164.90846::170.52088::Patient::And not, not really no, not that I can find.
+170.47564::173.06436::Doctor::OK. Have you got any neck stiffness at all?
+173.9908::179.08519::Patient::Um, no. My neck's, my neck's been fine.
+176.93127::177.73772::Doctor::OK.
+179.48991::181.68363::Doctor::Alright. Um, do you have any headache?
+184.19602::194.33181::Patient::Not more than usual, no. Just like the, general headaches but not, just from staring at the screen. No migraines, or anything.
+187.59895::188.27636::Doctor::OK.
+194.17413::198.23813::Doctor::OK, so, you know your normal headache, where is that, in the back of your head or the front of the head?
+199.12603::203.34405::Patient::Uum, it's quite centralized over, over the head.
+204.18305::206.87648::Doctor::OK. and how long have you been having that for?
+204.58309::205.56036::Patient::
+207.70068::220.62786::Patient::It's something that I've struggled with through, years really, just related to a screen use, or, uum, like changes in weather patterns. Yeah, high pressure days, sometimes I struggle with migraines, and headaches.
+213.73122::214.33606::Doctor::
+220.59185::224.33721::Doctor::OK. Um, have you got any rash on your body anywhere at all?
+225.22955::228.50677::Patient::Uh, I haven't noticed any rashes, no.
+228.52111::231.56291::Doctor::Uh, any joints swollen or tender or sore?
+231.97286::240.88507::Patient::Mmm, not really. I mean, I, I often have problems with back pain but not really any other joints.
+240.91531::242.06418::Doctor::OK, alright.
+241.92526::242.97575::Patient::Any problems?
+243.43295::249.39838::Doctor::Alright, and, um, have you got any kind of symptoms down below when you're passing urine?
+250.50987::252.54899::Patient::Uh, no, there's been no problems there.
+252.69636::255.31457::Doctor::OK. Any painful urination at all?
+255.95161::257.7717::Patient::Uh, not at all, no.
+257.71439::260.13639::Doctor::Are you passing urine more often than normal?
+261.18972::265.64157::Patient::Uh, I don't think so, no it's been fairly regular.
+265.62846::268.3511::Doctor::OK. Have you been abroad anywhere recently?
+269.25597::270.89507::Patient::Yes, I have actually.
+271.39673::272.29506::Doctor::Where have you been?
+271.74845::277.02255::Patient::I went to Vietnam. Uh, I came back four weeks ago now.
+278.06645::278.78879::Doctor::OK.
+279.88087::285.54445::Doctor::Uh, and, um, uh, did you take malaria preventative medication when you went out there?
+286.20249::287.59579::Patient::I did, yes.
+287.65772::288.99348::Doctor::Which one did you take?
+290.7118::293.54684::Patient::Ooo, I can't remember now, off the top of my head.
+293.26357::295.59481::Doctor::Was it a weekly tablet or a daily tablet?
+295.88179::297.42574::Patient::I think it was daily.
+298.42145::304.64316::Doctor::OK, um, and was it one tablet or was it another one that you would take on top of the first one?
+305.95172::309.67112::Patient::I think it was, uh another one that I took on top of the first one.
+309.92055::310.54649::Doctor::OK.
+311.41068::318.64137::Doctor::And, and what were you doing out in Vietnam? Was it just seeing the cities or going through villages or hiking? What what kind of activities were you doing?
+317.95945::327.26623::Patient::It was quite really, 'cause we were there for a few weeks, and we toured to, uh, several different parts of the country, and uh, the countryside and some cities as well.
+327.9206::335.19799::Doctor::OK. Uh, and um, did you do any kind of, were you in rivers or things like that? Were you, you know, how adventurous were you?
+336.16269::338.48574::Patient::I'm sorry, could you repeat that? I missed that.
+337.87683::344.05209::Doctor::Where you going out into the rivers? Were you going on beaches? I mean how adventurous was your trip?
+343.68061::355.23408::Patient::Yes, it was quite adventurous. We were sort of trekking and, um, cycling, uh, through the farmland and, um, seeing how people lived in a day-to-day life in, in, in farmland.
+355.09274::361.80591::Doctor::Right, OK. Um, thank you for sharing that with me. Now, do you have, um, any other illnesses at all, in the past?
+362.89155::373.11124::Patient::Mmm, as I said I've, I've been struggling with back pain for quite a while, but I haven't really had any, uh, major illnesses in the past, I can think of.
+373.08014::376.60664::Doctor::And that back pain have you, um, have you seen anyone about that?
+377.74983::381.38993::Patient::Yes, yeah, I'm under a physiotherapist at the moment for that.
+381.80468::384.70179::Doctor::Have they, have they give you any kind of diagnosis at all?
+386.33171::399.55274::Patient::Um, they've said that it's, u,h related to long periods of time sitting at a desk, and just, uh, bad posture. So mainly the exercises are focused on improving posture and, and to strengthen the muscles in the back.
+399.90621::403.56316::Doctor::Alright um, are there any illnesses in your family at all?
+405.04515::411.37089::Patient::Hmm, the main one would be, um, heart attack. My, my father passed away of that.
+412.4172::416.38071::Doctor::I'm sorry to hear that. Um, how old was he when that happened?
+412.67872::415.27432::Patient::in his sixties.
+417.69779::420.7319::Patient::Um, sixty eight, I think. Yeah.
+421.53048::424.6524::Doctor::OK. Um, are you on any medication at all?
+426.36493::428.6775::Patient::Uh, just Seroxat.
+429.76908::434.20528::Doctor::OK. Uh, do you have any allergies at all? medication?
+435.25789::438.32333::Patient::No, I've just really pollen allergy. That's all I have.
+439.31196::440.65815::Doctor::OK, so hay fever.
+441.21575::442.69114::Patient::Yes, yeah, just hay fever.
+443.04501::447.30591::Doctor::Alright. Um, are you, um, you're working at the moment?
+449.25202::450.9578::Patient::Uh, I am, yes.
+450.60708::451.9014::Doctor::What do you work at?
+453.21076::455.40366::Patient::I work as a nurse.
+455.97935::462.58521::Doctor::OK, all right. Um, and, um, you're up to date with all the vaccinations, Hepatitis B, and that kind of thing?
+462.90287::464.20864::Patient::Yes, indeed. Yeah.
+464.12536::465.12536::Doctor::OK.
+466.29332::473.26308::Patient::But I'm, I'm really struggling quite a lot at work at the moment. It's been quite difficult, feeling so, uh, tired all the time.
+468.91369::470.8334::Doctor::So, I can .
+473.01588::477.9721::Doctor::Sure, OK. Um, and, are you a, uh, are you a smoker at all?
+478.28565::479.64092::Patient::No, I'm not.
+479.48305::482.39547::Doctor::OK, and ohh do you drink much alcohol?
+482.75505::487.96111::Patient::Mmm, moderate alcohol intake. Yeah, I don't drink too much.
+486.17491::490.38978::Doctor::OK, and how much kind of physical exercise do you do normally?
+491.49746::496.54527::Patient::I try and do, uh, some moderate physical exercise a few times a week.
+496.74081::500.47917::Doctor::OK, that's good, alright, um, so, um
+501.256::509.72401::Doctor::What, uh, I think we're gonna need to do is we're gonna need to bring you into one of our clinics. Examine , and we're gonna need to arrange some blood tests as well.
+506.14877::507.01146::Patient::OK.
+509.72401::522.91322::Doctor::OK, um, so, what what I want to do is, the first question I have in my mind is that we need to find a reason for why you've got this fever and these symptoms, because there's no apparent reason from what you've told me.
+510.72334::511.52758::Patient::OK.
+522.91322::529.67298::Doctor::There's no, uh, when someone has got fever and sweats, we want to find out have they got chest infection, have they got a throat infection?
+529.67298::536.53753::Doctor::Um, and if we can't find a focus of infection, then that's something, that, that's an outstanding question that needs to be answered, OK?
+536.53753::541.75046::Doctor::Um, the second thing, second factor, is that you've recently come from, uh, Vietnam.
+536.85813::537.83924::Patient::OK.
+541.75046::551.56505::Doctor::And you've had exposure to rural areas. And we need to think about things like malaria or other exotic infections as well. So, um, you're probably gonna need some blood tests.
+551.56505::554.01613::Doctor::After you've been seen by somebody.
+554.01613::562.45708::Doctor::Um, now, the urgency of those blood tests depends partly on what we find when we examine you, which is why we're going to go, go for the examination first.
+562.45708::573.13298::Doctor::You come into one of our clinics in central London, that's one option, and then the the GP there who examines you can then decide on how urgent the blood tests and things are going to be.
+562.57795::563.46607::Patient::OK.
+573.13298::580.61851::Doctor::Or, if it's inconvenient for you to come into central London because you you're living further out, you could actually just attend a local A and E.
+580.61851::588.65858::Doctor::I'm going to type up what my thought process is and what kind of test I think you need in the notes for this appointment, so you could show that to them at reception.
+588.65858::592.37667::Doctor::Um, I'll be asking for something called thick and thin blood films, to check for malaria.
+592.37667::597.89769::Doctor::And inflammatory markers and things like those, technical terms, but they'll understand what that, what I'm talking about.
+597.89769::605.68783::Doctor::But, um, I, I don't think you can go into work, uh, until we've sorted this out. And we, we, we need to sort this out sooner rather than later.
+605.92592::613.69841::Patient::OK. That sounds great. Thank you so much for your help. I, I think, yeah, I can come straight into central London today to get that sorted.
+607.0389::607.74858::Doctor::OK.
+613.28639::618.81556::Doctor::OK, fine, so what I'm going to do is I will send a message to one of our admin team members asking them to book you in.
+618.81556::626.11124::Doctor::And if you can ring the number that I leave in your consultation notes, after a few minutes, and then they'll slot you in, and then we can sort things out from there. OK?
+626.53097::628.54019::Patient::That's brilliant. Thank you very much.
+628.35754::630.75143::Doctor::Alright then, OK. Take care then. All the best.
+630.78903::631.64859::Patient::Goodbye.
+631.52012::632.06522::Doctor::Bye.

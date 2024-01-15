@@ -1,0 +1,101 @@
+0.0::1.70589::Patient::Hi.
+2.05264::4.43774::Doctor::Hi there. It's Doctor Smith from Babylon.
+4.31095::6.21013::Patient::Hey. How are you?
+4.43774::10.20786::Doctor::How are you doing? . Good thank you. Can you confirm your name, date of birth, and your, home address please?
+10.67235::15.84888::Patient::Um, yes I can. Uh, it's, Mary Smith.
+10.93027::11.86476::Doctor::
+16.70602::24.06745::Patient::Um, I'm twenty eight, and I live at apartment four oh five, nine C, Clerkenwell Road.
+24.07625::27.73147::Doctor::OK that's fine. Are you in a private place so you can have a consultation today?
+27.96664::29.1095::Patient::Yes I am.
+29.13557::30.48896::Doctor::What can I do for you?
+30.77338::32.90784::Patient::Um, I keep having a headache.
+33.83485::35.80478::Doctor::OK, and when did it start?
+36.10115::38.45411::Patient::It started yesterday, um.
+39.31125::42.26085::Patient::Uh, it's unusual for me, to have a headache.
+42.24093::45.18081::Doctor::OK. Can you just tell me whereabouts in your head it is?
+44.47095::48.96369::Patient::It's on the left side at the back, sort of here.
+47.9327::50.99288::Doctor::. OK. Just on the left side.
+51.12648::52.01723::Patient::Yes.
+51.93273::55.30869::Doctor::And, when did it start? What time of day did it start yesterday?
+55.21894::56.80718::Patient::About mid-morning.
+57.35382::59.63955::Doctor::And how did it feel when it first started?
+60.12467::68.80129::Patient::Um, just quite, intense, and kinda quite throbbing. It kind of built up gradually after, over.
+69.52159::71.14345::Patient::A short period of time.
+71.32387::78.72244::Doctor::OK. And did you get uh, have you got any other symptoms along with that? Any nausea, vomiting, tingling, numbness, weakness, anywhere?
+78.97547::80.21917::Patient::No, nothing.
+80.92546::83.48098::Doctor::OK, and, uh. Sorry .
+84.61721::88.17363::Doctor::Um, any blurred vision, or any pain over your eyes?
+88.67305::89.89994::Patient::Um.
+90.82587::91.68145::Patient::No.
+92.80525::99.72261::Doctor::Any , any funny lights or, anything like that in your vision area? Any problems when you look into the light?
+92.97557::94.37894::Patient::No, .
+100.47985::101.26135::Patient::No.
+102.33165::104.79031::Doctor::Um, and have you been eating and drinking OK?
+104.957::107.32604::Patient::Yes, yes, like normal.
+106.264::109.54222::Doctor::. Are you feeling sick, or vomiting, or anything?
+109.44837::112.46313::Patient::No, nothing like that, .
+110.82794::114.21894::Doctor::Any high fevers? Are you feeling shivery? Sweaty?
+114.34549::116.34551::Patient::No, no fever, no .
+115.56481::117.85806::Doctor::Any , any rashes at all?
+117.94215::118.78249::Patient::No.
+119.09114::122.11372::Doctor::And, in the past, have you had any headache before?
+122.86656::124.11026::Patient::Not really.
+124.41449::131.77546::Doctor::OK. How bad would you say the headache is from, zero to ten, if ten is the worst pain that you could have, and zero is nothing?
+131.66362::133.90349::Patient::I'd say about eight.
+133.83562::137.28677::Doctor::OK. And have you taken any pain killers?
+137.59198::145.84993::Patient::Um, I took some, um, um, Nurofen, yesterday.
+145.95603::148.04627::Doctor::OK, and did that make any difference?
+148.00961::149.11045::Patient::Not really.
+149.80568::153.42977::Doctor::And last night, did you manage to sleep through the night OK?
+153.94243::155.86682::Patient::Uh, yes I did.
+155.76813::158.708::Doctor::Has it been worse at any particular time of the day?
+158.91539::161.83906::Patient::No, it hasn't made any difference, the time of the day.
+161.78321::167.84341::Doctor::Any difference if you lie down, stand up, bend over, cough or sneeze, or anything like that?
+168.06861::169.3533::Patient::Um, no.
+169.89606::172.84345::Doctor::And, have you got any other medical problems?
+173.56446::176.71575::Patient::Um, no I haven't.
+176.81341::178.97883::Doctor::Anything you take medication for?
+178.91744::180.10232::Patient::No I don't.
+180.38485::183.55029::Doctor::Um, any over-the-counter medications or allergies?
+184.09395::188.5898::Patient::No, only the, Nurofen I took yesterday, Ibuprofen.
+189.03154::191.81352::Doctor::That's fine. And any stomach problems, or asthma at all?
+191.85873::192.68226::Patient::No.
+192.7887::195.28722::Doctor::Anyone in your family got any medical problems?
+195.1011::200.07729::Patient::Uh, my mother's had hypertension, and she does get migraines.
+200.52786::204.05421::Doctor::. And, have you had your blood pressure checked ?
+204.48723::206.88407::Patient::Um, no, not recently.
+207.55048::209.16702::Doctor::And who do you live with at home?
+209.42191::210.42191::Patient::Sorry?
+210.28733::211.79861::Doctor::Who do you live with at home?
+212.01855::213.19503::Patient::My partner.
+213.64072::215.94901::Doctor::And what's your job, day-to-day?
+215.87572::217.23707::Patient::I'm a designer.
+217.19713::219.68587::Doctor::Have you had to miss any work at all?
+219.80271::228.57332::Patient::Uh, no, but I don't feel that, I'm finding it really hard to , to do any of, my work, or, normal things.
+228.37768::231.6935::Doctor::OK. Um, and do you smoke at all normally?
+231.73301::232.97672::Patient::No I don't.
+232.88147::234.86644::Doctor::Do you drink any alcohol regularly?
+234.86748::235.73303::Patient::No.
+236.21983::237.93413::Doctor::Um, and any other drugs?
+238.81709::239.81709::Patient::No.
+239.44541::253.85157::Doctor::No, OK. Um, I mean the fact that you haven't had headaches before, um, is, is unusual the fact that they've developed. Is there anything you think's changed? Any increased stress, , change in your diet or lifestyle?
+254.85638::258.98538::Patient::Not that I can, not that I can think of.
+259.34786::265.17498::Doctor::OK. So, what we would suggest is, trying a slightly stronger, pain relief.
+265.17498::272.41311::Doctor::Uh, so, similar to Ibuprofen, but taking instead of Ibuprofen not at the same time, and taking that regularly with food.
+265.3804::266.25435::Patient::OK.
+272.41311::278.03978::Doctor::Um, hopefully that will settle it down. You can take Paracetamol along with that.
+272.61576::273.61576::Patient::Yes.
+278.03978::290.80682::Doctor::Try and um, take rest, have lots of good hydration.Um, but if the pain's getting worse, or you get new symptoms, fever, rash, vomiting, neck stiffness.
+290.80682::299.70917::Doctor::Um, or you keep getting episodes of the same type of thing, then we need to speak to you, and, and make a plan for, for what we can do next.
+299.75054::300.85138::Patient::OK.
+301.59928::302.52365::Patient::Thank you.
+301.69414::303.76182::Doctor::Have you got any other questions?
+303.59928::305.94383::Patient::How long do you think it will last for?
+306.29567::312.16468::Doctor::Well I should think it should down, if it's getting worse or not settling in the next day or two.
+312.16468::318.10782::Doctor::Then certainly give us a call back, if, when you've tried the medication that I've prescribed from the pharmacy.
+314.26326::315.07838::Patient::
+318.43135::319.43135::Patient::OK.
+319.82963::320.82963::Doctor::OK?
+320.76749::321.89354::Patient::Thank you.
+321.67174::324.35597::Doctor::All right then. Thanks a lot. Bye.
+322.78243::324.55742::Patient::, bye.

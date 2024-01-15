@@ -1,0 +1,110 @@
+1.15856::2.34294::Patient::Hello?
+2.36091::8.75944::Doctor::Hi. Hi. My name is Doctor Jacob, and welcome to Babylon. How are you?
+6.76804::7.61995::Patient::Thank you.
+8.73915::14.98192::Patient::I'm I'm I'm good. I mean I I'm uh, so, I'm bad.
+13.42112::14.04518::Doctor::So.
+15.18804::22.74447::Doctor::Your , OK. Right so just before we start, is it alright if you could confirm your name for me please?
+23.203::25.04656::Patient::
+25.14495::27.0231::Doctor::And, your date of birth?
+27.63233::30.2491::Patient::Seventeen of January, nineteen eighty seven.
+30.39836::32.56406::Doctor::And your address for me, please.
+33.81951::37.42737::Patient::Uh, sixty Hanover steps. Um
+38.24078::44.81225::Doctor::That's good. And, just to confirm that you're in a secure location and we can have a confidential conversation.
+38.49599::39.1667::Patient::London.
+45.38229::45.95845::Patient::Yes.
+46.12804::53.68447::Doctor::OK. So, you mentioned in our notes that you've got, um, skin problem. If you can tell me a bit more about it, please.
+53.85397::60.8543::Patient::Yes, over the past few days I had uh, I've noticed my skin is uh, sore and red.
+61.24029::64.03791::Doctor::OK. So where is it sore and red?
+64.72398::72.62198::Patient::Um, it's uh, all over my chest, my hands and arms, and especially inside of the elbows. And, uh
+71.88006::74.87255::Doctor::that.
+74.20607::76.89739::Patient::on the, on the inside of the elbow.
+76.27105::79.33874::Doctor::Elbows, OK. Inside of the elbows, yeah?
+79.49179::81.28804::Patient::Which is the, the worst area.
+81.16581::83.95529::Doctor::Alright, area. Is it very itchy?
+84.55803::87.91817::Patient::It's very itchy and, uh, dry, all over my body
+88.25472::92.78993::Doctor::Itchy and dry, OK. Have you had something like this in the past?
+93.42976::97.44072::Patient::Yes, uh, if I haven't had
+97.54935::101.61704::Doctor::OK. Do you think this is similar to your usual eczema, or is it worse?
+102.07199::106.77784::Patient::Uh, I think it's, yeah, it's getting worse, like, the past few days. Way worse.
+105.34638::120.3164::Doctor::Yeah. But you, could be like something similar. So on the skin is there any, you know any of the patches, sore and you mentioned it's quite sore. Is it weeping? Is it like watery liquid coming from that area? Weeping?
+119.27873::120.0086::Patient::
+120.731::122.12632::Patient::No. No.
+121.24873::124.16603::Doctor::Nothing . OK. Right.
+123.55323::125.67775::Patient::But, but, not the areas that are cracked.
+125.92544::135.0082::Doctor::Yeah. So you have cracks over there, OK. And is there any scratch marks on your, on any of the, you know, areas, any scratch marks?
+134.73845::139.04926::Patient::I mean uh, it's very itchy if I scratch myself, but there's no scratch mark.
+137.5646::138.30896::Doctor::No.
+139.03076::148.92555::Doctor::OK. Is there any thickened skin? Like, you know, where it's, the skin's very, um, thick, and darkened areas?
+148.88422::151.74421::Patient::Mmm, no, no, I don't think, I don't think so.
+151.67745::160.50456::Doctor::OK. Uh, righty-ho. So, you've mentioned you've, got a history of eczema, so what do you do about it? How do you keep it under control?
+160.71748::168.93674::Patient::Yeah, usually I use a a a cream called diprobase. Uh, and in the shower I use something called dermal.
+164.82038::166.25647::Doctor::
+168.92565::173.99975::Doctor::Dermal, alright, and have you been using them recently, or not?
+174.25608::176.18738::Patient::Yes. Yes, I, I use them.
+175.78283::177.47456::Doctor::You use them every day?
+177.97545::182.11685::Patient::Yes I, there there's no change in that. I didn't change any .
+178.78283::179.33922::Doctor::
+180.67005::186.53474::Doctor::OK. Have you ever used steroids in the past, for your eczema?
+187.2191::188.52268::Patient::Um.
+189.99547::199.51035::Patient::I, I, I'm not sure. Uh, ah, yes, yes, yes, I remember now, I
+194.94081::195.99344::Doctor::
+197.4145::199.23405::Doctor::You've used steroids before?
+199.51035::204.0445::Patient::Um, but it, it's not helping.
+200.40698::201.45962::Doctor::
+202.77541::205.49722::Doctor::Yeah. Also, you're still using the steroids.
+205.65674::207.73575::Patient::Yeah, I tried. I tried.
+207.1159::211.21905::Doctor::Which one are you using, the steroids? What's the name?
+211.40512::216.59739::Patient::I'm not sure, it's uh, I would have the box is not there.
+213.41455::215.46719::Doctor::, is it the ?
+216.96343::220.30179::Doctor::OK. So, is it like the over-the-counter ones?
+220.96251::221.57178::Patient::Sorry?
+221.35442::227.45708::Doctor::Over the counter Hydrocortisone. That, does that ring a ? Yeah. So you're using the Hydrocortisone, yeah?
+224.12894::224.73159::Patient::Yes.
+227.8146::230.97102::Doctor::Are you using any antihistamines at all?
+231.43707::232.28939::Patient::I
+233.09126::233.7565::Patient::No.
+233.54998::236.07651::Doctor::No, no antihistamines. OK.
+236.61193::247.73804::Doctor::Right, fine. Otherwise, other than those rash, you're feeling well in yourself. There's no temperature, no joint pains, yeah? No fever?
+245.47026::250.43324::Patient::But, I remember that I've tried and it didn't work.
+250.28692::254.76063::Doctor::You've tried the antihistamines and it didn't work. OK which one did you try?
+256.14159::257.60997::Patient::The one over-the-counter.
+257.41477::259.79072::Doctor::OK, so like cetirizine, yeah?
+260.76816::267.44975::Doctor::Yeah, OK, that's fine. Right. OK, so from what you're describing,
+267.44975::272.84342::Doctor::It looks like, you know, it is quite widespread, your eczema.
+272.84342::284.76079::Doctor::Yeah? 'Cause you're having it all over your chest and hands and things like that. Um. So do you have any allergies to any medication at all?
+278.47966::279.47966::Patient::Mm-hmm.
+284.82329::286.3506::Patient::No, no allergies.
+286.11418::292.43751::Doctor::No allergies, OK. And you don't, other than eczema you don't have any other medical condition.
+292.41915::300.58121::Patient::I, I have asthma, and, uh, in my family, uh, there's hypothyroidism and migraine. My mother has migraine.
+300.415::304.42361::Doctor::Mother has migraine and, what was the other one, I didn't understand.
+304.05488::306.78414::Patient::hypothyroidism.
+305.20773::308.48272::Doctor::who who has hypothroidism?
+308.59574::309.59574::Patient::My mother.
+309.58798::318.90383::Doctor::OK. So, she has hyperthyroidism. OK. That's fine. Right here, you mentioned you have asthma. So, what medications are you using for asthma?
+319.71251::325.40339::Patient::Um uh, you know, probably neither. Uh
+324.47528::329.27982::Doctor::The blue inhaler? So you don't, you don't use it everyday, so you just use it on and off, yeah?
+329.91997::331.36243::Patient::Yeah. Yeah.
+331.19712::334.48285::Doctor::Blue inhalers. But your breathing's all OK, yeah?
+334.58502::339.94219::Patient::OK, yeah, yeah. It's only when I have a flare.
+335.56556::336.09939::Doctor::Yeah.
+338.5806::345.17323::Doctor::Sure. So, what we need to do is, obviously, you've got , as I've mentioned. So, extensive eczema.
+345.17323::354.40947::Doctor::What we'll do, we need a couple of minutes. Because to keep your a bit comfortable, we'll, you would probably need some antihistamines, which I'm going to prescribe.
+354.40947::365.04693::Doctor::Also, hydrocortisone is a baby steroid that you use for young children. You might probably need a bit more stronger one, like betnovateor something like that. OK?
+364.52137::365.0313::Patient::
+365.04693::378.02445::Doctor::So we'll try that first. So I'm going to it's called the antihistamine is called Fexofenadine. And then we'll try with some Betnovate first. So it's like very small amount, like it's like one fingertip.
+378.02445::382.75617::Doctor::Yeah. This much is, is enough to cover your palms.
+382.75617::391.46656::Doctor::And your - back of your hands, yeah? So it's very small amounts, so that if you can imagine you can cover with a very small amount the whole body.
+391.46656::397.01704::Doctor::Yeah. So use that. You, you have to use it twice a day, for the next couple of weeks.
+397.01704::411.03216::Doctor::OK. If, if there's no improvement, you need to get back to us. Or, if you have any kind of adverse reaction, like an allergic reaction, which is unlikely, but if it still happens you need to get in touch with us. OK?
+397.50093::398.14332::Patient::OK.
+411.54324::413.35254::Patient::OK. Thank you very much.
+411.96449::421.64577::Doctor::So, what we're going to do is, we're going to send off the prescription to your pharmacy. It looks like Boots on the systems, is that correct?
+421.64577::428.37813::Doctor::Yeah? Yes, so i'll send it across to Boot's. And it will be there for collecting.
+422.52429::423.36084::Patient::Yes.
+428.37813::435.9811::Doctor::If things are getting worse in the next two weeks, call us before hand. Otherwise, wait for two weeks, take the medication and the cream.
+435.9811::449.21284::Doctor::You still need to continue on your, emollients like the dermal soap, and, as well as the, diprovate. Yeah, so you still need to use those, in the interim. Any questions at all?
+443.56404::444.23503::Patient::
+450.55083::452.90222::Patient::No. No questions. Thank you. Thank you very
+450.93465::455.10343::Doctor::OK then. You take care then. Bye bye now.
+455.26848::455.88437::Patient::OK.
+455.58842::456.75423::Doctor::Bye. Bye.

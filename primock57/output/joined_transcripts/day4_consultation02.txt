@@ -1,0 +1,166 @@
+0.0::2.16547::Doctor::You have to do it, part of your training as a doctor.
+2.19108::2.83994::Patient::Hello.
+3.8285::4.68346::Doctor::Hi.
+5.68346::7.28778::Doctor::Hi. Can you hear me?
+6.75176::8.71946::Patient::. Yes, I can hear fine.
+8.5259::15.81228::Doctor::Hi. My name's Doctor Gohill, I'm one of the general practitioners, that works here. Can I check your name and date of birth please?
+16.69302::20.58903::Patient::Uh, I am, uh, Patrick Smith.
+20.57175::21.31985::Doctor::Hi.
+21.84857::24.22404::Patient::Uh, thirty five years old.
+25.19421::28.95831::Patient::Um, October, seventh. Uh.
+28.95831::33.90255::Patient::ninety , three something.
+31.43923::32.26365::Doctor::Great.
+33.84913::37.40717::Doctor::And Patrick, are you in a, space, that's private and quiet?
+37.37351::38.04527::Patient::Yes.
+38.10867::39.7915::Doctor::Great, and so, we're OK to chat?
+40.91483::41.7698::Patient::Yes, we are.
+41.76843::47.45653::Doctor::OK. So it says here, um, you are feeling hot, and have had severe headaches. Is that correct?
+49.41102::55.23626::Patient::Yeah. It's, it's really affecting my work. Uh, uh, it comes and goes. Uh.
+55.23626::62.44278::Patient::Uh, I kind of, feel like, uh, it's, it's hard 'cause I, I , kinda lose my appetite.
+62.99265::69.78196::Patient::Also. Uh, one thing that's kinda weird is, I just sometimes also get like some, tingling in my arms.
+70.15469::71.02377::Doctor::OK.
+70.9728::78.63168::Patient::. And, like, especially if, for example when I, come into the elevator, in the morning.
+78.49153::79.33123::Doctor::OK.
+79.19822::83.12747::Patient::I, I can uh, of have, my heart is beating, kinda fast.
+83.34046::84.12004::Doctor::OK.
+84.52874::88.43275::Doctor::So, those are lots of things. Are they all happening at the same time?
+88.23611::93.31742::Patient::Almost randomly like. Yeah, it's, it's, it's at different , times.
+93.65793::98.69705::Doctor::And, do they all happen at the same time? Or is it one thing one time, and one ?
+97.58924::99.97027::Patient::, one time, one thing at a time.
+99.76866::106.98722::Doctor::OK. So, let's start with the headaches. When they do come, do you have any idea the headache is going to come?
+100.78922::101.40166::Patient::
+102.33552::102.93452::Patient::
+108.22084::112.40526::Patient::Uh, not really but, generally during, work times.
+113.66064::114.93469::Doctor::So, it's normally at work?
+116.01805::117.95886::Patient::I'm at work, I'm in a meeting, or on my laptop.
+117.88236::123.24363::Doctor::OK. And, where does the headache sit in your head? Is it the front, or the back?
+124.92932::129.81182::Patient::Um, I can't say, so like, kind of over.
+128.13463::132.4009::Doctor::. OK. And, does it else?
+130.99518::131.7865::Patient::
+133.57785::134.16939::Patient::
+134.08385::135.48531::Doctor::Does it go anywhere else?
+135.72643::140.10844::Patient::, the headache? No, it's mostly in the front, and then yeah, it just kind of stays there.
+141.68628::146.37919::Doctor::And, when you have the headaches, specifically, do you feel sick?
+145.13466::145.76824::Patient::Yeah.
+150.03929::156.9728::Patient::, not, not, not really, but it's like, making it hard. I, yeah, I kind of feel a little bit nauseous maybe. Um.
+155.99437::156.88547::Doctor::OK.
+158.71735::160.42883::Patient::And sometimes I also feel like.
+161.82787::168.09634::Patient::Uh, yeah. It's like uh, maybe, probably, breathing or something.
+168.21876::169.10917::Doctor::OK.
+169.09919::169.6721::Patient::No.
+169.56176::173.42736::Doctor::And, do you normally get headaches, before all of this started?
+175.25901::176.29986::Patient::Uh, so.
+177.26103::180.80138::Patient::No, I, I feel like my, like, health situation was mostly under control.
+178.14334::178.74639::Doctor::
+180.62316::181.23385::Doctor::OK.
+181.68251::182.23367::Patient::Yeah.
+183.17756::184.11243::Doctor::And then let's.
+183.55251::186.92932::Patient::But it , it started roughly when I changed jobs.
+186.86629::189.69869::Doctor::OK. So, talk to me about your job, what do you do?
+189.92866::190.82776::Patient::I'm a lawyer.
+191.53054::194.63896::Doctor::And, do you work in London at the moment?
+195.1393::195.85686::Patient::Yes.
+196.03651::199.09704::Doctor::So, do you get these headaches on your commute in to work?
+201.21088::205.00179::Patient::Not really. I get it, mostly when I'm, at work.
+204.97179::211.04393::Doctor::OK, and tell me about what you do. Do you sit in front of a computer most of the time? Or do you speak to people?
+210.91804::214.51724::Patient::Like fifty-fifty. I go to meetings and then uh, sit in front of a computer.
+214.69142::215.69142::Doctor::OK.
+215.09786::216.38302::Patient::There's a lot of reading.
+216.97919::220.66985::Doctor::And, these things have happened mostly when you're sitting at your computer?
+223.44509::224.62641::Patient::Um.
+226.49852::229.44564::Patient::, yeah, it happens then, yeah.
+229.52128::232.52838::Doctor::OK, and tell me, what did you do, before being a lawyer?
+234.8479::237.01192::Patient::Uh, no, I was a lawyer at previous job as well.
+236.90024::237.48687::Doctor::OK.
+237.52946::237.93153::Patient::
+238.21149::248.70847::Doctor::So, talk to me about the stress that you're under at the moment. If, uh, ten out of ten is, extremely stressful, and one out of ten is being on vacation. Where would moment?
+247.41754::248.16295::Patient::
+249.01877::251.38457::Patient::Think it's, seven, or eight.
+251.59007::253.10636::Doctor::And, is that normal for you?
+255.34142::257.78273::Patient::Yeah, it's like, a law firm, like, there's always pressure.
+258.73618::259.49253::Doctor::OK.
+260.26533::266.15323::Doctor::So, you mentioned your headaches. You also mentioned your reduced appetite. So, you don't want to eat as much.
+266.29485::266.9208::Patient::Yeah.
+266.90806::268.21373::Doctor::Have you lost weight?
+269.59765::270.2694::Patient::Yes.
+270.54126::272.42281::Doctor::Can you remember how much you've lost?
+273.90885::274.74091::Patient::Five pounds.
+275.88292::279.40801::Doctor::And, is that because you're going to the gym? Or is that unintentional?
+279.43059::280.87876::Patient::It's not intentional, no.
+280.71456::284.65367::Doctor::OK. So, have you noticed your clothes feeling looser?
+285.8417::288.29529::Patient::, not really, ah, no.
+289.02114::292.05141::Doctor::And, have people said, or commented that you've lost weight?
+292.60229::293.26641::Patient::No.
+294.79622::300.23849::Doctor::Great. And, another thing that you also mentioned. Is that you noticed tingling in your hand.
+300.71204::301.39298::Patient::Yeah.
+301.45432::304.55505::Doctor::So, talk to me about that. Is it in one hand? Or both hands?
+305.09195::305.68737::Patient::Both.
+306.41188::308.61086::Doctor::And, do you get that in your legs as well?
+308.96527::309.53016::Patient::No.
+311.24731::313.27186::Doctor::And, what does it feel like, the tingling?
+314.8303::316.66989::Patient::Quick picking, yeah.
+318.73786::321.59108::Doctor::And again, is this the first time you've noticed this?
+322.68316::323.23278::Patient::Yeah.
+323.7477::324.52633::Doctor::OK.
+325.65583::331.14158::Doctor::And the other two things that I've just, jotted down. Is, you're feeling hot, but you didn't mention that.
+331.70469::332.84291::Doctor::Is that correct?
+332.14837::333.28182::Patient::
+334.54396::335.69882::Patient::Uh, but like.
+336.84705::342.74614::Patient::I would say like, I get this like, feeling of, short, like, , short of breath, sometimes.
+341.13143::341.85662::Doctor::OK.
+343.76373::346.78273::Patient::So, like, that could be what, you we're, referring to.
+346.75295::350.23866::Doctor::Yes. So, do you feel short of breath while you're sitting at your desk?
+350.22006::353.10002::Patient::Yeah, no. Yes. Sorry, yeah.
+352.24586::357.07321::Doctor::. OK. And, how about when you're exercising?
+358.42683::359.02225::Patient::No.
+359.14263::359.84753::Doctor::OK.
+360.41176::364.97252::Doctor::And the last thing is. You mentioned that you noticed your heart beating?
+365.83262::366.46621::Patient::Yeah.
+366.51868::368.45866::Doctor::Again, how often do you get that?
+370.19804::375.77664::Patient::I, I, when I like, it's maybe once a day, uh, maybe more. Uh.
+377.52064::382.25568::Patient::There's one more thing that I, I think I should mention, like, I do have like, some loss of libido at home.
+382.30056::385.4489::Doctor::OK. How long has that been happening for?
+387.34595::390.40758::Patient::Same amount of time really, like, since I changed my job.
+392.02897::397.49036::Doctor::Fine. And, apart from all of these things that you've told me. Do you have any other medical problems?
+398.21552::400.68814::Patient::Uh, well I have, hyperthyroidism.
+402.34056::405.08048::Doctor::OK. And, do you take medications for that?
+405.40924::406.23366::Patient::Thyroxine.
+407.53779::410.07297::Doctor::And, are you remembering to take your medications?
+410.68161::411.42207::Patient::Yes.
+411.38276::413.95112::Doctor::OK. And, do you drink or smoke?
+414.56412::415.13664::Patient::Yes.
+415.34164::416.71371::Doctor::How much do you drink?
+418.12237::420.78428::Patient::Like, once a week, couple of glasses, of wine.
+420.79286::422.6274::Doctor::OK. And, how about smoking?
+422.80972::423.45858::Patient::No.
+424.95114::431.30369::Doctor::And, uh, I need to ask this to all of my patients, but do you do anything else recreational, in terms of drugs?
+433.5046::434.15345::Patient::No.
+435.61306::438.88645::Doctor::OK. So, you've never taken cocaine, or marijuana?
+437.22304::439.56998::Patient::. No.
+440.37566::443.37567::Doctor::OK, thank you. And, are you allergic to anything?
+443.21862::443.76823::Patient::
+446.09669::453.29196::Doctor::Good. So, you've told me lots of things happening to you at the moment, and I can understand, they probably feel quite strange and unusual.
+453.27957::453.99713::Patient::Yeah.
+454.32069::459.97264::Doctor::Um, I think the best course of action is, you come and see, one of our doctors, in the clinic.
+459.98673::460.55925::Patient::Yeah.
+460.23174::465.20039::Doctor::We can give you an examination, and what that means is, we check your heart and your breathing.
+465.3496::465.82543::Patient::Yeah.
+465.61504::468.51247::Doctor::Make sure that those things are functioning correctly.
+468.3641::469.00532::Patient::Yeah.
+468.51247::472.01383::Doctor::And probably do some blood tests, for your thyroxine.
+472.11484::472.71026::Patient::Yep.
+472.92892::475.17014::Doctor::And take it from there. How does that sound?
+475.55792::477.66524::Patient::That sounds, uh, very good. Thank you.
+477.34704::481.16695::Doctor::I think before we give you any medications, we should see you in person.
+481.56699::482.99027::Patient::OK. .
+482.10122::490.24412::Doctor::So, what we're going to do is book an appointment. Or I think you can book an appointment through the app, to come and see us clinic, and see one of my colleagues.
+487.20257::487.78451::Patient::Yep.
+488.55417::489.11242::Patient::Yep.
+490.51716::491.04514::Patient::Yep.
+491.12099::495.17786::Doctor::I'll let them know what you've told me today, so you won't have to repeat exactly what you've said.
+495.44663::496.16022::Patient::Thank you.
+496.46942::499.10972::Doctor::Great. Do you have any questions?
+497.3037::497.82786::Patient::Right.
+499.12082::500.70923::Patient::No, that was it. Thank you very much.
+500.62035::501.65621::Doctor::Thank you very much.
+501.70726::502.7554::Patient::Yep, bye.

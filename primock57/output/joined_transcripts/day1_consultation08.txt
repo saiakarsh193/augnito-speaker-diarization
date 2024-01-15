@@ -1,0 +1,119 @@
+1.34286::3.32857::Patient::OK. Ohh, OK.
+4.1438::5.1876::Doctor::Hello?
+5.74345::7.14286::Patient::Hello, can you hear me?
+7.04941::12.45186::Doctor::Hello. Uh, just before we go any further, can I confirm your name and, age please?
+12.92857::16.35714::Patient::Uh, my name's Itha, and I'm twenty six.
+16.11587::18.43471::Doctor::Twenty six, OK. And how can I help you this afternoon?
+19.11429::23.95306::Patient::Um, so basically, I've been really stressed at work for the past few days.
+23.95306::29.17514::Patient::And, I've realised that I've got, really dry itchy skin.
+29.46363::34.09349::Doctor::OK. Um, sorry to hear work's been so stressful. Um.
+34.09349::40.52154::Doctor::Tell me more about your skin first, Lou. Tell me uh, you mentioned it's been dry and itchy. Um, whereabouts on your skin?
+41.52857::45.6::Patient::All over my arms, um, and my hands mainly.
+45.536::48.85483::Doctor::OK. Um, and is this something you've had before?
+49.67143::51.65714::Patient::Uh, no. Never had .
+52.15916::56.50697::Doctor::So, uh, did it, did it come about quite suddenly, or was it more, kind of a gradual thing?
+57.09496::58.83698::Patient::I think it started a few days ago.
+59.07218::66.42457::Doctor::OK. And, has this spread anywhere else? Has it spread to your, to your chest, your legs, your face?
+65.93697::67.71429::Patient::
+68.20399::78.46337::Doctor::No, OK. So apart from being dry and itchy, um, any other symptoms? Has it been sore? Has it been, uh, have you noticed any cracked skin?
+80.34286::87.75815::Patient::Um, so my skin's quite red, um, and I'm using coconut butter for the past few days.
+87.69521::89.38158::Doctor::OK. Has that.
+88.79412::94.21597::Patient::I don't have any spots, and no fever , and I'm not sweating either.
+90.60174::91.49229::Doctor::OK.
+94.33031::101.32311::Doctor::Thank you, for mentioning all those. Um, OK. Uh, so the coconut butter hasn't helped, with the itch?
+101.12689::102.67143::Patient::No, .
+101.32311::101.34919::Doctor::
+102.33719::106.9125::Doctor::OK. And, uh, you mentioned work's been quite stressful. What do you do for work?
+108.34874::111.15714::Patient::Um, I work as a teacher.
+111.18179::115.62261::Doctor::OK. And, uh, in what way has work been stressful?
+117.08571::119.5::Patient::I think the kids have been really annoying these days.
+120.69504::122.44866::Doctor::OK. .
+121.71092::124.6::Patient::And, I've been working really long hours.
+124.80285::128.50911::Doctor::OK, all right. Well I'm sorry to hear that, and I hope it gets better.
+128.50911::141.65145::Doctor::Um, going back to your skin. I mean is it anything you've done perhaps, uh, which may have triggered your symptoms? Anything you've touched or, you know, for example shower gels, soaps, fabric , fabric cleaners?
+140.81765::144.55462::Patient::, I went swimming a few days ago.
+144.11521::147.88331::Doctor::OK. Is that the first time in your life or have you been before?
+148.50924::150.10924::Patient::Uh, no, I've been before.
+150.05467::154.0572::Doctor::OK. And did your symptoms start after you went swimming?
+155.18655::156.43277::Patient::Uh, yes, .
+156.27458::162.68869::Doctor::OK, all right. Um, you mentioned you've had no other fevers, is that right? No fevers? No vomiting?
+163.53361::164.6563::Patient::No.
+164.4767::166.94119::Doctor::No. How's your health otherwise?
+167.85714::170.52857::Patient::It's pretty good, yeah. I'm not on any medication.
+171.10059::178.33372::Doctor::And all , we'll get to medication in just a second. Um, , do you, do you feel generally run-down? Do you feel tired?
+179.68571::183.02857::Patient::Uh, yeah, I think I have been, quite tired.
+182.91212::187.15848::Doctor::OK, OK. Are you eating and drinking OK?
+188.47311::190.98403::Patient::Yeah, I've been drinking, and eating as normal.
+190.53528::194.25695::Doctor::Your appetite's fine is it? OK. And your bowels, are your bowels working OK?
+195.02605::195.77143::Patient::Yeah.
+196.01913::199.50584::Doctor::Uh, no, no problems with vomiting, or loose stools?
+200.30336::201.38571::Patient::No.
+201.30534::205.3468::Doctor::OK. And your waterworks are uh, all OK? You're passing urine OK?
+205.70084::206.45714::Patient::Yep.
+206.3468::213.17285::Doctor::OK, all right. Um, so just moving on. In terms of your other medical history, is there anything else I should be aware of?
+214.61344::217.20924::Patient::I'm currently taking .
+217.40471::218.80392::Doctor::Microgynon.
+219.23109::219.97899::Patient::Yeah.
+220.01595::221.41919::Doctor::OK. Do you know what that is?
+221.94202::222.97143::Patient::Uh, no.
+222.72353::225.09066::Doctor::OK. , it's a contraceptive pill
+226.84286::228.28571::Patient::
+227.20741::230.44813::Doctor::Does that make sense? Is that something you're, is that, does that ring a bell now?
+230.90252::231.6874::Patient::Ohh yeah.
+231.44813::235.73796::Doctor::OK. Is there, any other medications that you take?
+236.02857::237.11429::Patient::Uh, no.
+236.73796::245.83936::Doctor::No. So, in terms of your medical history, there's no, problems of skin problems in the past, things like eczema or, um, dermatitis?
+246.91681::249.23109::Patient::Uh, no, I think it might just be the weather.
+251.20165::252.98184::Doctor::Sorry what was that? You think it's.
+254.01191::254.70888::Doctor::The .
+254.06302::255.68151::Patient::I think it might just be the weather.
+257.20163::258.13923::Doctor::The weather?
+258.77143::264.08571::Patient::Yeah, .
+259.2596::262.54258::Doctor::Ohh, you think the , OK. You think the weather, OK.
+263.51583::269.96968::Doctor::OK. No that's OK, no, no problems. Well um, uh, move . Do you, do you suffer from allergies? Are you someone who suffers from allergies?
+270.56302::271.74538::Patient::Um.
+270.96968::273.56227::Doctor::Food allergies? Medication allergies?
+273.67311::277.84286::Patient::I think, um, I might be lactose intolerant.
+277.62183::285.65077::Doctor::Lactose intolerant, OK, that could be helpful to know. Um, fine. And tell me of family history, is there anything in the family that you're aware of?
+287.17647::293.98571::Patient::Um, yeah, so um, my dad has asthma, and, my mum has hayfever.
+293.98406::301.79561::Doctor::Hayfever, OK. Um, fine, but any, again, any skin problems that you're aware of?
+295.6916::296.2916::Patient::Yep.
+302.40672::303.37143::Patient::Uh, no.
+303.22296::307.52207::Doctor::No, OK, all right. Socially, who do you live with at home?
+308.35714::309.48571::Patient::Ohh, it's just me.
+309.49641::310.56991::Doctor::Live alone?
+311.05714::312.05714::Patient::Yep.
+311.69708::315.71003::Doctor::And, uh, do you smoke at all? Do you, can I ask? Do you smoke? Are you a smoker?
+315.61428::317.52857::Patient::Uh, no, I don't smoke.
+317.49492::319.43509::Doctor::Do you drink much in the way of alcohol?
+320.07311::320.94286::Patient::Uh, no.
+321.99205::323.4023::Doctor::Recreational drugs?
+323.86975::324.58403::Patient::No.
+324.86383::327.96373::Doctor::OK. And you said you , you work as a primary school teacher?
+328.4::329.81429::Patient::Yes, that's right.
+328.99819::338.37155::Doctor::Uh , the reason I ask is sometimes stress can be a , contributing factor. Um, you felt, you noticed yourself, find, uh, , life's been more stressful recently. Is that right?
+339.83677::342.41922::Doctor::Do you think that might have any correlation to your symptoms?
+344.11176::346.8::Patient::I don't. I certainly think so.
+346.51675::352.47042::Doctor::OK, all right. Um, fine. Um.
+353.97039::360.2583::Doctor::OK, well, normally at this stage I like to proceed to examination, but um, based on your uh, story.
+360.2583::374.81207::Doctor::Um, it's difficult. I think that, you know, , you've, essentially the story is you've got a dry itchy rash on your, mainly your hands. you mentioned. Um and your arms which started, perhaps after swimming a few days ago.
+374.81207::382.07392::Doctor::Um, but no other symptoms, you're feeling otherwise, well, no fevers, no bleeding or discharge from skin.
+375.38571::376.0042::Patient::Yep.
+382.07392::388.35894::Doctor::I wonder whether you may have something called dermatitis. Um, have you heard of that condition before?
+388.86218::389.97983::Patient::I have, yeah.
+390.36747::400.25455::Doctor::OK. Um, great. Well I can give you a patient information leaflet about that, which gives a bit more information about the disease, but, um, it, it's something that we can readily treated. Um.
+400.25455::405.21347::Doctor::With couple options, we have steroid creams I can give you, um, which will help with the inflammation.
+405.21347::411.42437::Doctor::And, uh, something called emollients, which can help with the dry, dry skin.
+411.42437::420.76032::Doctor::And that's something you just need to kind of paste on, uh, on to your skin, uh, , throughout the day for the next few days. Um, and hopefully that helps your symptoms.
+422.77647::424.71429::Patient::OK, it's cool. Thank you very much.
+424.49747::432.2303::Doctor::Um, , you can also try antihistamines, so you can get things over the counter, Piriton, Loratadine, they can sometimes help with the itchiness.
+436.14286::437.5::Patient::Yeah, that sounds good.
+437.00804::442.50438::Doctor::OK. And um, that's probably what I recommend. Paracetamol on this occasion, wouldn't be helpful.
+442.50438::449.43923::Doctor::Um, uh, uh, painkillers wouldn't be helpful , on this occasion, but let's, let's, let's see how the next few days go.
+449.43923::453.9053::Doctor::And if it's still not getting better, come back and see me next week, and we can have another look again, at your symptoms.
+454.74286::456.58571::Patient::OK, perfect. Thank you very much.
+456.51354::458.00359::Doctor::Right. Do you have any questions for me?
+458.57143::459.57143::Patient::Uh, no.
+459.17024::461.9651::Doctor::OK. Well, I wish you all the best. Have a good day.
+462.37143::464.24105::Patient::Well, thank you very much. Bye.
+463.38033::464.73432::Doctor::Thank you. Bye bye.

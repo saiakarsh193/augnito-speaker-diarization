@@ -1,0 +1,135 @@
+1.13534::3.3609::Doctor::Hi there. It's Doctor Smith from Babylon.
+5.05262::8.14078::Doctor::Can you confirm your name, date of birth, and your home address, please?
+8.37818::11.50211::Patient::Um, it's .
+12.17535::12.77671::Patient::
+16.63152::23.43232::Doctor::. Um, I can't hear you at the moment actually. Could you turn it up, the, volume up?
+24.35058::26.04331::Patient::Uh, can you hear me better now?
+24.55129::28.14275::Doctor::. Yeah, that's better. Thank you.
+27.48116::29.72937::Patient::Um, OK. Sorry about that.
+29.52621::32.48861::Doctor::Are you in a private place you can have a consultation?
+32.52001::33.65724::Patient::Uh, yes.
+33.72169::35.57131::Doctor::What can I do for you today?
+35.96427::48.06749::Patient::Um, I've been having this, blinding headache for a few days. Um, and it's like, really bothering me and , I find it very hard to focus or, like I can't even go to work.
+48.48103::51.73666::Doctor::OK, and any headaches in the past before this?
+52.19129::64.59513::Patient::Not really just they're, on and off. Um, I recently had a, a one for like two days, um, but it just went away with Ibuprofen, so nothing like, more, longer than two days before.
+64.42081::66.19525::Doctor::So, how did this start?
+66.7976::74.3842::Patient::Um, it just started all of a sudden. I woke up one morning with a headache, and that was three days ago, and I just keep having it.
+74.3842::81.07702::Patient::Doesn't really go away with Ibuprofen either, I try that, but it just. It gets a little bit better but like, doesn't go away.
+80.98466::83.71397::Doctor::OK, and whereabouts in your head is the pain?
+84.07678::90.32451::Patient::Um, it's kind of all over but, I feel like over my right eye, it's um bit, stronger.
+90.68387::96.24776::Doctor::OK. Any problems with your vision? Or, any problems tolerating the light?
+97.12772::104.18229::Patient::Um, lights definitely make me more sensitive. Like, um, I don't really, like strong lights.
+104.18229::113.21771::Patient::Um, and um, yeah, vision I think, I get this, shooting light sometimes.
+113.83859::118.93625::Patient::Um, not sure how to explain it. Just a bit of um, weird kind of vision.
+120.11231::125.20252::Doctor::OK, and um, any, any nausea or vomiting?
+125.28268::129.18361::Patient::Uh, no, feeling a bit sick, but no vomiting.
+129.40551::132.72129::Doctor::Any tingling? Or numbness? Or weakness anywhere?
+133.40942::134.73676::Patient::Um, no.
+135.17993::138.62353::Doctor::Any change in your smell or taste?
+139.85532::141.05768::Patient::No, none at all.
+141.84908::146.39042::Doctor::Um, and, in the past, when you've had headaches, what have they been like?
+147.553::155.64547::Patient::Um, I was sick but I had no more headache, it's just um, a bit of a pressure, in between my eyes, um.
+156.3955::157.9371::Patient::But nothing major.
+158.35277::163.47822::Doctor::OK, and, with, with this, has it been there all the time? Or is it coming and going?
+163.92461::174.84606::Patient::Kinda all the time. Um, so when I take Ibuprofen it gets a bit better, so it's a bit, like less um, it, it bothered me less, but then I still have it, it's still there.
+175.37526::184.01432::Doctor::Um, and what would you say, the severity is? If, if ten is the worst pain you've ever had, and zero is nothing, what would you say the pain is like?
+184.30339::189.80286::Patient::I guess it's mostly, eight, and then it kinda comes down to maybe a five.
+190.98422::194.23233::Doctor::OK, and what about at night-time, are you able to fall asleep?
+194.52861::197.20106::Patient::Um, yeah, I'm, sleeping well.
+197.12706::199.38269::Doctor::Is it waking you up in the night-time?
+199.18308::202.37327::Patient::No, no, no. But I can wake up with it in the morning.
+202.57817::207.81123::Doctor::OK. Any worse when you change position, or bend over, or cough, or anything like that?
+207.78349::208.9025::Patient::Mmm.
+209.67042::221.51549::Patient::Sometimes when I stand up, quickly I get a bit of a, stabbing pain. Um, or if I throw my head like, it I kind of feel like something is moving inside.
+221.26982::225.50289::Doctor::OK. And have you had any, uh, eye checks recently?
+225.8416::230.39574::Patient::Um, yeah, actually had one recently and, nothing changed my vision.
+230.34497::238.91203::Doctor::OK. And have you had any cold symptoms, sore throat, sore ears, or pain over the sinuses? Any cough or flem?
+236.84648::238.50113::Patient::No, no.
+239.44788::240.4033::Patient::
+239.47254::243.90882::Doctor::No. Any, any nose bleeds, or coughing up any blood or anything?
+244.40688::245.14995::Patient::No.
+245.48025::255.57795::Doctor::And just recently, have you been well, or have you had any general problems? Any change in your weight? Or, tiredness, lack of energy, anything like that?
+255.85791::268.13666::Patient::Um, no change of weight, maybe um, lack of energy but it might be because, I'm just having these headaches. so I'm find it quite difficult to go through my daily activities , you know when you have this constant headache.
+265.92377::266.70573::Doctor::
+267.55535::269.62302::Doctor::Have you been at work recently?
+269.97187::276.39724::Patient::Um, I work from home but, couldn't really manage to, do it all the time. So sometimes I just took a day off.
+277.19442::282.45004::Doctor::So, you've been, you've had a headache for three days. , how many days have you missed off work?
+282.91464::298.96593::Patient::Um, so I worked from home all these three days and, um. First day I worked from home and then, um, the second I just took the whole day off. And, today I just tried to work from home the first half of the day but, I, I just stopped in the morning 'cause, I couldn't focus.
+298.92365::303.81085::Doctor::OK. And, any other, medical problems in the past?
+304.80517::315.79186::Patient::Um, I think I only had a, a pain, um, when I was younger but, no causes found and that went away, but that's, the only thing I know of.
+307.1157::309.21685::Doctor::
+315.87096::318.42734::Doctor::OK. Have you been abroad recently at all?
+318.846::319.55431::Patient::No.
+319.60779::321.47997::Doctor::Do you take any medications?
+321.7564::323.26629::Patient::Um, just the pill.
+323.71304::324.86342::Doctor::Which one?
+325.48245::326.85755::Patient::Um, .
+327.19806::328.85589::Doctor::And when did you start that?
+329.33306::331.16744::Patient::Um, about a year ago.
+331.17919::333.07393::Doctor::Any side effects with that?
+333.79198::336.46447::Patient::Uh, no I don't think so.
+336.35211::342.23179::Doctor::Have you noticed any, any um, increased frequency of headaches since you started that?
+343.0888::352.28823::Patient::Um, no, , these headaches just very recently, but nothing um, but nothing really changes.
+349.33702::350.66785::Doctor::
+352.66032::366.26177::Doctor::OK. And when you'd , when you've had, when you described your headaches in the past, you said they were just general. Did you have any visual symptoms? Flashing lights? Nausea, vomiting with them?
+361.73563::362.6457::Patient::No.
+363.74697::364.78884::Patient::No, no.
+366.53919::368.16986::Patient::No nothing, none of those.
+367.40463::370.54747::Doctor::Have you had your blood pressure checked recently with your pill?
+370.78884::375.97268::Patient::Um, yeah, I had it checked in the pharmacy when I got the pill, and they say it was normal.
+375.85572::377.04369::Doctor::And when was that?
+377.19892::378.34668::Patient::Uh, a year ago.
+378.71286::382.78052::Doctor::OK. Um, and any allergies to anything?
+382.8891::383.60239::Patient::No.
+384.23164::386.18653::Doctor::And who do you live with at home?
+386.44881::387.2513::Patient::Sorry?
+387.11134::388.66773::Doctor::Who do you live with at home?
+388.58562::390.09127::Patient::Uh, just by myself.
+390.26171::392.56245::Doctor::OK. And do you smoke?
+392.73998::393.49472::Patient::Uh, no.
+393.84817::395.96094::Doctor::Do you drink any alcohol regularly?
+395.8825::396.48931::Patient::Yeah.
+396.87072::398.9835::Doctor::How much in a normal week do you think?
+399.29353::403.71019::Patient::Um, probably like, three , once a week.
+401.96845::407.7579::Doctor::. OK. And do you take any other drugs at all?
+408.18574::415.37328::Patient::Um, no apart from the Ibuprofen that I take, sometimes when, the headache gets really bad, nothing else.
+414.58494::415.31427::Doctor::OK.
+416.11878::425.77979::Doctor::Um. So, uh, I mean it's obviously the first time you've had such a bad headache. And you said you'd had some altered light in front of your eyes as well?
+425.91009::426.72035::Patient::Yeah.
+426.56331::429.70991::Doctor::But you haven't had a high temperature. Have you checked your temperature?
+430.36787::435.25486::Patient::Uh, no I didn't, I don't really feel, feverish or anything.
+435.42503::441.33221::Doctor::OK. Um, I mean it, it, it could possibly be a migraine type headache.
+441.33221::448.65999::Doctor::But, the fact it's still ongoing for three days, we probably should, book you into an appointment to get an examination.
+441.47992::442.16529::Patient::
+448.65999::457.0359::Doctor::Um, obviously , if it settles, in the meantime then, we can cancel that. But we should do a neurological examination, look at the back of your eyes as well.
+457.19252::458.05606::Patient::OK.
+458.44191::470.43434::Doctor::Um, in terms of medication, I can prescribe you something, similar to Ibuprofen, but a bit stronger which you can take instead of Ibuprofen. And you can also take Paracetamol at the same time.
+467.79255::468.56079::Patient::
+470.63159::471.51328::Patient::OK.
+471.86291::477.84785::Doctor::So if you're happy to book a, , appointment with us, with the support line, for us to do a full examination.
+478.62229::483.71402::Doctor::And start, the medication which I prescribe to you, take it with food.
+484.23055::490.50194::Doctor::If, if you're, you said that when you go to bed your headache's, OK, and not waking you up in the night-time.
+490.15377::499.28834::Patient::Yeah it's not, um but, you mentioned migraine and that um, reminded that, my mum, suffers from, like she has migraines, um.
+498.23681::501.69738::Doctor::OK. Any other family history of medical problems?
+501.63461::509.1584::Patient::Um, no I think that's it, but I know that my mum like, she has quite bad migraines, she's like, has the vomiting and everything, .
+509.68344::523.507::Doctor::OK that's fine. Um, I mean if, if in the meantime before your appointment your, headache is getting unbearable, getting worse or changing. Then , um, if it's that bad, then you should go to A and E and have an examination.
+523.507::526.43412::Doctor::Um, , you can call us for further advice on that.
+523.65049::524.41295::Patient::OK.
+526.63834::528.05554::Patient::Mm-hmm, OK.
+528.01432::532.89037::Doctor::And when, when you have a, an examination with us, we'll check your blood pressure as well.
+532.89037::545.0581::Doctor::Just to, make sure your pill's still appropriate for you, because sometimes if we, if we do think it's a migraine, then you would have to change your pill. If you've had these flashing lights, and things like that.
+533.26853::533.96569::Patient::
+536.82205::537.81081::Patient::OK, .
+545.18447::548.27394::Patient::Is there anything in the pill that can cause it? Or is it?
+548.26862::560.71217::Doctor::Well , some , so that pill if you were having , regular migraines with um, flashing lights, or , other symptoms. It wouldn't be suitable to stay on that pill, particularly, we'd have to change it to something else.
+561.052::561.82646::Patient::All right.
+562.20841::564.56179::Doctor::But you can carry on with that for the moment.
+564.74817::565.54077::Patient::OK.
+566.29863::568.08058::Doctor::Have you got any other questions?
+567.99824::576.511::Patient::Um, so will you like, um, send me a referral to a specialist, or do I have to to confirm?
+573.72078::574.47905::Doctor::Uh.
+575.6442::580.23092::Doctor::Yeah, if you book an appointment with the support team, then we can do a full examination then.
+580.28087::582.16967::Patient::OK. Perfect.
+582.31362::584.01286::Doctor::All right then. Take care.
+583.9787::585.15287::Patient::Thank you very much.
+584.9602::585.71213::Doctor::Bye.

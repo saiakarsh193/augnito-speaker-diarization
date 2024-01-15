@@ -1,0 +1,142 @@
+0.8797::2.06767::Patient::Hello?
+1.64508::4.16747::Doctor::Hi there, it's Doctor Smith from Babylon.
+4.54136::6.04512::Patient::Uh, hi, Doctor Smith.
+5.30294::10.754::Doctor::Hi there. Could you give me your full name, date of birth, and your, the first line of your address, please?
+11.36091::13.09775::Patient::Um, I.
+11.59918::13.01849::Doctor::
+14.01505::15.01505::Patient::
+14.1733::15.20556::Doctor::
+18.23757::24.51433::Doctor::Your full name, date of birth, and your address, please? Yeah, OK.
+21.8722::23.8722::Patient::Yeah, my name is Barbara .
+25.21055::29.21055::Patient::Um, and my date of birth, fourth October, nineteen eighty four.
+29.05583::30.02357::Doctor::OK.
+30.70679::32.60905::Patient::And address fifty Avenue.
+32.62983::36.69396::Doctor::OK. Are you in a private place so you can have a confidential consultation today?
+37.188::38.21056::Patient::Yes, I am.
+37.89394::39.46161::Doctor::What can I do for you?
+40.13537::48.48877::Patient::Um, I've just been for the past couple of days. I've been having this serious diarrhoea and this really,
+49.16546::50.24816::Patient::Giving me trouble.
+50.69905::52.79569::Doctor::OK. So when did it start?
+53.71433::55.63915::Patient::It was three days ago.
+56.29328::57.1429::Patient::Now.
+56.91143::62.71729::Doctor::OK. And when you say diarrhoea, what do you mean by that? Is it watery or just loose?
+63.23314::68.26322::Patient::It's, it's, it's very loose but it started as being very watery.
+68.31672::70.94232::Doctor::OK. And how many times are you going to the toilet?
+71.30833::72.52638::Patient::
+73.45871::75.73691::Patient::I lost count, um.
+76.44367::80.11285::Patient::Today alone, I've been at least four time.
+81.31536::86.60515::Doctor::OK. And any, any high temperatures? Are you feeling feverish?
+87.12038::91.26324::Patient::Yes, I've been running a serious temperature. I'm literally boiling.
+91.15309::93.59808::Doctor::Have you checked your temperature with a thermometer?
+94.49997::99.93242::Patient::No, 'cause I've not got one but like, to the touch, I'm, like, literally roasting.
+100.44896::105.02272::Doctor::OK. Um, and any nausea or vomiting?
+105.46626::116.12793::Patient::Yes, I've been throwing up. I can't keep to, uh, I can't seem to be able to keep anything in me. Not even water, not even my tea, not even any liquid stuff. I've just been throwing up everything.
+116.37627::119.68566::Doctor::OK. And when, when were you last sick?
+120.90237::128.42118::Patient::Um, I was sick just after trying, uh, trying to have breakfast this morning, so maybe about two hours ago.
+128.4847::132.18114::Doctor::OK. And have you been passing water OK?
+133.48134::137.60164::Patient::Yeah, I've been, I've been, yeah, urinating OK. Is that what you mean, like?
+137.03227::141.98017::Doctor::Yeah, yeah, urinating, yeah. Any, and what sort of color is the urine?
+142.70691::146.0603::Patient::To be honest, I have a look so I really couldn't say.
+144.76705::145.62513::Doctor::OK.
+146.18002::149.57972::Doctor::OK. And when did you last pass urine, do you think?
+150.16556::151.22571::Patient::Um.
+153.12797::154.67684::Patient::an hour ago.
+154.86952::155.7534::Doctor::OK.
+156.7534::161.41746::Doctor::And any blood in the stool or in the urine that you've noticed?
+161.72197::162.95505::Patient::No blood.
+163.75278::164.46249::Doctor::OK.
+165.00449::169.42342::Doctor::Any episodes like this before? How's your bowels normally?
+170.48889::172.27085::Patient::Sorry, I didn't catch that.
+171.57166::173.59089::Doctor::How is your bowels normally?
+173.69942::180.7295::Patient::Ah, ah, my, my bowels is normally fine. I would normally go to the toilet every day. You know, in the morning, just once, yeah, and that's fine.
+177.59052::178.35184::Doctor::OK.
+179.06155::182.75154::Doctor::Any episodes of diarrhoea or constipation normally?
+183.41372::184.41372::Patient::No.
+183.53221::188.86716::Doctor::And is there anything you think might have triggered this off? Have you been abroad anywhere?
+189.52992::207.63179::Patient::No, but then, um, my, um my brother, um, has actually been having similar symptoms, um, for the past, um, few days as well, and he does say like everyone in school's got this so, I, I don't know, that might, that might be something.
+207.16179::209.33584::Doctor::So you've been in contact with him, have you?
+209.58668::210.51149::Patient::Yes.
+210.69064::215.56112::Doctor::OK. Um, and any other medical problems?
+216.40624::218.07541::Patient::
+218.44476::223.00561::Doctor::Have you had any other symptoms at the moment, like rash?
+224.65437::227.42129::Patient::No, no rash, no, nothing that, um.
+225.9344::226.68927::Doctor::No.
+227.34738::233.01132::Doctor::OK. Um, any surgery before, or abdominal problems, or any other medical issues?
+233.77468::246.78221::Patient::Well, apart from the fact that this one is giving me abdominal pains, no previous abdominal pains before. Obviously I get the odd, um, you know, menstrual cramps and all that but, you know, that's, you know, that comes and goes.
+239.37194::240.08811::Doctor::Yeah.
+246.39068::249.02918::Doctor::OK. And whereabouts is the pain that you're getting?
+249.87996::261.06795::Patient::Um, it's kind of like towards my navel area, like I can't touch my navel area. It's just so sore. And it gets, yeah, it's almost like the center of my navel.
+257.71855::258.29925::Doctor::
+260.87325::262.96344::Doctor::Um, and does the pain come and go?
+264.3687::273.98525::Patient::Yes, it does come. When it comes, I feel this strong urge to go to the, to the loo, and then and sort of like comes again, it comes and.
+274.36215::275.16217::Doctor::OK.
+275.91059::279.80056::Doctor::Um, and do you take any medication regularly?
+280.60932::289.09054::Patient::Well, I, I take my, my vitamins, vitamin D, every day. That's about, that's about all that I regularly take.
+285.18711::285.98068::Doctor::OK.
+289.56746::291.48993::Doctor::And have you got a normal diet?
+292.36122::294.82738::Patient::Yeah, I eat well, normally.
+294.85737::297.31526::Doctor::Right. Do you smoke or drink alcohol?
+298.44393::302.0304::Patient::Well, I don't smoke, but, you know, I have a pint from time to time.
+302.15994::304.12757::Doctor::And do you take any other drugs?
+304.98529::314.60936::Patient::No. Like I said, I only take, um, vitamins. And for my menstrual cramps, when they come, maybe I might take a, a, an ibuprofen just to ease the pain, but.
+313.48137::315.84249::Doctor::And when was, when was your last period?
+316.43643::317.96275::Patient::Um, two weeks ago.
+318.68097::320.75826::Doctor::OK. Are you on any contraception?
+321.19583::322.00034::Patient::No.
+321.90018::324.22259::Doctor::Are you having regular sexual intercourse?
+324.88756::325.78982::Patient::No.
+325.6677::326.47418::Doctor::OK.
+327.86767::330.10623::Doctor::Um, and what's your job?
+331.03043::333.16577::Patient::Um, um, uh.
+334.8199::336.27103::Patient::Um, uh.
+337.27103::339.06051::Patient::A graphics designer.
+338.87946::341.35025::Doctor::Have you had to miss work because of this problem?
+342.0154::351.03796::Patient::Well, yes, I've had to actually work from home today. I'm working from home today because I can't, I can't be out for work.
+348.49787::350.1494::Doctor::OK.
+351.1494::353.13638::Doctor::And who do you live with at home?
+354.01541::356.55677::Patient::I live with my brother and my mum.
+356.16045::357.94893::Doctor::OK. OK.
+359.02634::363.86458::Doctor::And, um, have you tried anything yourself for this problem?
+364.33873::374.92521::Patient::Well, I've tried a home remedy. Um, I've tried the, the, uh, ORS, you know, thing I bought from my, my local, my local, uh.
+375.92521::376.8425::Patient::Um.
+376.31477::378.01146::Doctor::What? Could you just repeat that?
+378.28611::386.90266::Patient::The ORS, the, the salt sugar ORS, um, um, mix, the salt sugar mix.
+386.60407::389.50061::Doctor::OK. And how often have you been taking that?
+387.61695::388.24101::Patient::Yeah.
+389.98537::395.45154::Patient::I've taken that, I've taken that, like, um, three times a day for the past two days.
+395.73222::405.24084::Doctor::OK. Um, and do you feel like your symptoms are easing off, or getting worse, or ?
+404.30869::415.63202::Patient::I, I, I they're not getting any better, 'cause like I said, I've been, I've been vomiting literally everything I take, so, so I doubt that even that had, had the chance to work.
+411.62082::412.33053::Doctor::Yeah.
+415.96246::416.83345::Doctor::OK.
+417.98827::418.84635::Doctor::Um.
+419.33028::435.07684::Doctor::I mean, it sounds like, because your brother's had a similar thing, it sounds like it might be some, an infectious gastroenteritis that you've got, which is usually caused by a virus. But, it can be from something you've eaten, as well. Um.
+435.07684::449.73967::Doctor::If the symptoms, they do normally start to settle by themselves with the oral rehydration salts. Um, if the symptoms are continuing to get worse, the key thing is that we want to make sure that you're hydrated enough.
+450.53324::465.00899::Doctor::Um, sometimes you do require certain medication to help this, if it's, sometimes if it's caused by a bacteria. Um, what I would say, probably worth as it's been going on for a few days and you feel like it's not starting to ease off.
+465.00899::473.06618::Doctor::I think it's probably important to get a sample of the stool, so we can make sure that you haven't got a nasty bacterial infection which needs specific treatment.
+473.48924::474.48924::Patient::OK.
+474.54354::486.33575::Doctor::Um, and we should also check that you're not getting dehydrated, because if you're, if you're not keeping fluid down, then you can get dehydrated.
+487.52928::489.74848::Doctor::Um, so.
+487.79001::496.54942::Patient::So, how, how do I, how do I get myself hydrated when I'm not able to even, like, drink water? I'm throwing up everything.
+496.24457::509.85592::Doctor::Yeah. So you need to carry on with your rehydration salts, and just have very small amounts. It's a positive sign that you passed urine an hour ago. So, you're obviously still, um, hydrated enough to pass urine.
+506.03063::506.75244::Patient::OK.
+509.85592::521.31268::Doctor::But we, um, we should see you so that we can check your hydration and, um, get that sample sent off as soon as possible.
+522.0482::529.99573::Doctor::'cause if, if, if you come into the clinic, you can send that sample off straightaway. Otherwise, we would have to post it out to you which would take time.
+522.22614::523.06073::Patient::OK.
+530.54194::534.26375::Patient::Ohh, OK. So, when can I come to the clinic to have this done?
+534.16953::553.87044::Doctor::Um, so we can, we can make you an urgent appointment, um, and then you can, you can get the sample sent off and we can check your hydration. Um, but if, in the meantime, you're feeling more unwell, then we would get you seen urgently in A and E.
+554.79009::555.65475::Patient::OK.
+555.4123::558.67654::Doctor::So you can call us back in the meantime.
+559.07581::573.16605::Patient::OK. So, what I'll do is, yeah. If you could, please book me the appointment and, um, yeah, I'll see how I feel, um, for the end of the day. Hopefully I don't need to go to the A and E, and, um .
+571.50733::586.1379::Doctor::Yeah. If you keep drinking, keep going with the rehydration salts. Just tiny sips constantly, to so that your stomach doesn't get overfilled and, and you vomit, so just tiny, tiny sips but just keep going with it.
+586.1379::600.6072::Doctor::Um, and just have very simple food, if you're gonna have anything, like toast or biscuit or something really light like that. Avoid, um, fruit, vegetables, uh, milk, anything like that, which might just make it worse.
+593.94804::594.64728::Patient::Mm-hmm.
+600.79015::601.58714::Patient::OK.
+602.25873::606.15515::Doctor::OK. So you'll have to book an appointment through the support line.
+603.34654::604.51947::Patient::OK.
+606.34654::607.38414::Patient::Yes, please.
+607.58735::609.57433::Doctor::Right, OK. We'll do that for you.
+610.13602::610.73::Patient::
+610.85171::612.30327::Doctor::OK, take care.
+612.32399::613.22624::Patient::Thank you.
+612.87752::614.1807::Doctor::Thanks, bye.
+613.7977::614.63998::Patient::

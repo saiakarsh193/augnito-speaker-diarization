@@ -1,0 +1,144 @@
+1.59722::2.53472::Patient::Hello.
+3.29849::11.55965::Doctor::Hi there, it's Doctor Smith from Babylon. Can you confirm your name, date of birth and your address, please?
+11.79864::23.51396::Patient::Uh, date of birth twenty second of december, nineteen ninety. Uh, address, uh, sixteen avenue.
+25.97749::29.61927::Doctor::OK, that's fine. Are you in a private place so you can have a consultation?
+29.58343::30.64593::Patient::Yeah, sure.
+30.86554::32.48494::Doctor::What can I do for you today?
+32.95754::40.1529::Patient::So, um, recently I'm wheezy. Uh, I have feel like kind of short of breath.
+41.1043::43.81324::Doctor::OK, and how long has that been going on for?
+44.00708::47.52792::Patient::Mmm, two, three days. Yeah, quite recently.
+47.62666::50.94008::Doctor::And have you ever had similar symptoms in the past?
+51.4446::57.36128::Patient::Um, I think so. It was a while before, yeah, but I can't remember.
+58.26095::60.98482::Doctor::As, was that as an adult or as a child?
+61.91685::64.52103::Patient::Sorry? Oh, as a , as a adult, yeah.
+65.45495::67.11166::Doctor::How long ago was that?
+68.86826::69.79882::Patient::Sorry?
+69.45175::72.62656::Doctor::How long ago was that, that you had similar symptoms?
+72.56966::75.06272::Patient::I can't remember, sorry.
+73.87283::74.55194::Doctor::
+75.98477::79.98475::Doctor::And any problems with wheezing when you were a child or any asthma?
+80.24329::89.75027::Patient::Uh, yes, I had asthma. I also had, uh, hay fever and eczema , sorry.
+90.05186::93.5817::Doctor::OK, and when you were a child how bad was your asthma?
+94.43084::96.31279::Patient::Uh, it's quite bad.
+96.20109::98.40258::Doctor::Did you have to take medication?
+98.6114::101.39613::Patient::Yeah, I take the asthma inhaler.
+101.81301::103.53689::Doctor::Do you know which ones you took?
+103.97947::106.36142::Patient::No, I can't remember.
+106.71598::109.42492::Doctor::And did you ever have to go to hospital with it?
+109.45171::111.11838::Patient::Yeah, sometimes.
+111.73835::117.39567::Doctor::Did you ever get severely unwell, have to be on intensive care unit or anything like that?
+117.44479::123.25036::Patient::No, not that bad but still, sometimes, need to go to hospital to check if it goes well.
+123.11889::124.88754::Doctor::Did you have to miss school?
+125.35453::127.2087::Patient::Uh, yeah, occasionally.
+128.24574::138.06658::Doctor::OK. And when do you think it last, when do you think that asthma stopped? At what age did you get to a point where you weren't taking medication anymore?
+138.77124::140.0143::Patient::Mmm.
+142.04051::147.18726::Patient::Few years ago, like, three or four years ago I think? Yeah.
+146.90031::147.43961::Doctor::
+148.46209::158.35756::Doctor::And so this time, how did it start? Did you have any other symptoms? Any chest pain, temperature, cold symptoms, anything like that?
+158.1407::182.76132::Patient::Yeah, so I have, I have cough and cough a lot, and I have a fever. Um, I also used to walk to work but recently I can't because it's, I, I feel like very short of breath and sometimes I feel like I can't even finish sentence is quite difficult to, to complete the, the the talking sometimes, yeah. Occasionally.
+182.70816::186.0589::Doctor::Right. Have you coughed any phlegm up or anything like that?
+186.53529::187.53529::Patient::No.
+188.15591::192.18574::Doctor::Any, any, um, blood in there when you cough?
+192.50753::194.13948::Patient::No, I don't think so.
+195.25289::197.39467::Doctor::OK. And any chest pain?
+197.80616::199.23671::Patient::No chest pain, no.
+200.43198::203.14838::Doctor::Have you been woken up at night time at all?
+203.09089::206.25757::Patient::No, just daytime working, yeah.
+205.97673::208.44687::Doctor::Have you been able to do any exercise?
+208.77146::210.23674::Patient::No, I can't.
+212.09151::217.67071::Doctor::OK, and do you have a peak flow meter at home, where you measure your breathing?
+217.93121::218.93121::Patient::Sorry?
+218.67071::223.81994::Doctor::You have what's called a peak flow meter, which you breathe into to get a score on your breathing?
+223.75067::224.78539::Patient::No, no.
+225.90949::230.20797::Doctor::And do you normally take any asthma inhalers over the last few years?
+230.00763::231.16735::Patient::Yes, yeah.
+231.80499::235.57363::Doctor::You do? So you said you stopped them three to four years ago?
+233.05625::233.51458::Patient::
+236.74375::242.15349::Patient::Ohh, um, when I had asthma I used to take this inhaler, yeah.
+240.43181::243.61837::Doctor::OK. How about over the last three to four years?
+243.89655::244.7785::Patient::Yeah.
+245.05866::247.23776::Doctor::Have you taken any medication?
+247.716::253.70908::Patient::Um, I took salbutamol? Salbutamol? Yeah.
+253.64071::257.84965::Doctor::OK, so you, you normally take that do you? Or is that just recently?
+259.88965::261.00771::Patient::Normally, yeah.
+262.01382::264.51381::Doctor::OK, and how often do you normally need it?
+268.99385::272.27163::Patient::Every, every few weeks? I'm not sure.
+272.36453::278.76748::Doctor::OK. What about when you exercise normally, do you have to use medication? Uh, inhalers?
+278.0454::280.8429::Patient::Yeah, yeah, a bit.
+280.91673::281.91673::Doctor::Pardon?
+282.02861::282.91749::Patient::Yeah.
+284.36448::289.18536::Doctor::OK, um, and do you take any other medications?
+290.01474::291.8203::Patient::No, nothing else.
+293.36445::295.48385::Doctor::Any other medical problems?
+296.11892::299.11893::Patient::Uh, I have, uh, hay fever as well.
+299.08085::301.08084::Doctor::OK, do you take anything for that?
+301.20921::302.13282::Patient::No.
+303.85695::306.49874::Doctor::And any allergies to medications?
+306.38978::308.23006::Patient::No, no allergies.
+308.17784::309.17784::Doctor::Do you smoke?
+309.74395::311.13979::Patient::No, I don't smoke.
+312.68528::314.93155::Doctor::Do you drink any alcohol regularly?
+315.27869::317.18147::Patient::Yeah, one glass.
+317.84198::320.2375::Doctor::How often? Have a glass of what?
+318.1398::319.35508::Patient::Today, yeah.
+320.75092::322.54259::Patient::Uh, one glass of wine.
+322.76734::325.10315::Doctor::Every, how often did you say?
+325.32978::328.96801::Patient::Every two or three days? Depends, yeah.
+328.94643::331.02105::Doctor::And who do you live with at home?
+331.33428::332.04955::Patient::Yeah.
+332.84194::334.3494::Doctor::Who do you live with at home?
+335.20928::336.20928::Patient::Yeah, .
+337.14043::339.71505::Doctor::Who do you live with, do you live on your own, or do you live with
+337.92456::341.52874::Patient::I live with my partner.
+341.61057::344.2225::Doctor::OK, and what's your job, day-to-day?
+344.68847::346.23014::Patient::Uh, I'm engineer.
+347.0807::350.01352::Doctor::And have you been at work in the last few days?
+350.03839::358.5559::Patient::No I can't because I used to walk walk to work, but recently I, I work from home or sometimes I take sick leave, yeah.
+358.99855::368.18507::Doctor::OK, and when, at the moment, are you, um, feeling short of breath when you're sitting still? Or just when you walk?
+366.6191::367.53576::Patient::No.
+369.07116::374.1115::Patient::Just walk or sometimes, but currently I feel, I feel well.
+374.49102::377.28205::Doctor::Are you able to get up and down the stairs OK?
+377.82746::378.48023::Patient::Yeah.
+379.29697::385.67754::Doctor::Right, OK. Um, and did you say you were finding it hard to complete your sentences?
+386.52887::388.34832::Patient::Yeah, sometimes.
+389.30439::391.48349::Doctor::OK, um.
+390.59183::393.00761::Patient::Yeah, , days, yeah.
+393.5805::410.72965::Doctor::Right, OK. Um, I mean, it sounds like you've had a flare up of your asthma. It could be, um, triggered by, if there's more pollen around, or there may be, you may have a viral infection, causing it to get worse.
+409.272::409.93172::Patient::Mm-hmm.
+410.77894::411.57755::Patient::Mm-hmm.
+411.6401::414.08039::Doctor::Did you say you checked your temperature already?
+414.78388::417.74849::Patient::Yes, I checked, I have fever .
+417.63141::418.84903::Doctor::Was it normal?
+419.91091::420.84146::Patient::Yeah, yeah.
+421.28186::422.87887::Doctor::What was your temperature?
+423.33945::426.54959::Patient::Uh, thirty seven, yeah.
+426.86837::431.55794::Doctor::OK, that's fine. Um, have you got an asthma inhaler at home?
+432.02205::432.78594::Patient::Yeah.
+433.45345::443.82653::Doctor::OK. So what I would suggest is you take it more regularly than you are doing at the moment. Have you got, um, a spacer at home?
+440.91097::441.68874::Patient::Mm-hmm.
+445.89978::450.89666::Patient::Um, do you want to show me how to do it or somehow?
+451.125::454.61006::Doctor::Um, do you have a spacer at home?
+455.04295::455.88323::Patient::No.
+456.08021::471.31893::Doctor::OK. Um, what I can do is, I can prescribe you a peak flow meter so we can check your breathing level and a spacer to use your inhaler a bit more efficiently, which the pharmacist can show you how you use that when you pick it up.
+471.76523::472.76523::Patient::Yeah, sure.
+472.89356::479.11741::Doctor::Um, and if you increase it so you're taking it two to four puffs, like, every four hours?
+479.24487::480.29236::Patient::Mm-hmm.
+480.46069::491.81884::Doctor::Initially, um, if you get a high temperature or your wheezing is getting worse, you need to call us back straightaway so we can just advise you further with that.
+492.23102::493.37618::Patient::OK.
+493.64719::504.10982::Doctor::And it will be a good idea when you're feeling better if we can arrange just a review, just to see how your asthma is, because we may need to start some other medication for you.
+504.54827::506.45239::Patient::OK, sounds good, yeah.
+505.40086::512.8262::Doctor::You could arrange a review in a week or so, um, but, but before that and if you're, if you're feeling worse.
+513.8142::516.02433::Patient::In a week, right? OK.
+516.7217::522.78138::Doctor::OK, and the other thing to do would be to take a regular antihistamine.
+523.20289::524.07789::Patient::Mm-hmm.
+523.97541::530.69179::Doctor::Which you can get from the pharmacy, I can put a on your notes about what to take.
+526.84873::527.61262::Patient::Yeah.
+529.95985::531.64041::Patient::Yeah, they'll be helpful.
+531.78134::541.10219::Doctor::And then if you, when you get the peak flow meter, if you can take, the pharmacist can show you how to use it, and if you can record a value first thing when you wake up.
+541.79322::542.66822::Patient::Mm-hmm.
+541.86338::550.63225::Doctor::And in the evening over the next week, and then we can discuss that over the phone when we look at the figures and see whether you need to go on another inhaler as well.
+550.8954::552.99419::Patient::Oh, awesome, thank you.
+553.17719::554.84094::Doctor::Have you got any questions?
+555.29841::559.90169::Patient::Um, no, that's fine, yeah, thank you very much.
+559.35584::562.54986::Doctor::Thanks a lot, bye.
+561.356::563.27998::Patient::

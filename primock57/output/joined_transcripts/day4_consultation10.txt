@@ -1,0 +1,151 @@
+2.89866::3.75181::Patient::Hello.
+3.38851::6.32482::Doctor::Hello, hi, how you doing?
+5.43574::7.66088::Patient::Hi. Good, thank you. How are you?
+7.63848::13.27648::Doctor::Fine thanks, yeah. I'm Joe, I'm one of the doctors at Babylon. Can i just confirm your name please?
+15.27054::20.26401::Patient::you. Um, my name's Lizzy Irvine. Um.
+21.33882::24.19697::Patient::Twenty third of July, nineteen ninety five.
+24.70135::32.13449::Doctor::Great, thank you, Lizzy. Um, and are you, in a, confidential and comfortable space to talk?
+32.67028::36.48149::Patient::Yeah. Especially on a Friday. Comfortable.
+35.80161::38.48089::Doctor::Great. Um, how can I help?
+39.69449::47.11579::Patient::Yeah, just for the last couple of days, um, I've been, feeling, um, really sick in my, lower tummy.
+47.11579::54.81083::Patient::Um, and I've had a bit of a temperature, so feeling quite like hot and sweaty. And it's yeah, getting really uncomfortable.
+55.31336::65.45366::Doctor::OK, so you've been feeling, uh nauseous. Um, and you've had some, pain in your lower tummy? Or you say you've been feeling sick in your lower tummy?
+65.70504::75.76595::Patient::Yeah, it's more of an ache. So, like an ache in my lower tummy. And then I, I think feeling hot and sweaty. So think it's sickness, but, yeah, bit of an ache.
+69.07238::70.07238::Doctor::OK.
+76.05293::86.60256::Doctor::OK. So a bit um. Feeling, hot, sweaty, unwell, for three days. Uh, feeling sick, nausea, um, with an ache in your lower tummy. Any actual vomiting?
+87.34811::94.35551::Patient::Um, so yeah, no just nauseous, no vomiting yet, luckily. And it's only been for a couple of days, but yeah.
+94.26678::102.63874::Doctor::Two days yeah. OK. Um, and uh, any problems with your waterworks or diarrhoea?
+104.55859::114.0485::Patient::No, so I'm, I'm going , I'm going to the loo a little bit more often than usual. Um, , I drink lots of water, but it does feel like more often.
+105.48403::106.56181::Doctor::about.
+114.0485::115.40537::Patient::Um.
+117.50926::128.7542::Patient::Yeah, like nothing, nothing too out of the ordinary. Um, and I was, I was a little bit like um, uh, I don't know constipated I guess, uh.
+129.91288::132.0574::Patient::About a week ago, but I'm OK now.
+132.33565::137.82821::Doctor::OK. So you've, bit constipated a week ago. Uh , things uh.
+138.74418::145.14198::Doctor::You're having regular bowel motions now. You said you had a, bit of, diarrhoea, or a bit of watery, did you say?
+145.9039::153.04258::Patient::No, it was more like I was just, a little bit bunged up, and then, about a week ago that kinda cleared, and I'm a, normal now.
+153.20408::160.46477::Doctor::OK. And, you say you're going, you're drinking lots of water. You're going to the toilet more frequently, for a wee, is that?
+160.81982::168.45852::Patient::Yes, yeah I'd say so. I, I tend to drink a lot of water anyway but, I feel like I'm going to the toilet, more.
+168.26725::172.1264::Doctor::Hmm. Any pain when you pass urine?
+173.12175::175.45189::Patient::Um, no, no pain.
+175.31995::176.5735::Doctor::No stinging?
+177.82246::181.77843::Patient::Uh, no. Just , it seems, normal yeah.
+181.93638::188.3465::Doctor::OK, and um, and sort of no foul smelling urine, or anything like that?
+189.92456::194.03499::Patient::Um, no, nothing, nothing I can think of, no.
+193.30336::199.61712::Doctor::You having, you're saying you, you're going a bit more frequently. And are you having to go with urgency, to the toilet, for a wee?
+200.23866::205.84991::Patient::No, there's no urgency. Um, yeah, no pain or urgency.
+205.84991::216.33718::Patient::Just, yeah, peeing quite frequently, but it's all seeming normal. Yeah, I probably wouldn't have, thought of, it being, linked but, yeah.
+216.45459::217.23083::Doctor::OK.
+218.275::228.27077::Doctor::All right so you're. Um, so the main symptom is feeling sick, uh with this. Uh, and you've been feeling bunged up, and this this sort of, pain in your tummy.
+229.20818::233.75936::Doctor::Just to ask a few more question about the pain in your tummy. Is it, how would you describe the pain?
+234.80342::237.10341::Patient::Um, it's.
+238.40391::248.03121::Patient::Yeah, it's like below my belly button. Um, it's, it's aching. Um, it does make me feel nauseous. Um.
+249.69687::258.23465::Patient::Yeah, so it's kinda more like a, I guess like an, an, a, a dull ache. Um, just below the belly button, kind of, yeah, here.
+259.42936::263.83902::Doctor::Um, and it's, it, is it constant? Or is it coming and going?
+264.31837::270.06444::Patient::Um, it's, yeah it's, feeling pretty constant, over the last couple of day.
+271.03994::271.52438::Patient::It.
+273.57396::283.45191::Doctor::Um, and just need to ask a few questions about, uh, your periods and stuff. Uh, any chance you could be pregnant at the moment?
+284.12966::285.2587::Patient::Um.
+286.15353::288.25368::Patient::Ooh, I don't know.
+288.92532::289.53848::Doctor::
+288.93665::293.04148::Patient::Um, probably not, I don't think so. I'm very careful.
+292.1056::295.08663::Doctor::sexually active at the moment?
+295.74939::297.21822::Patient::Yes, yeah.
+297.74217::300.58701::Doctor::And, um, .
+299.9757::304.09368::Patient::You mentioned about periods. I did notice a bit of, um.
+304.85106::315.58819::Patient::I don't know it's like , not necessarily like spotting, but in like, in my, my pee is like a little, I suppose. I think I thought it was my period, it's like a little bit, pink.
+318.2436::322.84011::Doctor::In your pee, did you say? Your, so your pee is slightly red? Or slightly pink?
+320.77993::323.27137::Patient::
+324.15854::330.06651::Patient::But I am kind of like due, on my, didn't know if that was like, yeah, a part of it.
+331.58765::334.54887::Doctor::OK. So, when was your last menstrual period?
+335.64052::341.24953::Patient::Um, around a month ago, yeah, three and a, three and a bit weeks ago.
+341.82627::345.48322::Doctor::Ah, OK. Um, so it's three .
+346.7773::353.35475::Doctor::And, uh, did you say? So you're sexually active, you're using contraception? And what?
+352.61517::355.57696::Patient::Mm-hmm, yeah. I've got the arm, the implants.
+358.20652::359.30848::Doctor::Um.
+361.17556::362.23102::Doctor::And.
+365.16392::371.62383::Doctor::Uh, , one sexual partner? Um, a regular, regular boyfriend or?
+370.69046::371.30603::Patient::Yeah.
+372.6378::373.22646::Patient::Yep.
+377.20379::378.20379::Doctor::Um.
+382.32863::391.66899::Doctor::, to go back to your symptom of, uh, constipation. Can I just clarify, when was the last time you had a bowel motion?
+393.12247::394.50212::Patient::Uh, yesterday.
+396.20173::404.1514::Doctor::OK, and, uh, do you feel like, you, are still quite bunged up at the moment?
+405.27168::412.33017::Patient::Uh, no it seems to have cleared up. So I was, about a week ago, but I'm OK, OK now, the last few days.
+412.82397::414.10535::Patient::Yeah, I K.
+414.3941::425.85375::Doctor::OK, all right. So you, just to sort of confirm your symptoms. Um, you're feeling sort of sick, nauseous, with tummy pain, which is fairly constant.
+425.85375::429.94721::Doctor::Um, how, , did the tummy pain come on suddenly or gradually?
+431.22128::438.41208::Patient::Um, it's only been for the last two days. Um, so I guess yeah, quite recently.
+434.85467::435.56272::Doctor::OK.
+438.25036::440.57828::Doctor::So it's, it's come on gradually, has it?
+440.36384::441.13281::Patient::Yeah.
+441.55347::442.91261::Doctor::Not a sudden onset?
+443.62999::456.23366::Doctor::OK, and uh, your last menstrual period was just three and a bit weeks ago. Um, and you, but you say you've had some . A little bit of spotting, possibly before um, in-between periods, or recently.
+457.07571::461.99737::Patient::Yeah, and the last kind of week or so, yeah, the last couple of days really.
+461.99737::464.3835::Patient::But, because I was due on.
+465.12282::468.79349::Patient::Yeah, I, I think. Yeah, just the last couple of days.
+469.27319::472.4346::Doctor::OK, and, but you're expecting your period soon?
+473.58224::474.65508::Patient::Yes, yeah.
+475.16123::486.68513::Doctor::Sure. Um. OK, and just to ask a few questions. Are you, uh, do you have any other medical, uh, problems? Um, that I need to be aware of?
+486.71629::487.39505::Patient::Uh.
+487.86715::488.62175::Doctor::Don't .
+488.17334::490.47462::Patient::I'm um, allergic to Amoxicillin.
+490.64106::496.49042::Doctor::Allergic to Amoxicillin. Um, but no other medical problems, that you?
+497.23415::498.65551::Patient::No, not that I'm aware of.
+498.71117::501.90239::Doctor::Any drug allergies? Ohh, you mentioned Amoxicillin, but anything else?
+503.24933::504.35284::Patient::No, that's it.
+506.54271::510.2711::Doctor::Um, and, do you take any medications at the moment?
+512.48891::517.89097::Patient::Um, no, no medications, but I'm on the implants. I think it's called um, Implanon.
+517.76268::522.62194::Doctor::Implanon, yeah sure. OK. Uh, do you smoke?
+518.76565::519.58818::Patient::Or something.
+523.80453::524.48285::Patient::No.
+524.88502::529.15435::Doctor::OK, and uh, do you live with, uh, alone? With your partner?
+529.5551::530.68056::Patient::With my boyfriend.
+530.61478::537.72117::Doctor::With your boyfriend. And, um, any other medical, uh sorry, any, uh, diseases run in your, run in your family?
+538.65753::540.42403::Patient::Um.
+541.05578::542.03521::Patient::Not any that.
+542.64694::549.03593::Patient::Spring to mind in my immediate family. Um, my brother is a type one diabetic.
+549.3089::550.07533::Doctor::Sure.
+554.87392::555.5601::Doctor::
+556.40329::565.50738::Doctor::great so, um, is there anything that you're particularly concerned about with, um, this nausea, and uh, the constipation?
+566.37896::571.64921::Patient::Um, I don't know it just a really, like really horrible ache. Um.
+572.83922::577.99999::Patient::And I'm nauseous, hot, sweaty, feeling, I'm not really sure.
+578.17302::578.89566::Doctor::Mmm.
+578.83624::584.69816::Patient::I, yeah, why it's happening, um. the last couple of days, that's probably all that's.
+580.6007::582.26049::Doctor::yeah.
+585.67486::586.52159::Doctor::Any.
+585.73601::587.7886::Patient::Yeah, it's getting uncomfortable.
+587.52159::592.795::Doctor::Yeah. Anything that you'd hoped, particularly, to get out of having this consultation?
+594.43477::596.32991::Patient::Anything , sorry?
+595.73997::606.93897::Doctor::was there anything that you'd hoped to, get out of having this specific consultation? Other than a diagnosis, and getting better, and, you know, being on the right track to, to, feeling better?
+607.60306::611.47063::Patient::Yeah, I know that's kind of, I just wanna, um, get back .
+610.746::613.11166::Doctor::Get to normal, yeah.
+612.70481::614.06674::Patient::but a bit more .
+614.37066::622.05698::Doctor::Yeah, sure, sure. OK, um, so, and then finally. I, I didn't ask you, do you have any discharge, or anything like that, from down below?
+622.59993::625.82486::Patient::Uh, no, no, no discharge.
+625.47322::627.22832::Doctor::No discharge. OK.
+627.22832::631.49972::Doctor::All right. So, um, I , I, I think, uh.
+632.42666::644.38786::Doctor::This could be a few different things. It could just be simple constipation. Uh, you mentioned that you were bunged up, but you did go yesterday. So it's, um, and your, your bowel habits, that you've been going regularly.
+644.38786::649.54734::Doctor::Uh, but you did mention that you were bunged up. Um, but there could be a few other things going on.
+649.54734::657.30774::Doctor::I would quite like to, uh, see you to do some further, to do an examination, and to do some, some tests as well.
+657.30774::670.04205::Doctor::Um, we need to definitely rule out pregnancy, with you. And possibly, um, do some other examinations or, or further tests. So, would you be happy to actually see a GP face-to-face, um, soon?
+670.72402::673.01134::Doctor::Today, ideally.
+671.70751::673.05473::Patient::
+674.30386::675.34097::Patient::Yes, yeah.
+675.65436::676.37585::Doctor::Yeah?
+675.82261::677.16563::Patient::Sure, I can make time.
+677.07001::686.32077::Doctor::Are you, and you're feeling hot, hot and, sweaty. Have you been feeling, um, light-headed at all? Or like you're going to faint?
+677.7628::678.38149::Patient::
+687.576::689.8897::Patient::No, no, not like I'm gonna faint.
+689.79145::697.85983::Doctor::OK. Right well, we're just sort of, timing out, running out of time a little bit. But, um, I'd really like to see you, uh, for some more, uh, examination, investigations.
+697.85983::706.24188::Doctor::If in the meantime um, between now and, and me, sort or a GP seeing you, you feel worse in any way, you get light-headed.
+706.24188::717.44329::Doctor::Um, you, uh, uh you have, you develop any symptoms which are concerning to you. Um, then I think you should take them quite seriously, and, and see somebody more urgently if possible.
+717.44329::730.35651::Doctor::Um, OK. Is that, uh, , was there anything else that you wanna talk about right now? I'm glad we got the ball rolling with this, and uh, we can , um, sort of see you again, to take this a little bit further.
+730.60513::731.20183::Patient::Mm-hmm.
+730.90691::731.93979::Doctor::OK.
+732.08913::734.26424::Patient::Yeah, thank you, really appreciate that.
+734.25917::735.18032::Doctor::OK.
+735.96969::737.45061::Doctor::All right. Thanks for your time.
+737.60233::738.17386::Patient::
+738.45061::739.81032::Doctor::OK.
+739.02596::741.78243::Patient::cheers, bye.
+740.65205::742.51536::Doctor::Thanks, bye.

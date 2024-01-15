@@ -1,0 +1,97 @@
+2.05072::2.7971::Patient::Hi.
+2.77035::12.71311::Doctor::Hi, hello. I'm Doctor Jacob and welcome to Babylon. Hello. Hi. So just before we start, is it alright if you could confirm your name for me please?
+6.1739::7.77535::Patient::Hi there.
+12.93475::14.76084::Patient::get to my name
+13.09069::17.52512::Doctor::. And your date of birth?
+16.56518::18.68112::Patient::Fourteenth November nineteen ninety six.
+18.88184::20.68677::Doctor::And your address for me please?
+20.68112::24.20285::Patient::And twenty eight Great Road SW nineteen one EZ.
+24.21015::30.02869::Doctor::That's correct. And just to confirm that you're in a secure location, and we can have a confidential conversation.
+30.62311::31.44195::Patient::Thank you.
+31.40285::39.42112::Doctor::OK. So you've mentioned in in our notes that you've got some tightness. If you'd like to tell me a bit more about it please.
+39.87671::59.36939::Patient::Yeah about two to three days ago, I was running with a friend. And usually I can talk to her whilst I run, but I found myself actually short of breath. I'm not really sure of that when I'm walking. Um, but definitely um, if I'm walking briskly now. Um, and I've used my blue inhaler but to no avail. It hasn't really helped me.
+59.29674::61.56827::Doctor::. OK.
+60.65199::66.80415::Patient::Um, ohh yeah, so I'm having, I'm just wheezing a bit, and coughing and just generally a bit short of breath
+67.0234::74.14436::Doctor::Wheezing and coughing, OK. And you've mentioned you're using the blue inhaler. So, how often are you using the blue inhaler?
+74.85484::78.05049::Patient::Um, I think I'm just using that as and when I have symptoms.
+77.85485::84.25034::Doctor::Yeah. So, um, at the moment you are having shortness of breath. So, are you using it every day at the moment?
+84.95626::89.13741::Patient::Um, yeah, and morning or evening to kinda prevent it as well.
+89.19447::93.27342::Doctor::OK, and um what, which colour? What's the name of your preventor?
+94.00696::105.10837::Patient::Um, it's blue. Um, I think, in totality, I'm Salbutamol, Flanel Bactroban and Hydrocortisone that I'm taking as well.
+101.62221::102.27672::Doctor::Yeah.
+105.30419::108.78494::Doctor::OK. So could you repeat that?
+109.94168::112.42719::Patient::Er, Cetraben and Hydrocortisone.
+112.95732::116.27827::Doctor::And hydrocortisone. So you'd have eczema also, yeah?
+117.91267::118.91267::Patient::What's that, sorry?
+118.83233::120.99087::Doctor::You do have a history of eczema, ?
+121.75325::130.9851::Patient::Em, my brother is asthmatic and my sister has eczema. Em, and I've got a few issues, um, that I think could be eczema as well.
+131.04278::141.32332::Doctor::OK, right. So coming back to your, um, you know your shortness of breath. You've mentioned you're wheezy, and you're coughing. Are you bringing up any phlegm at all?
+141.60825::145.73142::Patient::Um, no I don't, um, I'm not covering up much .
+145.49946::147.52703::Doctor::OK, no sputum, OK.
+148.38049::156.89227::Doctor::Right . And um, how are you using your, um, your ? So are you using it every day?
+157.60094::162.6589::Patient::Um, I think I'm using that every day and the Salbutamol just like as and when
+162.56034::165.7253::Doctor::So, how are you using the ? Is it twice a day?
+166.37628::168.68062::Patient::Um, yes
+167.56224::168.18937::Doctor::twice
+168.72883::175.42688::Doctor::OK. And have you ever been admitted in hospital because your was so bad?
+177.32552::179.20233::Patient::Um, no, I haven't.
+179.25933::180.19219::Doctor::OK.
+180.80577::183.95541::Doctor::Righty-ho. When was the last time you had an asthma attack?
+185.34723::187.63708::Patient::Um, about three to four years ago.
+187.88859::192.26136::Doctor::Three to four years ago. And what, what did the GP do at that time?
+193.41243::199.3182::Patient::Um, just, um, encourage me to carry on using my inhalers as a preventative.
+199.19262::204.02817::Doctor::OK. So you didn't have any oral steroids or antibiotics?
+204.07181::205.45587::Patient::Not that I can remember.
+205.244::211.64483::Doctor::OK. Um, OK. Right, have you ever had oral steroids in the past?
+213.15874::214.26744::Patient::Um, no.
+214.61023::218.52715::Doctor::When was the last time you had an asthma review with our nurse?
+219.60075::221.23843::Patient::Uh, about two years ago.
+220.91302::222.86266::Doctor::OK. Two years ago.
+223.86266::228.20077::Doctor::OK. But, your asthma was pretty under control till, till now, isn't it?
+228.91232::231.89782::Patient::Uh, yes, just in the last two to three days .
+229.57193::237.68965::Doctor::Yes. So do you do a peak flow meter at home? Peak flow reading? Where you blow into, you know
+238.75526::239.99543::Doctor::Do you do that? No?
+241.86879::246.67313::Patient::Um, just every now and then. I haven't done overlap since I've has symptoms.
+246.442::252.7043::Doctor::OK. So, what was what's your peak flow reading when you're good?
+254.10347::257.66297::Doctor::Like normally peak flow reading.
+254.80353::255.6731::Patient::Um
+258.27454::263.49192::Patient::Um, I think
+264.34352::270.36779::Doctor::OK. Let's see it's about, um, three eighty, yeah? Yeah? three . OK.
+268.6948::269.33248::Patient::Yeah.
+270.36779::276.84058::Doctor::Right. So that's your normal, yeah? Righty-ho, OK. So what we need
+273.93392::274.74551::Patient::Mm-hmm.
+278.70845::281.21145::Doctor::OK. Do you have any allergies at all?
+282.56432::284.52809::Patient::Erm, I have a fever.
+284.71832::286.461::Doctor::Sorry, could you repeat that please?
+287.24547::288.96286::Patient::Sorry, I have hay fever.
+288.90612::292.70412::Doctor::OK. Now any allergies to medication?
+293.81792::295.27444::Patient::Ohh no
+295.6997::298.51811::Doctor::OK. So you're not allergic to anything? OK.
+298.85439::304.07727::Doctor::So no allergies. OK, excellent. Righty-ho.
+304.07727::313.71475::Doctor::So what we need to do that obviously we you haven't had an asthma check for sometime and it looks like you can be having a small, small exacerbation.
+313.71475::319.6759::Doctor::So what, I would like you to be seen by one of our GP's in the next few days.
+314.41665::314.93404::Patient::Mm-hmm.
+319.6759::324.94867::Doctor::In the interim, what I'd like you to do is you can use your blue inhaler as and when.
+324.94867::338.92704::Doctor::OK. You can use it maximum about every two to four, four hours, but if you're using it that often that means pretty much that, you know, your asthma is really bad. You can use it, but that's not ideal.
+325.64389::326.2236::Patient::Mm-hmm.
+338.92704::343.21206::Doctor::But uh, the brown your Clenil. The brown inhaler.
+339.06413::339.54964::Patient::Yeah.
+343.21206::351.06566::Doctor::You can up the dose. If you're using just three puffs twice a day, you can increase it to four puffs twice a day.
+351.06566::356.04148::Doctor::Yeah. And while, this is to do while you're waiting to see us.
+351.46989::352.22352::Patient::Mm-hmm.
+356.04148::368.83127::Doctor::Now, I've mentioned, you know, you're doing you know, increase the, uh, Clenil to four puffs twice a day and you're using the asthma, you know, the blue inhalers every two to four hours.
+356.82495::357.47713::Patient::OK.
+368.83127::375.67479::Doctor::And your breathing is getting really worse, then you would need to take yourself to A and E. You shouldn't wait for our appointment.
+375.67479::381.52508::Doctor::OK. So, when you'd opt to sneeze you, what we're going to do is we're gonna examine your chest, yeah.
+376.96256::377.44082::Patient::Yeah.
+381.52508::388.73982::Doctor::Make you do the peak flow reading. So depending on what we find, you might need some antibiotics and some steroids.
+382.6437::383.14371::Patient::Yeah.
+388.73982::396.68943::Doctor::But anyway, while you're at home, we're going to by increasing your Clenil, we are increasing your steroid intake anyway.
+397.11467::397.80308::Patient::OK.
+398.00598::403.75552::Doctor::So, yeah. So, any questions you wanted to ask me?
+402.57118::404.46248::Patient::No, that's thanks.
+404.62029::411.28301::Doctor::Yeah. So, book an call support, book an appointment to see and I will recommend that meet her face to face.
+411.28301::425.55816::Doctor::In the interim, increase your brown inhaler to four puffs twice a day, and your salbutamol inhalers up to every two hourly. But, if you breathing's getting worse and you've not seen us, do take your puffs to A and E.
+425.55816::426.60409::Doctor::All right?
+426.41167::431.10731::Patient::Great, OK. Thank you so much for your time. Thank you.
+428.60382::431.92471::Doctor::You're welcome. You take care then, bye, bye now, bye. Bye.

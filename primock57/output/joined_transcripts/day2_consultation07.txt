@@ -1,0 +1,128 @@
+0.0::3.63771::Doctor::Hi, Hi there, good morning.
+3.94963::5.08563::Patient::Hi, good morning.
+5.16323::8.87577::Doctor::Um, I'm Doctor Dean Resor from . Nice to see you.
+8.87577::10.33085::Doctor::
+8.87725::10.09736::Patient::That's the same thing.
+10.33085::14.77299::Doctor::OK great! So before we start your appointment, could you please confirm your full name and date of birth?
+15.20359::24.38296::Patient::Yeah sure! Um, my name is Jim Gowers and I was born in nineteen fifty eight uh on the eighth of August.
+15.31384::18.11265::Doctor::
+24.53647::29.3393::Doctor::That's great. Thank you so much for that. Um, you look a lot younger, so, um
+29.14532::31.78894::Patient::Yeah.
+31.44448::36.78297::Doctor::Does that, that would make you roughly about fifty years old, fifty one, fifty one years old. Is that is that correct or?
+36.25532::38.91484::Patient::Yeah, yeah around that. Yeah about sixty, yeah.
+38.84391::45.69609::Doctor::Six, OK, perfect. All right. So, um, nice to see see you this morning. Are you in a private place where you are OK to speak freely?
+40.24095::40.80614::Patient::Yep.
+46.13973::47.67599::Patient::Yes, I am. Yeah.
+47.37726::50.52221::Doctor::OK fantastic! So um, how can I help you today?
+51.18238::59.79453::Patient::Um, yeah. I was, I was having, um, a bit of chest discomfort. So, I was doing some gardening, um, a couple of hours ago.
+59.79453::68.29303::Patient::And I felt not exactly a pain but um like a a pressure on my chest, um, feels like someone sitting on my chest.
+68.29303::81.69914::Patient::Um, and, I've noticed, um, a bit of nausea, not, no vomiting but, um, I'm pretty sweaty, um, short of breath, and it kind of feels like someone's sitting on my chest.
+82.19841::83.28054::Doctor::Right, OK.
+83.80632::87.54986::Doctor::Now, do you have those these symptoms right now or have they gone off now?
+88.09217::89.76926::Patient::Um, no, they're still present.
+89.7835::92.8467::Doctor::OK. So, you've still got the chest discomfort right now?
+92.82323::93.68597::Patient::Yes.
+94.95132::96.42949::Doctor::OK, um.
+98.65648::101.72434::Doctor::We're probably gonna have to call an ambulance for you.
+101.72434::110.49611::Doctor::OK. So what I'm gonna do, is I'm gonna task my colleague next to me to sort that out. While we do that I'm gonna ask you a few more questions, OK?
+101.98307::102.76098::Patient::OK.
+110.28054::111.31677::Patient::Mmm, sure.
+110.49611::115.89627::Doctor::We're gonna a bit more information to the, to help the ambulance team when they, when they arrive, OK.
+115.41116::116.03774::Patient::Sure.
+115.89627::120.4624::Doctor::So just to, just to double check, um, where exactly in the chest is the pain?
+121.13017::133.8541::Patient::Um, it's in the, uh, middle of my chest, um, over, uh, yeah, my my pecs, so, um, yeah but not not necessarily to one side, um, and it's quite diffuse pain.
+132.09122::132.58399::Doctor::
+133.81268::139.21876::Doctor::Is, is it spreading anywhere else, like down into your arm, up to the jaw, in your neck, anything like that?
+138.84697::147.87104::Patient::Yeah. It's, it's, um, mainly in my left arm, er, it's feeling a little bit, um, er, painful, and, and in my shoulder as well.
+148.23335::151.71625::Doctor::Right, OK. Do you remember what you were doing at the time?
+152.09682::152.7588::Doctor::
+152.28967::159.89321::Patient::Uh yes, so it started uh just when I was gardening. So nothing that was too strenuous um I was just kneeling down and
+160.32832::165.07781::Patient::Uh, yeah, wasn't running or anything, it wasn't during any physical exercise.
+164.88823::171.3785::Doctor::Sure, OK. And, and how much activity do you do normally? Do you walk a lot or do you run or do you do anything?
+170.71818::176.1967::Patient::No, I don't, I, I generally don't do much activity at all, um, you know.
+176.37202::178.14749::Doctor::Have you had this before?
+178.37793::180.65337::Patient::No, this is the first time, actually.
+180.97615::187.77689::Doctor::Right, OK. Can are you aware of any palpitations, like your heart beating faster or more prominently than normal?
+182.22587::182.85628::Patient::Yeah.
+188.00145::192.5234::Patient::Um, yeah. It's, it's beating a bit faster now. I think that's 'cause I'm a little bit stressed.
+192.5234::200.27742::Patient::Um, about the situation but I haven't noticed it, um, beating faster than usual, um, and I did today.
+195.94027::196.5952::Doctor::
+198.28187::198.83821::Doctor::
+200.42976::209.52784::Doctor::So, I know you're stressed but, but we've got an ambulance coming on the way, OK? So um, we'll take care of everything, so don't, don't worry. Who's in the house with you at the moment?
+204.36185::204.92521::Patient::Yeah.
+207.24142::208.31389::Patient::OK, thank you.
+209.87914::212.00964::Patient::Uh, no, no one's in the house at the moment.
+212.44815::216.7557::Doctor::OK. Um, and is your front door open?
+217.03886::218.54614::Patient::Uh, yes, it's open.
+218.74499::226.48144::Doctor::OK so maybe we'll, we'll speak maybe in the hallway to the front door. Have the front door open so that, in case people need access, they could access you.
+225.92333::227.5538::Patient::Yeah, yeah .
+226.48144::230.99058::Doctor::Alright. Um, so, um, uh, are you a smoker at all?
+231.4437::239.91673::Patient::Uh, yeah, I smoke, um, a fair bit so I smoke about ten cigarettes, uh, a day. Um, yeah.
+239.7401::241.45158::Doctor::How long have you been smoking for?
+241.89505::244.55456::Patient::Uh, for the past fifteen years.
+244.58204::251.17631::Doctor::Fifteen years, OK. Um, do you have, um, high blood pressure or high cholesterol or diabetes or anything?
+246.23051::246.77922::Patient::Yeah.
+251.59103::255.61295::Patient::Yeah, I have high blood, uh, blood pressure, but, um, not diabetes.
+255.66543::257.85956::Doctor::OK. Have you ever had your cholesterol checked?
+258.27247::259.14927::Patient::No.
+259.3068::269.57309::Doctor::OK, all right. Um, now anyone in your wider in, in your family, sorry, in your parents, did either of them have any heart problems, or heart attacks, or anything like that?
+265.16406::265.88868::Patient::Yes.
+268.52646::276.95444::Patient::Um, yes, so, my, um, father died of a heart attack, um, and my mother had some heart problems.
+273.03157::273.80367::Doctor::
+276.69826::282.81089::Doctor::OK. Uh, I'm sorry to hear about your father. Can you remember what age roughly he was when he had, he had the heart attack?
+283.05463::285.31713::Patient::Um, he was about my age.
+285.79979::288.79861::Doctor::Right so just under sixty, around sixty.
+288.42595::290.15788::Patient::Yes, around sixty, yes.
+289.66018::293.14596::Doctor::Yeah, OK, alright. Um, do you drink much alcohol?
+293.57106::299.65818::Patient::Um, yeah, I drink, um, about, per week, probably about seven or eight pints a week.
+300.00538::302.65538::Doctor::OK, is that a, a beer you're talking about, yeah?
+302.15116::303.61496::Patient::Ohh. Yeah, yes.
+304.10654::307.58956::Doctor::Uh, I, I can't tell from the video, are you overweight?
+308.06599::310.32458::Patient::Um, yes, I'm overweight, yeah.
+310.4522::317.16864::Doctor::Right, OK. Alright. Um, uh now um, you, do you normally live alone?
+310.86251::311.32073::Patient::Yeah.
+317.94297::323.11587::Patient::Uh, yeah. I live alone, uh, at the moment. Yeah, uh, it's just me in the house.
+322.82464::325.92642::Doctor::Sure, OK, and, and, uh, are you working at the moment?
+326.1957::328.27548::Patient::Yeah yeah, I, I work, yeah.
+328.81468::330.33224::Doctor::Right, what do you work as?
+330.54367::334.8627::Patient::Um, I work as a restaurant owner. So I own a sushi shop.
+335.30749::342.51626::Doctor::Right, OK. Alright. Um, so, um, the, the symptoms that you've described to me
+336.3265::336.85546::Patient::Yeah.
+342.51626::348.12754::Doctor::Um, they indicate the possibility of, um, a heart attack.
+348.12754::354.67002::Doctor::OK? So, I'm not saying you definitely have a heart attack, but we, that, it's our number one priority to exclude that.
+348.33433::349.03125::Patient::OK.
+354.67002::360.33186::Doctor::OK, so ambulance team will be with you very shortly. I'm gonna stay on the line with you until they come.
+355.11722::356.24767::Patient::OK, yeah.
+360.33186::366.81782::Doctor::OK. when they come, what they'll do is, they're gonna put some stickers on your chest and do an ECG.
+360.54496::362.04017::Patient::OK, yeah. Thank you.
+366.81782::371.28408::Doctor::And then decide where to take you after that, OK?
+366.94377::367.66115::Patient::OK.
+370.47285::371.63228::Patient::OK, no.
+371.28408::377.66435::Doctor::And um, what, what, uh, can I just double check? Do you have, um, any allergies to any medication?
+377.93694::381.11098::Patient::Yes, actually, I have, um, an allergy to aspirin.
+382.10601::383.51079::Doctor::Right, OK.
+382.9806::384.99515::Patient::Yeah, and no other allergies.
+384.84882::392.39503::Doctor::Sure. Uh, what's the nature of that allergy to aspirin? Do you, does it, does it cause you heartburn? Or is it like an allergic reaction?
+390.865::391.49541::Patient::Um
+392.74905::400.0041::Patient::Yeah, uh, it's an allergic reaction, so I swell up, um, a bit, but, um, nothing life threatening.
+400.0041::404.9816::Patient::Um, I've, I, sometimes even have it and it's, it's a, it's a mild reaction to it.
+405.04366::410.17309::Doctor::OK, all right. It's very important that you communicate that to the hospital.
+406.24248::406.7497::Patient::Yeah.
+410.17309::416.852::Doctor::Um, the detail you just told me, because, um, we, we may need to consider aspirin despite allergy, OK?
+410.26932::410.98896::Patient::OK.
+415.22104::416.17756::Patient::Ohh, OK.
+416.852::421.92246::Doctor::Um, alright, um, now in terms of, um, what happens from here
+417.24278::417.69202::Patient::OK.
+421.92246::433.32819::Doctor::That team will assess you and then they may take you into one hospital or another based on how bad , what the ECG looks like and what kind of treatment you might need, OK?
+422.07628::422.76467::Patient::Uh huh.
+433.32819::443.7434::Doctor::Um, what I'm going to do is, we'll stay on the line for the time being, OK, until they come, and then, um, once they come, then I'll hand over to them and I'll explain what's going on, alright?
+433.4319::434.19276::Patient::OK.
+437.09867::437.89576::Patient::OK.
+443.35254::445.04099::Patient::OK, OK, sure.
+445.35425::445.92467::Doctor::OK.
+445.93953::446.71488::Patient::Yeah, thank you.
+449.07186::453.00178::Doctor::we'll end the conversation after the purposes. Is that OK?
+451.70794::451.75848::Patient::
+451.75848::455.19341::Patient::Yeah, that's, OK. OK, thank you very much.
+454.81145::456.13141::Doctor::thanks! Bye!
+456.3338::457.44::Patient::Thank you. Bye.

@@ -1,0 +1,124 @@
+0.0::0.53691::Patient::Hello.
+1.09774::9.9649::Doctor::Ohh hello. Hi, how you doing? Uh, my name's Joe. I'm one of the doctors here at Babylon. Can I just confirm your name please?
+2.63759::3.31544::Patient::Hi.
+9.9649::12.97452::Doctor::Yes. Brian .
+10.2215::12.64433::Patient::Yeah, sure. My name's Daniel .
+12.97452::17.30084::Doctor::Hi Daniel. And your date of birth? .
+15.81213::16.77304::Patient::Yeah. May .
+17.43469::18.68462::Patient::Nineteen ninety two.
+18.71438::25.3084::Doctor::Ninety two. OK, Daniel. And uh, are you in a, a comfortable and confidential place to talk?
+25.69808::26.67123::Patient::Yeah. Totally.
+26.51632::29.40615::Doctor::, happy to go ahead. Great. How can I help?
+30.12091::33.82562::Patient::Um, yeah, I just, my chest has been feeling really tight.
+35.09791::38.23326::Doctor::OK. And how long has this been going on for Daniel?
+38.6243::39.71301::Patient::Uh, for about.
+40.44719::41.57733::Patient::Three hours now.
+42.83761::52.00012::Doctor::OK. And, so, tight chest, three hours. Um, and, so you're born in ninety two, so that makes you twenty six?
+52.00012::59.07548::Doctor::Um, and, you are, uh. Any shortness of breath at all, with that?
+52.63998::53.5908::Patient::Twenty six, yeah.
+60.70187::66.06892::Patient::Yeah, like a little bit, um. Yeah, a little bit short of breath, not too bad.
+66.41386::68.63192::Doctor::Uh, any cough? Wheeze?
+69.7593::74.54391::Patient::Yeah, I'm feeling a bit wheezy, as well. Kind of cough , coughing, yeah.
+74.46653::79.45904::Doctor::Slight cough, yeah. , sore throat? Runny nose? Sore ears?
+76.27911::76.76539::Patient::Yeah.
+79.53721::87.17267::Patient::You know I had a cold last week, and, it's not as bad as it was, but yeah, I had a sore throat, I had a runny nose. Uh, just feeling under the weather.
+87.1884::90.9403::Doctor::Mm-hmm. Are you feeling better now, other than the tight chest?
+91.01818::96.40304::Patient::I mean I feel worse, but the runny nose isn't as bad any more. .
+95.59444::102.82756::Doctor::Right. OK, OK, but you now, now you've got this, this um. So you've still got, still got uh, symptoms of a cold, essentially?
+102.85945::104.71851::Patient::Yeah, but the cough's kind of stuck around.
+105.11328::107.45164::Doctor::Uh, ooh, yeah, OK.
+110.05315::111.6321::Doctor::And are you coughing up anything?
+112.24203::113.06753::Patient::Uh, no.
+114.97451::119.42544::Doctor::And, um, do you have any other medical problems, like asthma?
+119.84679::123.45628::Patient::Yeah, yeah, I have asthma, I've had it for a while now, um.
+123.91798::129.90654::Patient::And then I have like, a hayfever, you know, and some allergies just to dust, stuff like that.
+128.52692::130.76753::Doctor::, OK.
+132.26377::135.88785::Doctor::You have any, inhalers? Or any, any medications?
+136.82072::143.05425::Patient::Um, yeah, so, uh, you know the um, uh, Ventolin. It's called uh, Salbutamol.
+143.35405::144.32398::Doctor::Yeah.
+144.38601::148.86575::Patient::I got that one, and then I have a steroid, a Clenil, Clenil inhaler.
+149.03077::151.66373::Doctor::Clenil, Clenil Modulite, yeah, OK.
+151.04897::152.2422::Patient::Yeah, yeah.
+152.4952::159.72723::Doctor::And um, uh, have you been using Clenil and the Ventolin? And how often have you been using them?
+159.67762::169.36979::Patient::Um, well to be honest, I was away at uni last week, and I forgot to bring it with me, so I haven't really in the past week. Uh.
+168.20378::169.79777::Doctor::Both of them?
+170.96631::175.05927::Patient::Because , because um, sorry, they ran out and I, I forgot to, go and grab the next one.
+174.79028::176.20381::Doctor::Yeah, sure.
+175.76451::177.73895::Patient::About a week ago. Yeah.
+177.09103::183.02339::Doctor::OK. All right, all right. So, so, so you've, you haven't got any Clenil, or any Ventolin at the moment?
+183.38327::185.5108::Patient::Not with me right now, no, I ran out.
+185.53468::191.96328::Doctor::OK. All right. Um, and , any drug allergies, that you know of?
+192.21618::198.72928::Patient::No, no, not allergic to anything. Just like, just the, dust and stuff, but nothing, no drugs.
+198.78286::205.15884::Doctor::OK, great. Now, uh, do you, anyone in your family have any medical problems, that you know of?
+205.20356::212.69658::Patient::Um, yeah, my mum has eczema, and my dad has asthma. , ohh, when I was young, I also had eczema.
+212.69658::216.22906::Patient::And I had a milk protein allergy, when I was young too.
+216.35438::221.07621::Doctor::Hmm. OK. Um.
+222.37696::232.46724::Doctor::Right. So, just uh, , do you have any other, sort of concerns? Or ideas about what might be going on? Or, um, hopes for this consultation?
+232.06135::232.86672::Patient::Um.
+234.22463::241.22922::Patient::Not really, like I feel like asthma's probably a part of it, and, probably getting my, inhalers would be helpful
+242.12094::250.7527::Patient::Um. It's just kinda scary, 'cause I haven't had, a time like this where I've been so, tight, uh, in a long time.
+251.21923::254.25142::Doctor::Yeah, absolutely, I can, I can imagine.
+254.25142::267.64037::Doctor::Um, well, it certainly sounds like uh, you've, you've had this cold, so you've got wheezy with a cough. Um, and it's non-productive cough, and you're short of breath. Uh, is the cough worse at night-time?
+268.8176::274.36355::Patient::I mean, it gets a little bit worse at night but, basically, just pretty consistent, and it hasn't gone away.
+273.06897::273.88852::Doctor::Yeah.
+275.22672::282.18439::Doctor::OK. And you've got this tight, tight chest. But you, you wouldn't say you've got chest pains? It's more of a tight chest, is it?
+281.87731::284.79957::Patient::No, not really pain, it's more like, tight.
+285.76405::289.06832::Patient::It just feels like sometimes, I can't get a full breath in, you know.
+289.09911::302.06911::Doctor::Yeah, sure. Um, OK. Well, I, I would quite like to, uh, certainly get you some, uh, Ventolin, Clenil Modulite. Have you had asthma exacerbations in the past?
+302.43751::313.75971::Patient::Not in a long time. When I was young, a little bit, more like, back in high school. Um, but, I've been pretty good at taking my , my inhalers, so, not, not so much any more.
+308.61801::309.28718::Doctor::Yeah.
+313.66314::319.44513::Doctor::Have you ever been to hospital, uh, as an inpatient? As in, you know, stayed in there overnight, for asthma?
+319.63893::322.98498::Patient::Yeah, when I was in high school, I had to have a tube put down my throat.
+323.13095::334.84544::Doctor::Ohh, OK. So you, so, so you, uh, you , you went to hospital, and had a, a, . So you stayed in hospital for a few days did you, with an asthma exacerbation?
+334.8135::335.86048::Patient::Yeah I did, yeah.
+335.76852::341.52794::Doctor::OK, but currently you're just on Ventolin and Clenil? And you haven't got any of those steroids, uh, those inhalers at the moment?
+341.88064::345.80683::Patient::Yeah, I'm doing pretty good, I'm doing pretty good, just on the Clenil, and the Salbutamol.
+345.67834::350.90393::Doctor::OK. When, sorry, how old were you when you had that severe asthma exacerbation?
+351.09545::353.77331::Patient::Uh, I think I was like seventeen.
+354.88069::355.99478::Patient::Sixteen maybe.
+356.37713::360.33934::Doctor::Sure. OK. Um.
+363.20473::369.83602::Doctor::Just to quantify how short of breath you are, um, I don't suppose you've got a peak flow with you? No, you won't have will you.
+369.46465::370.62572::Patient::No, no.
+369.83602::381.41536::Doctor::Um, are you able to, uh, like walk up, flights of stairs OK? Walk on the flat OK, without getting to short of breath? Or um, are you short of breath at rest?
+381.96135::386.48313::Patient::Uh, I'm definitely not short of breath at rest, like, except for that feeling I was describing.
+386.48313::392.46475::Patient::It does when I'm walking up stairs, I do feel like, I have a little bit, more short of breath than I would normally be.
+392.55828::396.78138::Doctor::Sure. Yeah. OK, but you're not short of breath at rest at the moment?
+396.57215::397.92115::Patient::No, no, no I'm not.
+397.83625::410.40048::Doctor::OK, fine. So, what, what I think, um, and just to, just to go over, . Is there anything you had hoped about getting other than the uh, a, prescription for your inhalers? Was there anything else you'd hoped about getting from this?
+409.95476::417.38433::Patient::Well I just wanna know that I'm OK, to just like keep. I just don't wanna have to get, um, that, that intubation again.
+417.38548::430.62615::Doctor::Sure, yeah, no, absolutely. Well, I'm really glad you have talked to me today. I think what we can do is, is give you a prescription for, uh, some more of the inhalers. We can get that to you, within the hour, I would hope.
+418.41789::420.68635::Patient::Uh, .
+430.62615::443.47447::Doctor::Um, and, uh, I think, what, the other thing I'd like to do is just give you a, dose of steroids. So this is, these are tablets which, um, you can take for five days. Uh, two tablets in the morning.
+443.47447::449.13753::Doctor::And, uh, that should just dampen down your asthmatic response, OK.
+448.9281::449.53884::Patient::OK.
+449.13753::459.66826::Doctor::Um, now there are some side effects to the steroids. Which I should really tell you about, but please read the label, that's associated with. Don't be too worried about the side effects.
+459.66826::468.49854::Doctor::They're , most, you know , most of the time the steroids are, very well tolerated. And, uh, you . Have you had them in the past, do you know of?
+468.96847::472.23694::Patient::Sorry, sorry, you were cutting in and out a little bit there. What were you saying?
+471.28051::474.04744::Doctor::. Have you had steroids in the past?
+474.71345::479.08931::Patient::Um, I can't remember, probably. I think so.
+477.60384::486.39336::Doctor::Probably, yeah I would too. So, um, they, they can come, they can make you, your mood change, can be slightly low or too, slightly high.
+486.39336::500.62776::Doctor::Can give you, a high blood sugar, um, and, uh, their. Uh, , they can also cause rash, nausea, um, headaches, but, mostly is well-tolerated, and it should help your asthma an awful lot.
+500.62776::523.50839::Doctor::Um, uh, what I'd like to do is, is send you these, the, some prescriptions for your, uh, inhalers, , ongoing. So you, um, you can, once you get better from this asthma attack, you can, you can, use the Clenil Modulite in the morning, with Ventolin as a PRN. , so, a Ventolin when you need to, um, when you're getting wheezy.
+500.93505::501.61291::Patient::OK.
+522.56603::523.23717::Patient::OK.
+523.50839::529.02518::Doctor::If you should start to use the Ventolin more than, uh, every three hours.
+529.02518::538.29862::Doctor::Uh, at, at anytime, it's a good idea to seek medical attention. So, um, see a doctor, um, in some capacity.
+536.5124::537.00904::Patient::Yeah.
+538.29862::549.57417::Doctor::Uh, and, the other thing I'd like to send you is a spacer, which would allow the medication to actually, go into your lungs better. Have you, do you know what a spacer is? Have you used one before?
+549.84803::555.52591::Patient::Yeah, yeah, I, somebody told me how to use one a while ago. I don't, I don't really use it, to be honest, but.
+555.76217::557.03285::Doctor::Have you got one?
+558.31116::560.17693::Patient::I think I do, I have one somewhere.
+560.17572::574.61189::Doctor::OK. All right. Well, um, I'll send you another one, and it has some instructions about how to use it, but essentially, uh, couple of puffs to prime it, inside, breathing in and out, um, uh, for five or , five or ten breaths.
+575.59312::576.25083::Patient::OK.
+576.24347::578.68709::Doctor::Uh, yeah. So.
+580.07807::584.86004::Doctor::Uh, was there anything else that was on your mind? Or you're concerned about at this stage?
+584.82805::586.59987::Patient::, I think you got me covered.
+587.01795::604.13834::Doctor::OK, and, and uh, I might give you some time off work as well. You can self-certify first seven days, but uh, I think I would advise you just to, rest a little bit until you're feeling a bit better, if you're OK with that. All right?
+601.59994::604.12344::Patient::OK, .
+605.50599::607.55969::Patient::All righty. Well, thank you very much.
+606.20602::618.49561::Doctor::OK. No worries. Any deterioration in your symptoms, like worsening shortness of breath. Um, or just generally concerning symptoms, uh, pain in your chest tightness, uh, feeling light-headed.
+618.49561::622.567::Doctor::Uh, then, seek further medical attention anytime please. OK?
+622.84165::623.91547::Patient::All right, sounds good.
+624.31889::625.86025::Doctor::OK. Thank you.
+625.78796::626.97588::Patient::OK, thank you. Bye bye.
+627.18844::627.76254::Doctor::Bye bye.

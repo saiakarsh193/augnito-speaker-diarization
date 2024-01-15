@@ -1,0 +1,101 @@
+4.43265::5.17733::Doctor::Hi.
+6.48229::7.25534::Doctor::Hello.
+7.37826::9.11435::Patient::Hi, hi I'm Maria.
+8.11349::8.58158::Doctor::
+9.58158::12.5674::Doctor::Hello, I'm Doctor Jacob and welcome to Babylon.
+13.05882::13.9745::Patient::
+13.73053::14.88656::Doctor::How are you doing?
+15.58643::20.2562::Patient::I'm all right, thank you. Well I feel a little weird today, to be honest.
+20.08516::25.64515::Doctor::Yeah, so just before we we start, is it all right if you could confirm your full name for me please?
+26.05103::28.88356::Patient::Yes. Maria Trabalotsa.
+28.87244::31.15614::Doctor::OK, day and your date of birth?
+31.78888::36.23357::Patient::That is the first of October, ninety-nine.
+36.41858::39.85831::Doctor::OK, and your email address for me please?
+40.56044::45.21107::Patient::Yes, M Traba at Gmail dot com.
+40.65263::41.14199::Doctor::
+45.64395::52.04469::Doctor::OK, and just to confirm that you're in a secure location and we can have a confidential conversation?
+52.96052::55.2904::Patient::Yes I think I am, yeah.
+55.12336::65.95031::Doctor::Good, right, you've mentioned in in, in your patient notes that you're having some sort of lip swelling, and you after you had a sandwich. Is that correct?
+66.50088::75.56304::Patient::Yeah that is, well, I don't think, I don't think it was, it it wasn't a sandwich but it was, it was something with prawn so.
+75.56304::83.01534::Patient::Basically, I, I sometimes go with my friends to, to this place called .
+83.01534::91.33071::Patient::And, we, we regularly have like usually I have like a normal vegetarian soup or something.
+91.03589::91.73093::Doctor::Mm-hmm.
+91.33071::95.80867::Patient::And yeah, and, then I wanted to try something new.
+95.39052::96.24158::Doctor::Mm-hmm.
+95.80867::107.97308::Patient::Um, so what happened was, I, I ordered a prawn soup it it's it it's called it's like a soup, I ordered a prawn one this time.
+107.60045::108.33384::Doctor::Yeah.
+107.97308::116.76019::Patient::And, yeah and then my feel like my lips started feeling a little weird just in the in the corner sort of on the left first.
+116.24878::117.00764::Doctor::Mm-hmm.
+116.76019::126.23073::Patient::And then, I don't know and then, we went back we had little bit of chat, of banter I wasn't really, paying attention.
+125.72401::126.44032::Doctor::
+126.23073::138.09219::Patient::Uh, now I feel the that there is a swelling, there is like a swelling on my, on my upper lip and it's kind of getting bigger. I don't know what to do.
+131.28431::131.93679::Doctor::Yeah.
+136.56802::137.13539::Doctor::Right.
+138.13539::142.76662::Doctor::All right. So when did you have the prawn soup? What time?
+143.9516::149.80896::Patient::That was, that must have been just after work, so maybe like around seven.
+150.03617::155.90854::Doctor::OK, around seven o'clock, and um how long did it take to develop the swelling?
+156.90579::166.46513::Patient::Well I wasn't really paying attention so, it must have been like, must have been like, I don't know half an hour maybe.
+166.14264::168.99371::Doctor::OK in half an hour you developed the swelling yeah?
+169.20673::170.27841::Patient::Yeah.
+170.44053::173.12139::Doctor::OK, and it's getting bigger and bigger?
+174.01504::182.21228::Patient::Yeah it's it it still feel it like, really pumping blood and it's kinda getting bigger it feels like it's getting worse.
+180.88739::193.88746::Doctor::OK. So, just a few more questions. Um, so you mentioned about your swelling of your lips. Is there any feeling of swelling in in your throat, like your throat is closing up, any feeling like that?
+194.38764::199.88846::Patient::Yeah actually, I, I feel like I can't breathe that well right now.
+199.80239::200.60381::Doctor::OK.
+201.74565::205.17829::Doctor::And do you feel like, like your chest is tight?
+207.04924::216.62969::Patient::And I don't know if it's the chest it just generally feels a little difficult, but yeah it might be, I'm not sure.
+212.73152::213.4762::Doctor::OK.
+216.56841::218.4975::Doctor::OK, right.
+219.60388::227.92888::Doctor::And just a few have you ever these any kind of lip swelling in the past? After eating any food?
+228.5304::234.31926::Patient::Yeah, well, maybe, I remember like a year ago.
+234.8934::239.08917::Patient::A year ago I was, out with my friends.
+238.61108::239.34867::Doctor::Mm-hmm.
+239.40087::251.59097::Patient::And I think we went like, to a late night kinda Chinese place, and I remember that I was quite drunk to be honest.
+251.07923::251.95867::Doctor::Sure, OK.
+251.59097::256.33698::Patient::And I remember that after like having that very late.
+256.68453::270.01011::Patient::I've woke up the next morning quite swollen up and had also I, felt really bad and quite difficult breathing, but I don't know what it was I had it was like a curry or something I think.
+261.10056::261.83106::Doctor::OK.
+265.24951::266.07221::Doctor::Right.
+269.22051::278.20476::Doctor::OK. Uh, and what did you take at that time? Did you use anything like antihistamine or anything, when you had that last time?
+278.67689::287.32494::Patient::But I generally have asthma so, I took I, I take, ohh what's it called? Salbutamol inhalers?
+286.99431::287.76026::Doctor::Yeah.
+288.35371::293.91653::Patient::Yeah, so I do take that regularly but I've always taken it. I generally have asthma.
+293.76029::300.29224::Doctor::And any other inhalers? Is it just the Salbutamol that you use? Any other brown inhalers?
+301.36027::305.47883::Patient::Ohh I, no I don't think so, no.
+302.61849::303.1504::Doctor::
+304.53887::315.50379::Doctor::OK right and um so, do you use antihistamines like Cetirizine, Loratadine, Piriton, any of those, kind of things?
+316.576::326.97681::Patient::Hmm, no. I, I got no I do sometimes but I don't know which ones, but I have a peanut allergy as well, like always had it.
+324.63279::325.29236::Doctor::Yeah.
+326.90939::327.55478::Doctor::Yeah.
+326.97681::332.31957::Patient::I, think I do get antihistamines for that but I'm not sure which ones.
+332.18601::338.83143::Doctor::And any point because you had peanut allergy, any time you have to ever use like an injection?
+340.96587::349.34656::Patient::When I was a kid I think I remember my mom told me about it, but I don't know what it was 'cause I was small and I've changed doctors since.
+349.98043::356.8383::Doctor::Right, so has your mum ever said that you had to go to hospital because you had an severe allergic reaction?
+357.18658::369.29782::Patient::Yeah is that well I was like six or something I, I, I think. Ohh sorry, the swelling is getting, ohh my god ohh, yeah I think when I was six.
+365.54789::366.12236::Doctor::Oh.
+368.32643::370.72779::Doctor::You all right? Are you OK now?
+371.86004::375.53478::Patient::Ohh, I feel a little dizzy right now to be honest, ohh.
+371.9238::372.86706::Doctor::Are you .
+374.51697::381.71816::Doctor::You're feeling dizzy. OK, right do you have any kind of, uh, antihistamines with you at the moment?
+384.2463::387.59995::Patient::No, I don't think I have no.
+386.59924::389.53122::Doctor::OK, right OK, so.
+388.74291::390.17751::Patient::
+389.99963::414.71835::Doctor::Right, uh, all right I, I'm really a bit worried about you at the moment, Maria. Um I think we need to call an ambulance, because, um, from what history you've been telling me. It sounds like you could be going into what we say an a, an anaphylactic reaction. That's when your throat and your chest, you know closes in and you might need an injection like what your mum's.
+414.71835::423.71389::Doctor::Um, you know what your mum told you as you were a young child. OK, all right so is there any, anyone with you at the moment or are you alone?
+418.24968::419.11897::Patient::
+423.7963::426.21284::Patient::I'm alone at the moment, yeah.
+425.25064::435.37094::Doctor::Ohh no so hang on the line, while I'll call the ambulance OK, and I'll send them right to you, OK and .
+434.16563::439.6236::Patient::Hey ohh somebody just came, somebody just came yes, I'm not alone any more. Thank.
+438.74717::459.03517::Doctor::All right, OK somebody just came. So just call the ambulance make sure that person's with you till the ambulance comes, yeah. Uh and because we are worried about an anaphylactic reaction so you need go straight away. Could you ask the person whether they have any antihistamines around, in the interim, while we're waiting.
+459.2271::464.46977::Patient::Yes, uh Mum, Mum do we have any antihistamines around? Yes.
+464.22508::481.14587::Doctor::Yes K. Do that straight away and if mum can call. Mum, if you can call the uh nine nine , nine nine nine yeah, and say that your there is a suspected anaphylactic reaction and they need to come straight away. OK.
+464.46977::467.14123::Patient::Ohh yeah yeah we do .
+481.283::483.70054::Patient::Yes she said she will yes, yes.
+482.89829::487.58368::Doctor::All right, so straight away take the antihistamines in the meantime all right.
+487.46976::490.28436::Patient::OK, OK. Yes, thank .
+488.45796::498.78006::Doctor::And after you come out from the hospital do give us a ring back we might need to sort you out, um, with your injections and things like that OK?
+498.3037::502.60227::Patient::Yes, yes will do, yes, thank .
+501.49187::502.16563::Doctor::All .
+502.59438::504.51186::Doctor::OK then, take care.
+504.77727::507.70539::Patient::Thank you very much thank bye bye.
+505.73978::507.66919::Doctor::Bye bye, bye.

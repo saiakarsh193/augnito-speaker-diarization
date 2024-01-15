@@ -1,0 +1,97 @@
+1.57265::5.90599::Doctor::Hi there, good morning. Or good afternoon, sorry. Hi.
+4.27067::7.95488::Patient::Hello there. Uh, good afternoon. This is Jack.
+6.82907::7.4359::Doctor::Good afternoon.
+8.38462::11.62394::Doctor::Hi. This, this is Doctor Deen Mirza from GP at Hand.
+12.24811::13.24811::Patient::I do.
+13.07693::17.47865::Doctor::All right. So before we start your appointment, could I please confirm your full name and date of birth?
+18.1654::21.93231::Patient::Yes, uh, my name is Jack Armani.
+22.94019::24.01712::Doctor::That's great, thank you.
+23.37592::26.33832::Patient::And my date of birth is
+27.45862::29.99997::Patient::twelve August nineteen fifty eight.
+30.59832::35.41884::Doctor::That's great, thank you for that. Um, are you in a private place where you're OK to speak at the moment?
+35.39846::36.33079::Patient::Yes, I am.
+36.41884::38.84619::Doctor::OK. So, how can I help you today?
+39.36838::46.83454::Patient::I am. So, I woke up, um, this morning, and, um.
+48.16537::49.4586::Patient::
+51.97739::52.77439::Patient::Hello?
+52.4616::55.0257::Doctor::Yeah I'm still here, you'll tell . Yeah.
+53.56386::62.96987::Patient::Uh so I'm a bit worried 'cause I woke up this morning, about an hour ago, and I couldn't move my left arm any more.
+62.84623::63.84623::Doctor::
+64.84623::67.74367::Doctor::OK. Uh, and how's your arm right now?
+67.84204::69.43602::Patient::Um.
+70.827::76.38339::Patient::Well like, I feel no pain but just, uh, can't move it.
+76.53::80.96591::Doctor::That you still can't move. And, and what time did you wake up? You said it was an hour, you're sure about that?
+82.1127::82.93225::Patient::Yes.
+84.1454::85.76078::Doctor::OK, um.
+86.54711::89.40181::Doctor::Now, can I just double check? Has this ever happened before?
+89.72172::93.93976::Patient::No. No, uh, it's really the first time.
+94.40182::100.93174::Doctor::OK. And, did you sleep, anything, in an awkward position, or in a different bed, or anything like that last night?
+101.12772::104.27809::Patient::Uh no, uhf, everything as usual.
+105.1967::110.04286::Doctor::OK. Um, and um, is there any discoloration in your hand?
+110.50365::111.72921::Patient::Um, no.
+112.74372::115.67535::Doctor::K, um, does your hand feel cold?
+116.7668::125.48859::Patient::Mmm, no, really the, mmm, the arm feels fine, apart from me not being able to move it.
+125.73519::131.18819::Doctor::OK. And it's to your on your left side. Have you had any symptoms in your left leg at all?
+131.99987::138.39083::Patient::No, but um, I feel a bit of tingling on the left side of my face.
+140.15401::145.16257::Doctor::Right, OK. Um, and how long has that tingling been there for?
+145.3382::155.24796::Patient::Uh, since I woke up. Um, since I started to feel the , since, since the the arm really it stopped moving, so an hour ago.
+156.12839::157.72669::Doctor::OK, um.
+158.72669::170.76089::Doctor::Now, um, I can't see you. It's, it's telephone appointment. Have you noticed any kind of, um, asymmetry in your face, or did your face expression look different on one side compared to the other, or anything different at all?
+171.84944::173.39831::Patient::Um.
+175.05996::178.48853::Patient::Mmm, no, not really, it's just.
+180.35319::193.21784::Patient::Uh, having like a bit of issues like, uh, I was trying to drink earlier and I'd be bold a bit and and the tingling on, on the left side.
+194.07717::198.47033::Doctor::OK. So, um, you have some difficulties swallowing, is that right?
+199.74415::202.78174::Patient::Um, yeah.
+202.98316::208.18829::Doctor::OK. Any problems with your speech? Is your, is your, is your speech different to how it, um, sounds normally?
+208.7291::219.46593::Patient::Um, yeah it feels a, a bit harder . It's more complicated maybr, maybe um, be more slow. I need to think more about it.
+219.8037::223.69259::Doctor::OK. Is there anyone at home with you?
+223.08998::223.96968::Patient::Uh, no.
+225.62421::227.33362::Doctor::OK.
+226.52607::228.99223::Patient::Is this something I should be worried about?
+229.8208::237.39346::Doctor::Um, well, um, I'm I'm concerned that some of the symptoms you've got may be, um, symptoms of a stroke.
+237.7817::239.57869::Patient::Hmm, wow.
+238.49602::245.61569::Doctor::OK? So, um, that's something that can be dealt with, but it needs to be dealt with as an emergency in a hospital.
+246.1877::251.26289::Patient::Would, should I call , would you be able to call the ambulance for me?
+250.65843::267.71829::Doctor::Yeah I'm, I'm happy to do that. Um, what we need to do is to make sure that they've got access to you when you come. So, um, maybe you could, uh, leave the front door, um, unlocked, sit in the hallway. But I'm gonna arrange one of my colleagues next to me to, um, call an ambulance to your home address now.
+257.17265::257.84183::Patient::OK.
+267.70648::269.77414::Patient::OK. OK. Thank you.
+268.92342::276.00035::Doctor::So that's being done right now, as we speak. Uh, while we're waiting for that, I'm just gonna ask you a few more questions. Is that OK?
+276.08241::276.85684::Patient::Sure.
+277.00035::279.4277::Doctor::OK. Do you have any other illnesses at all?
+280.39067::281.8418::Patient::Um.
+282.8794::287.86435::Patient::I have, uh, type two diabetes and, uh, high blood pressure.
+288.61575::292.479::Doctor::OK. And, um, are you on any medication for that?
+293.34555::300.70644::Patient::Um, I'm taking Metformin losartan and Amlodipine.
+301.25679::306.12004::Doctor::OK. Do you have any, um, uh, allergies to any medication?
+306.49591::310.43576::Patient::Um, only penicillin, I believe.
+310.85509::311.72689::Doctor::OK.
+313.53885::315.80381::Doctor::Um, are there any illnesses in your family at all?
+316.75154::320.42823::Patient::Uh, my dad has got, um, heart disease.
+321.42823::324.24025::Patient::But, uh, but don't, I don't know more detail.
+324.8893::326.75255::Doctor::OK, anyone else?
+327.50341::328.35303::Patient::Not really.
+328.52178::331.72691::Doctor::And um, are you normally living alone?
+332.55604::333.55604::Patient::Uh, yes.
+334.21409::336.04315::Doctor::K. Do you smoke at all?
+336.59363::337.83423::Patient::Uh, I used to.
+339.14572::341.20555::Doctor::OK. How much alcohol do you drink?
+343.26279::351.28534::Patient::Uh, I will have a few drinks over the weekend. Um, maybe a, a couple more during the week.
+352.06881::354.46198::Doctor::So, what, what drinks are we talking about?
+355.29286::358.52594::Patient::Uh, uh, beers, uh, like pints.
+355.29959::355.89788::Doctor::OK.
+359.47908::360.28249::Doctor::OK.
+361.67566::363.02609::Doctor::All right, um.
+364.36797::367.29105::Doctor::How are you feeling now? Have you got the symptoms right now still, that, um
+367.63871::375.50336::Patient::Yes, yes. The the arm still can't move and I think the speech is getting a bit harder.
+375.41926::394.29109::Doctor::OK, all right. So, the ambulance is on it's way, all right? Um, and what they're going to do is, they'll probably take you down to, um, the local hospital, A and E. And then, they'll they will ring through for the, um, the stroke doctor to assess you, to see whether they can give you any kind of, um
+394.29109::404.23127::Doctor::Treatment for that OK? So no worry. They're they're on their way, um, and what I'm gonna do is, I'm gonna stay on the line until they reach there. Just to make sure that you're OK.
+395.71386::396.45822::Patient::OK.
+404.4958::406.93189::Patient::OK. Is there anything I should be doing now?
+407.33384::419.37659::Doctor::Um, not at the moment, no, not at the moment, Just, uh, make sure the the front door's open. Sit in the hallway, by the front door so that they've got access if needs be, if for any reason you can't open the front door. OK, um.
+418.44316::419.18::Patient::OK.
+419.37659::423.84668::Doctor::All right, then so I'll be staying on the line and we'll and we'll wait until the ambulance comes.
+424.44315::426.27774::Patient::OK, I'm gonna go to the door.
+426.33386::428.43643::Doctor::OK then, all right. Thank you.
+428.75894::429.51834::Patient::Thank you.
+429.43643::430.18002::Doctor::K, bye bye.
+430.6236::431.09728::Patient::

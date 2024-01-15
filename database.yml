@@ -1,0 +1,19 @@
+Databases:
+  Primock: primock57/output/mixed_audio/{uri}.wav
+
+Protocols:
+  Primock:
+    SpeakerDiarization:
+      full:
+        train:
+            uri: pyan_db/train_list.txt
+            annotation: pyan_db/rttms/train_{uri}.rttm
+            annotated: pyan_db/uems/train_{uri}.uem
+        development:
+            uri: pyan_db/dev_list.txt
+            annotation: pyan_db/rttms/dev_{uri}.rttm
+            annotated: pyan_db/uems/dev_{uri}.uem
+        test:
+            uri: pyan_db/test_list.txt
+            annotation: pyan_db/rttms/test_{uri}.rttm
+            annotated: pyan_db/uems/test_{uri}.uem

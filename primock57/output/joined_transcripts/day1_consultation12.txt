@@ -1,0 +1,104 @@
+0.0::1.0::Doctor::Uh no, it is, yes.
+2.47312::3.20968::Doctor::Hello?
+3.7183::4.39436::Patient::Hi.
+4.85484::11.06993::Doctor::Can you hear me OK? Great. Hello there. Um, before I go any further, can I confirm you name and your age please?
+11.35584::14.18251::Patient::Yes. So, my name is Robert.
+14.74686::15.28482::Doctor::Robert?
+15.74636::16.36867::Patient::Yep.
+16.42379::16.96781::Doctor::OK.
+17.32297::19.84784::Patient::Um, I'm forty eight.
+20.199::21.7689::Doctor::OK. Great.
+21.59382::22.42715::Patient::
+22.81191::25.73665::Doctor::Excellent. And how can I help you this afternoon, sir?
+25.98968::34.18866::Patient::Right, so, uh, I've been having, uh, diarrhoea, for like, let's say past three days, more or less.
+34.60874::40.12569::Doctor::OK, well I'm sorry to hear that. Uh can you tell me a bit more about your diarrhoea?
+40.21357::49.97817::Patient::Yeah, so it's been a, very bad diarrhoea, so it keeps me like, I keep going back and forth, to, to the toilet very often.
+49.74998::50.28449::Doctor::Right.
+49.97817::54.41291::Patient::Um, yeah it started like three days ago.
+53.91205::54.38479::Doctor::Mm-hmm.
+54.41291::66.07332::Patient::And uh, uh, so it started with vomiting, so I vomited a couple of times. Uh, but then, that went away, and, uh, yeah it's just diarrhoea now.
+66.54731::73.26534::Doctor::OK. And you mentioned you've been um going to the toilet very often. How many times are you going a day?
+73.40671::76.88689::Patient::Yeah, around, five to six times a day.
+77.03798::85.08104::Doctor::OK. And uh uh can you tell me, I know it's not nice to talk about, but is it quite watery, your stools, loose?
+85.15679::91.5497::Patient::Yes, it's definitely, definitely watery, uh, loose stools, yeah.
+86.24233::87.12943::Doctor::OK.
+91.27461::93.16466::Doctor::K. Any blood in your stools?
+93.69852::95.59436::Patient::No, not that I could see.
+95.66954::101.47358::Doctor::OK. And uh uh uh with the diarrhea have you noticed any other symptoms, like tummy pain?
+102.03885::113.09846::Patient::Uh, not, not really, no. Uh, but I, I, I feel like, um, I can't, really drink too much, so I feel very dehydrated.
+105.18327::105.60703::Doctor::
+113.51127::116.50053::Doctor::OK. When you say you can't drink too much, why is that?
+116.90702::133.66112::Patient::Uh, yeah because, really I, uh I, um, I'm like, I feel like I don't drink enough, like I'm, I'm drink, I'm trying to drink, but then I just go to the loo, and I like, I, uh I, I, I do everything and I feel dehydrated again.
+133.93612::139.71034::Doctor::OK, alright. Um have you managed to eat anything, solids?
+140.61554::151.69896::Patient::Uh, not much, not much. So just a little bit, but I don't feel, um, I don't really feel like, uh, I have appetite.
+151.52702::160.67224::Doctor::OK. You . OK. Um with your um, the vomiting has now stopped. Is that right? You said
+160.44903::161.84487::Patient::Yes, yes.
+160.67224::160.72224::Doctor::
+161.66298::165.66151::Doctor::OK, alright. Have you had any other symptoms, like fever or temperature?
+166.6574::181.66635::Patient::Uh, so, not, really I , I feel a little bit warm, um, probably at, at the beginning I was feeling I had a bit of temperature, but now I feel, I feel kind of fine.
+181.72201::182.94716::Doctor::OK.
+182.29334::184.15755::Patient::I feel very weak though.
+184.0594::187.49653::Doctor::OK. Alright. Any headaches or muscle pains?
+188.05341::190.65759::Patient::Not, not really, no.
+190.6461::196.66119::Doctor::OK, alright. And you mentioned three days ago. What were you doing when the symptoms started? Are you aware of any triggers?
+197.84514::205.94325::Patient::, not that I, I remember, what was I doing, I, I was at home I was working, on my computer and.
+205.94325::213.78773::Patient::Yeah, just felt, like some nausea and I had to, to vomit, and then I had some diarrhoea, straight after that.
+213.80078::217.83081::Doctor::Yeah. Did you have any takeaway food, or any dodgy restaurant food?
+218.2203::222.47331::Patient::Uh, not that I remember, no.
+221.7103::227.31561::Doctor::OK. Have you been around anyone unwell, with diarrhea recently, last week or so?
+228.15787::230.63705::Patient::Hmm, not that I know, not that I.
+230.02705::237.28076::Doctor::OK. OK. Um, right. So moving on, um are you otherwise fit and well?
+237.53294::239.26211::Patient::Yeah, yeah, .
+239.67862::242.92595::Doctor::Uh OK. And do you take any regular medications?
+242.84844::257.76027::Patient::Um, so I, I do suffer of asthma. So, I do have my inhalers, uh, that I you know, I need, I use infrequently, let's say only when I have, uh, a bit of .
+256.47979::258.53894::Doctor::Is that, is that inhaler?
+259.28309::259.88726::Patient::Sorry?
+259.92066::266.56586::Doctor::Is that the blue inhaler? Blue inhaler. OK, alright. Any other medications that you take?
+261.57476::262.57476::Patient::Yes it is, yeah.
+267.30396::268.82579::Patient::Uh, no, nothing.
+268.73253::271.6734::Doctor::OK. Do you have any allergies to medications?
+271.96966::274.26729::Patient::Um, not that I know of.
+274.36158::279.01752::Doctor::OK. And any family history of any medical problems?
+279.5332::291.86663::Patient::Um, so, my father has, high uh, well used to have high blood pressure. He actually, so he actually died, of, bowel cancer, like ten years ago.
+292.31232::298.36172::Doctor::OK. Sorry to hear that. Um, OK. And uh what about your mother?
+297.45001::304.31018::Patient::Ohh yes, so uh, probably is worth mentioning uh, she has diabetes.
+304.48541::308.16284::Doctor::Diabetes. Do you know if that's type one or type two?
+308.07508::309.84592::Patient::Uh, it's type two.
+310.38328::311.55532::Doctor::OK. Alright.
+312.82571::321.81637::Doctor::Fine. And um, just a little bit more about your life in general, sir. Um who, who's at home with you? Who lives at home with you?
+322.42666::323.01416::Patient::Sorry?
+323.13719::324.46114::Doctor::Who lives at home with you, sir?
+325.05437::326.57521::Patient::Ohh I, I live alone.
+326.5718::329.44679::Doctor::You live alone, OK. Are you currently working at the moment?
+330.23198::337.53362::Patient::Uh, well I haven't been able to work in the past few days, but yes , like given, uh, my uh.
+336.65758::338.99093::Doctor::What's your employment? What do you do for work?
+339.34613::340.7628::Patient::I'm a software engineer.
+340.74899::342.94793::Doctor::. OK, alright.
+343.94793::345.78587::Doctor::Have you taken time off work recently?
+347.05451::355.10815::Patient::Uh, yes, yes I have, uh. Uh, these last three days I've been feeling, really unwell, so I couldn't work.
+355.20468::362.02867::Doctor::OK, alright. And just the last couple of questions with, regarding your smoking and alcohol. Do you do either of those?
+362.86713::369.22135::Patient::Uh, not really, I drink infrequently, like socially let's say, and I don't smoke.
+369.21639::374.47295::Doctor::OK, alright. Um fine. uh Robert um
+375.51684::392.50194::Doctor::having listened to your story, I think you're probably suffering from what we call gastroenteritis, uh which essentially is just a, a tummy bug. It's an infection of your, your tummy. Um and normally lasts about three to five days, and gets better.
+382.57562::383.32562::Patient::OK.
+393.30487::394.30487::Patient::All right.
+393.56826::402.98977::Doctor::the things you can do to really help yourself get better soon, um are you can drink plenty of fluids. Really try and flush the toxins out of your body.
+403.45077::404.24244::Patient::OK.
+403.54829::420.3838::Doctor::Uh you can get things from the pharmacy, which is called Dioralyte, which can help replenish any uh minerals and vitamins you may have lost. Uh, it's called Dioralyte. Um it's, it's a, it's a type of fluid replacement drink.
+411.82583::413.47167::Patient::I'm sorry, what's the name of that?
+416.93002::417.40918::Patient::
+420.3838::424.80318::Doctor::Um, you can take some Paracetamol if you're feeling feverish and weak.
+420.82587::421.3467::Patient::All right.
+424.80318::430.35159::Doctor::I would probably advise you to continue taking time off work for next day or two, until you get better.
+430.35159::436.67958::Doctor::normally you have to be diarrhea-free for about twenty four to forty eight hours, before you return back to work.
+430.4926::431.4926::Patient::OK.
+436.67958::443.27639::Doctor::Um, let's see how the next few days go. And if you're still not better next week, I want you to come back and see me.
+443.27639::445.92156::Doctor::And we can have another look at your symptoms, OK?
+446.53439::449.86973::Patient::That sounds good, that sounds good. Uh, thanks so much.
+448.31405::451.42696::Doctor::Thanks. do you have any questions for me, or?
+451.57609::463.81031::Patient::Um, no I think that's fine. Uh, yeah I'll, I'll try to , and drink , drink plenty of fluid and I hope it go away. Uh, if it doesn't I'll uh, I'll call, I'll call back. Is that OK?
+460.4539::460.98077::Doctor::
+462.9754::465.20659::Doctor::I really hope you get better soon.
+465.86786::468.01371::Patient::Thanks a lot. Thanks so much, for your time.
+466.72273::469.01843::Doctor::OK. Bye bye.
+469.32621::470.32621::Patient::OK. Bye.

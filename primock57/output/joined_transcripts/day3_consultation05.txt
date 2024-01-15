@@ -1,0 +1,95 @@
+1.27536::2.11594::Patient::Hello.
+1.98558::6.47756::Doctor::Hello. Hi, I'm Doctor Jacob and welcome to Babylon. How are you doing?
+6.82607::11.80431::Patient::I'm OK, thank you. Um, not feeling that great actually.
+6.9467::10.48611::Doctor::Good.
+11.52076::24.56667::Doctor::Alright. I can't see your face properly , just, yeah that's it. That's good. Thank you. So, I'm sorry to hear that. But just before we start, is it alright if you could confirm your name for me please?
+13.88678::14.49257::Patient::
+25.13035::28.14059::Patient::I'm Mary Jane Grey, um.
+26.81314::29.31324::Doctor::Date of birth?
+30.24544::35.35495::Patient::Date of birth, um nineteen eighty.
+30.68284::31.68284::Doctor::
+35.59609::38.47695::Doctor::OK. And your address for me please?
+39.56508::43.37666::Patient::Um, I live on SW four zero NG.
+40.66877::41.19047::Doctor::
+43.3868::49.39104::Doctor::That's correct. And just to confirm that you're in a secure location, and we can have a confidential conversation.
+49.63751::50.39838::Patient::Yeah.
+50.07743::57.09725::Doctor::OK. So you've mentioned that you're feeling dizzy. , yes.
+55.31141::55.95221::Patient::Yeah.
+57.19714::65.74615::Patient::Yeah, I'm feeling I'm, I'm yeah, I'm feeling very sick. It's probably because i'm feeling dizzy, um the the room is sort of spinning, um.
+62.80773::63.34393::Doctor::
+66.26041::72.48611::Patient::And I, I can't, I can't walk properly. Uh, well I can walk properly but not straight, um.
+73.03153::77.20263::Patient::and my ears are buzzing a bit. I'm just, they're feeling a bit off.
+75.39544::76.13455::Doctor::Mm-hmm.
+77.39544::80.59849::Doctor::OK, ear's buzzing. So when did it all start?
+81.42001::89.58634::Patient::Started probably about two hours ago maybe. but I, I, um, I had a a similar sort of thing about a month ago, um
+89.58634::95.4127::Patient::But I didn't really think anything of it, 'cause it it settled quite quickly. Um, but this has been going for a bit more now.
+92.93987::93.38911::Doctor::
+95.4544::102.2422::Doctor::OK. So you said, you mentioned it started a few hours ago. So did it start? What were you doing?
+99.804::100.62283::Patient::
+103.14457::108.66485::Patient::Um, I was just actually making my husband some breakfast, um.
+109.22233::115.68993::Patient::And I, yeah, I just suddenly felt very fuzzy and dizzy, um, and a bit shaky.
+115.73776::120.42567::Doctor::OK. So you mentioned, like the room spinning around?
+116.69731::118.46335::Patient::
+120.48509::121.159::Patient::Yep.
+121.62976::127.46583::Doctor::OK. And is, how long does it last for? Or is it there now, continuously now?
+127.99231::130.70969::Patient::Yeah it's, it's there, the whole time.
+130.57255::133.92047::Doctor::So it's there now for the past two hours you'd say, yeah?
+134.61548::135.25316::Patient::Yep.
+135.01284::140.61667::Doctor::OK. Did you have any kind of viral illness in the recent past, past couple of weeks?
+141.15169::141.17399::Patient::
+141.17399::142.1241::Patient::No.
+141.93235::143.63123::Doctor::No cold, cough, nothing.
+143.82166::147.6734::Patient::No, I've been pretty healthy I think, um, yeah.
+147.54448::156.73043::Doctor::Yeah, OK. Um, you've mentioned that you have a, some ear buzzing kind of thing. Any kind of ear pain or ear discharge, anything like that?
+156.82555::158.21685::Patient::No, nothing.
+158.89719::161.3877::Doctor::OK. Do you have a temperature at all?
+161.93423::164.02842::Patient::I don't think so, um.
+164.27413::171.94455::Doctor::OK, right. You also mentioned that you can walk, but you're not walking straight. Why is that? Is it because
+172.07913::175.46094::Patient::I think just 'cause the room feels like it's moving a bit. Um
+175.48096::179.61886::Doctor::Feels like to move . That's why you're feeling like you're a bit unsteady, yeah?
+175.99959::177.55012::Patient::I'll look .
+179.39069::187.52109::Patient::My, my legs and arms and everything are working fine I just, I don't feel like I'm stable. My, the room is spinning.
+187.95271::190.828::Doctor::So there's no weakness of your arms and legs. OK.
+190.99935::191.60804::Patient::No.
+191.42975::201.61303::Doctor::K. Right. Um, so you mentioned you had something like this a month ago. So how, how, how long did that episode last for?
+202.65149::205.00654::Patient::Probably only about five, ten minutes.
+205.01175::212.44047::Doctor::OK, right. And do you have any problems hearing at the moment? Like, is it muffled or something?
+210.41233::211.12971::Patient::No.
+212.70943::216.68043::Patient::It's just a bit of a buzzy noise in my ears, but otherwise I can hear everything.
+216.5704::219.21443::Doctor::OK. Righty-ho.
+219.78502::223.05675::Doctor::OK. So, have you been physically sick?
+223.38331::225.50648::Patient::No, but now I'm feeling very sick.
+225.52111::226.89693::Doctor::Nausea, OK.
+228.50717::239.02809::Doctor::Righty-ho. And, I don't have much information of your past medical history. So is there any medical conditions you'd like to tell me, surgical, medical conditions?
+239.12963::244.70931::Patient::Um, I've had premature ovarian failure, um, and I've taken HRT.
+244.64435::251.77091::Doctor::OK charting premature hearing failure. OK, and um any other medications at all?
+252.09335::252.80349::Patient::No.
+253.48501::255.71725::Doctor::OK, do you have any allergies at all?
+256.1658::256.91942::Patient::No.
+256.72112::256.73476::Doctor::
+256.73476::257.25861::Doctor::
+257.25861::272.18147::Doctor::OK. Right. OK so , talking to you today, um, in the , the most common um, you know, diagnosis we would you're suffering from at the moment is something called labyrinthitis. Yeah?
+272.18147::283.15299::Doctor::OK, that's when your middle ear...there is something um, some inflammation going on there, and there is some imbalances in the crystals there in your middle ear.
+283.15299::297.0408::Doctor::OK, so what the most important treatment is actually giving you some kind of middle ear stability so that you won't feel as if you're going around in a boat, kind of feeling.
+297.0408::305.57082::Doctor::OK? So that's what we need to . Because to actually make you function a bit more, we'll start you on certain medications.
+305.57082::320.99515::Doctor::I would still like you to be seen by one of our doctors to take a look inside your ears to just make sure. So this is like just symptomatic relief like you have a fever we just give paracetamol. So just to, you know, make you able to come and see one of the doctors and things like that.
+320.99515::328.95378::Doctor::while you're with the doctors, we'd like to do your blood pressure, just examine your, you know, you know, how your walking and everything is.
+329.42301::340.28818::Doctor::OK, while we're waiting, while you're waiting on seeing the doctor if you double up any weakness of your legs or arms or, or, you know, a sudden headache.
+329.68724::330.34666::Patient::OK.
+340.28818::348.23415::Doctor::Any of those symptoms, or you start being violently sick with it, then you know, you would need to take your to A and E.
+348.54949::349.18717::Patient::OK.
+349.43082::355.51913::Doctor::But if not, wait for the appointment for the doctor to examine you um and we'll take it from there.
+355.51913::363.90954::Doctor::So i'll, i'll send the a prescription at cross pharmacy looks like it's the Lloyd pharmacy on our system. Is that correct?
+363.94074::364.48421::Patient::Yeah.
+364.34889::374.96965::Doctor::Yeah. So we'll send you across that prescription. Um, it's called , yeah? It's one tablet three times a day. So I'll give you about ten days worth.
+374.96965::380.36902::Doctor::In the interim, obviously in the next few days, you'll get to see one of my doctors and we'll have to just take it from there.
+380.78126::382.43733::Patient::OK, thank you so much.
+381.32296::383.68777::Doctor::Any questions at all?
+384.00594::389.75948::Patient::Um, can you take, do you need to take those tablets with food? Or can you just take them any time?
+389.91705::399.87519::Doctor::It doesn't really matter, you can take it, because sometimes, you know, you get the symptoms as soon as you wake up, so probably you'll feel a bit sick to eat anything so might as well just take the tablets.
+395.41164::395.9696::Patient::
+399.8754::402.95509::Patient::OK, that's great. Thank you so much, that's so helpful.
+403.1411::406.4634::Doctor::Just make sure you call support to book that appointment, OK?
+406.45508::408.18022::Patient::I will, thank you very much.
+407.06785::409.28534::Doctor::Bye bye now. Bye
+409.26139::409.76666::Patient::

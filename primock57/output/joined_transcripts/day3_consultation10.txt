@@ -1,0 +1,114 @@
+2.02135::2.73764::Patient::Hello.
+2.7365::6.61489::Doctor::Hello, hi, I'm Doctor Jacob and welcome to Babylon. Hello.
+7.29817::8.61025::Patient::Nice to meet you.
+7.95949::14.4933::Doctor::Nice to meet you too. So just before we start, is it all right if you could confirm your name for me please?
+15.31986::16.80926::Patient::Michael John .
+16.72979::18.44601::Doctor::And your date of birth?
+19.39802::22.14992::Patient::Oh nine two nine eighty-three.
+22.169::25.25009::Doctor::OK, and your address for me please.
+26.16431::31.98025::Patient::Two three one, Leonard, London street uh, sorry, London.
+32.52715::38.87853::Doctor::OK and that's correct, and just to confirm that you're in a secure location and we can have a confidential conversation.
+39.3353::40.05159::Patient::Yes.
+40.11502::48.52722::Doctor::OK, uh, you've mentioned on our notes that you're suffering from bad diarrhea. I'm sorry to hear about it. So if you tell me a bit more about it, please.
+49.20109::64.73401::Patient::Uh, it's been happening for about, three days now? Um, yeah it, started off uh, was, I don't know it's just something that I thought would go away pretty quickly.
+53.61508::54.32454::Doctor::OK.
+64.44621::64.9462::Doctor::
+64.73401::81.14643::Patient::I've had that from time to time after eating certain types of food or going on certain travels, but, uh nothing funky in my diet and no travels recently, um and it just kinda kept up. I'm a bit confused as to what to do .
+69.67595::70.1219::Doctor::Mmm.
+76.98679::77.53409::Doctor::Mm-hmm.
+80.37193::84.71655::Doctor::So you haven't had anything from outside? Nothing dodgy anything ? No.
+85.30977::100.23272::Patient::No, no no no, just a little bit, yeah I I don't know I mean it's pretty standard diarrhoea, where it's was like a little bit of abdominal pain. I threw up once, that was a little worrying, uh.
+91.98684::92.32467::Doctor::
+96.87199::97.45983::Doctor::Mm-hmm.
+99.85172::102.49362::Doctor::Repeat that please, that wasn't clear. What did you say?
+102.97752::106.06987::Patient::I threw up once, yeah.
+104.55444::107.34499::Doctor::After that we'd said something.
+108.14796::111.2403::Patient::Uh, nothing else was worrisome.
+111.09501::116.43962::Doctor::OK, right, and with the diarrhea, how many times a day are you going to the toilet?
+117.82225::120.73018::Patient::Uh, four to five.
+120.73694::127.98021::Doctor::Four to five times, yeah. And is there any? And it's like water? Is it like water or is it just loose?
+128.85833::130.80875::Patient::Uh, what do you mean?
+131.66266::139.40594::Doctor::Are you going like water? Or is it just, you know bit, bit of solid stools, bit loose kind of thing?
+141.02925::144.80959::Patient::It probably depends on the time of day to be honest, .
+143.42623::148.23706::Doctor::Sure OK. Bit of both and is there any blood or mucus?
+149.73184::152.81709::Patient::No blood. What do you mean mucus?
+152.60194::154.18302::Doctor::It's like the snotty stuff.
+155.49097::156.49097::Patient::In the stool?
+156.34519::158.50736::Doctor::Yeah, it looks like snot .
+159.21449::160.02299::Patient::No.
+159.81142::163.95332::Doctor::No, so no mucus, OK. Any fever at all?
+165.40627::169.80367::Patient::Uh, maybe a little bit, but.
+168.98713::169.49388::Doctor::Mm-hmm.
+170.80367::174.42797::Patient::It hasn't been, that in particular hasn't been too worrying.
+174.79796::178.26419::Doctor::Are you still able to eat, and drink?
+179.3715::181.26518::Patient::Uh, a little bit of.
+182.41413::192.35801::Patient::Appetite loss I guess worse than normal, but also not something I've, like I, if that was alone I wouldn't have, reached out.
+185.25746::185.89935::Doctor::OK.
+191.38586::196.09534::Doctor::Sure. So but you're you're still able to drink quite a bit yeah? You're drinking plenty.
+196.89017::197.89017::Patient::Yeah yeah yeah.
+198.21697::200.35887::Doctor::OK. Excellent.
+200.025::201.39382::Patient::Mostly it's been dry and red.
+202.12239::207.32511::Doctor::OK, and, um, what have you take, have you taken anything so far for the diarrhea?
+208.66376::209.63539::Patient::Nothing yet.
+209.56836::212.69675::Doctor::Nothing yet, OK. Anything for the abdominal pain?
+214.4087::216.00449::Patient::Uh, nothing yet.
+216.06838::224.43329::Doctor::OK. Right, and any unfortunately we don't have any of your past medical history, is there anything you'd like to say?
+225.51571::227.04057::Patient::Uh, I.
+229.16831::230.7641::Patient::Probably I I had asthma.
+231.66981::232.10224::Doctor::Mm-hmm.
+231.7641::234.79261::Patient::Um or, or I don't know I guess I still have it.
+235.02117::239.37929::Doctor::OK and uh, are you, any, uh, anything else other than asthma?
+240.28937::244.28958::Patient::Uh, my dad had hypertension.
+244.56175::245.30499::Doctor::OK.
+245.62294::251.61619::Patient::Has hypertension. Had hypertension. Yeah he died of bowel cancer ten years ago.
+246.83877::247.77121::Doctor::Yeah .
+251.43338::257.49422::Doctor::Ohh dear, OK. Bowel cancer. Ten years ago. And how old was he when he died?
+258.20523::259.723::Patient::Uh, sixty-two.
+260.41991::266.56182::Doctor::K, and um, you mentioned you had asthma, are you using any inhalers at all?
+267.23409::268.03549::Patient::Yes.
+268.42669::269.3794::Doctor::Which ones?
+270.24125::271.11358::Patient::Lexapro.
+272.01454::272.58886::Doctor::Sorry?
+273.20585::274.20585::Patient::Lexapro.
+275.32536::276.95374::Doctor::Laxepro.
+277.85143::278.52516::Patient::Yes.
+279.84564::284.87269::Doctor::OK, not heard of it may. Is it like Salbutamol? Is it like a blue colour?
+285.93696::286.75964::Patient::Yellow.
+287.41324::292.10245::Doctor::Yellow, OK. I'll have to check that one, not sure. Laxepro.
+293.76461::298.73443::Doctor::OK. Um, that's fine. Any other medication that you're using?
+299.36293::301.2022::Doctor::Over the counter, anything at all?
+302.28007::308.51469::Doctor::OK. Right. Any allergies?
+302.31384::302.94502::Patient::No.
+309.74684::312.86046::Patient::Nothing, yeah, nothing.
+312.67686::335.28509::Doctor::No allergies at all, righty . Fine so, obviously, you know you just have diarrhea it's about four to five times a day. Um, you're still drinking plenty and you look like you're not dehydrated which is a good sign, OK? Um, when we start worrying about diarrhea is if you're going more than eight times a day.
+335.28509::345.41233::Doctor::That means probably you are, you know, whatever you're eating is going straight through, OK? You still need to drink plenty of water because you're losing a lot of fluids.
+345.76338::346.50805::Patient::Mmm.
+346.20449::360.79872::Doctor::OK, when you go to the toilet. Um, things that one would advise is a soft diet. So avoid dairy, fish, meat, eggs, while you're having the diarrhea. Go, sorry?
+357.43072::359.97693::Patient::Soft .
+361.10459::366.37439::Patient::What is a soft diet? What does that ? Like, outside of, not those things, what do you mean by soft?
+366.29875::392.33508::Doctor::OK, so that will be like crackers, toast, jam, those kind of things that's easily digested. Like what we are good give babies yeah. When they start eating you give, simple food for babies. You don't give eggs or meat the first time they start feeding. So that's the kind of soft diet we're talking about, yeah? Once you are able to, you know keep most of it in, you can start off with some just boiled vegetables and mash.
+393.07863::406.13003::Doctor::Once you're OK with that for about forty-eight hours then you can start having meat. So just don't have meat once you feel like you're slightly better, because you might go back to square one again, all right?
+399.12837::400.13546::Patient::
+405.57549::409.22815::Patient::What do you mean OK with that diet, like once?
+409.10977::418.43414::Doctor::Forty-eight hours you're not having any diarrhea, you're fine then you can go and start having meat, egg, fish and all. So that .
+416.07962::427.1938::Patient::OK, if if the diarrhoea is getting better but isn't getting, or do you want it to go away completely at that point, or if it's like trending upwards?
+426.90214::447.32617::Doctor::No, no, no preferably just don't because, what why do we say this? It's because it takes much more time for meat to get digested. So because your gut flora, you know, the, the, the bacteria in your gut is not you know as it should be, it takes a bit more effort for one to digest these food.
+447.32617::453.91404::Doctor::While it doesn't take that much of an effort to, you know digest mash and vegetables. Does that make sense?
+454.25234::455.22397::Patient::Yes.
+455.19106::471.03574::Doctor::Yeah? So, um, at the same time you could have some, although you can't milk is not a good idea, yoghurts are a good idea because they are probiotics, it help to build up the normal, um gut, gut bacteria back.
+472.03574::472.57494::Doctor::OK.
+472.21089::472.89882::Patient::OK.
+473.11949::491.33313::Doctor::So those kinda, now, things to look out for, if your diarrhoea doesn't go away in a week's time, or if you're passing blood, we need a stool sample, because that means you you may have , um, some particular bugs that might need treatment with antibiotics.
+492.38237::493.27598::Patient::OK.
+493.20476::512.02918::Doctor::OK. If you're again, as I've mentioned previously if you're going about six to eight times a day, that means there's a high chance that, uh, you are, having dehydration and you might need to go into hospital at that point in time. If that happens you get in touch with us again, all right?
+514.50055::515.29155::Patient::OK.
+515.34::517.52919::Doctor::Any questions? You look a bit confused.
+519.13809::520.2492::Patient::No, that's it.
+520.34001::533.24548::Doctor::Yeah? OK and also you could get something called Dioralyte over the counter. So, it helps to uh, replenish your, the salts that you've been, that's lost through going to the toilet.
+534.20755::535.00895::Patient::OK.
+535.06981::551.74557::Doctor::OK? If you're a bit confused you know you can actually, uh, all this is all recorded in your app. So you can go back. I'll put that all in detail so if, you know I know sometimes it's a bit difficult to process everything, you can go back and read, read the notes.
+552.81108::555.25135::Patient::Perfect, that's great.
+552.928::554.30159::Doctor::Is that OK?
+555.19071::557.31316::Doctor::All right then, you take care.
+557.93375::558.6628::Patient::Bye.
+558.52262::559.46115::Doctor::Bye now, bye bye.

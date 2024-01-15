@@ -1,0 +1,129 @@
+1.66225::3.25828::Doctor::Hello. Good afternoon.
+3.67624::4.67624::Patient::Hiya.
+4.56292::7.21856::Doctor::Hi there. This is Doctor , from GP at Hand.
+7.4604::9.38125::Patient::Hi there. My name's Atan.
+9.86095::15.29806::Doctor::Hi Anthony. So, could I have your um, before we start, could I have your full name and date of birth? If that's possible?
+16.16538::25.29481::Patient::Sure. So, it's Ayrton Warren. Um, and my date of birth, is the sixteenth of May, nineteen, eighty two.
+25.34446::29.29471::Doctor::That's , thank you for that. Are you in a private place where you're OK to speak?
+29.46026::30.46026::Patient::I am, yes.
+30.50746::33.01999::Doctor::OK, great. So how can I help you today?
+33.24442::42.30191::Patient::Um, so I kind of woke up this morning, um, and I've just got this, really horrible pain on the left side of my head. Um, a real kind of headachy feeling.
+42.41738::48.13263::Doctor::Sure, OK. And, um, uh, , did the, did the pain wake you up?
+48.53928::51.58243::Patient::Yeah, it woke me up, um, quite early this morning.
+51.43728::52.86112::Doctor::What, what time did it wake you up?
+53.21116::57.05003::Patient::Um, probably around, five thirty ish.
+57.22538::58.83465::Doctor::And, what time do you normally get up?
+59.22987::62.02842::Patient::Um, I normally get up at about, seven o'clock.
+63.17241::64.92739::Doctor::Is the headache still present now?
+65.22984::66.31617::Patient::Yes, it is.
+67.00024::69.58965::Doctor::OK. Have you had this kind of pain before?
+69.66148::75.7118::Patient::Um, I mean uh, I've, had a bit of a history with headaches, but nothing as severe as this before.
+76.48372::82.22546::Doctor::So they were less severe. Were they similar in nature in terms of being one-sided and the type of pain?
+82.23694::95.94187::Patient::Um, not so much on the one side, it tends to be, a bit of a cluster at the front of my head in a way. Um, but this time it's just kind of more prominent on the left side which, I've never really had it, normally they kind of spread across the front of my head.
+96.40433::101.81495::Doctor::OK, all right. And, um, can I just double-check, do you have any neck stiffness at all?
+102.09291::103.09291::Patient::Uh, no.
+103.66264::106.02688::Doctor::OK. And do you have any fever?
+106.53894::107.28893::Patient::No.
+107.78185::114.27857::Doctor::All right. Um, how are you with bright lights at the moment? Do you feel sensitive to bright lights or can you, can you tolerate them all right, OK?
+113.7907::120.81943::Patient::Um, it, I'm a little bit sensitive it just, it kind of, makes my eyes a little bit sore, but nothing that I can't really handle.
+120.78853::125.35146::Doctor::OK. And, can I just double-check, um, are you feeling nauseous at all?
+125.48846::134.45962::Patient::Um, not really, like . When I first got up this morning, my head felt a bit dizzy, but that's kind of subsided now, and I, seems to, be fine.
+134.81507::142.38464::Doctor::OK. Um, and um, can I just double-check, does anyone in your family have any migraines or anything like that? They've been diagnosed with migraines?
+142.23655::143.94158::Patient::Uh, no. They haven't.
+143.9012::149.61645::Doctor::OK. Um, and um, are you under any particular stress at the moment?
+149.93435::154.78705::Patient::Um, work's kind of, um, a bit stressful at the moment. I've got a lot going on.
+154.78705::164.3138::Patient::Um, yeah, I just seem to have like, a lot of, kind of, a backlog of work that I need to go through at the moment. So, I've kind of, been, doing a lot of late nights as well.
+164.35162::169.33839::Doctor::Right, OK. Um, and, um, how long has that been the case for?
+169.73522::172.57448::Patient::Uh, for probably about a couple of months now.
+174.4314::177.00729::Doctor::, how would you say your mood is?
+177.84783::191.03949::Patient::Um, I'm not, like moody, I'm not angry or, um, like I get a bit frustrated during the day. Um, but , it kind of, um, ebbs and flows every now and then, but, yeah.
+191.00073::196.79546::Doctor::OK. Do you have, have you ever been diagnosed with anxiety, or depression or stress in the past?
+196.65346::205.19297::Patient::Um, I've had, um, so I had, like anxiety for about, two years now, and I've been on, uh, Sertraline for, a while.
+205.7955::208.42464::Doctor::OK. Are you taking Sertraline at the moment?
+208.58144::209.34297::Patient::Yes.
+210.12663::216.50414::Doctor::OK. Um, and how do you feel in terms of , anxiety at the moment? Do you feel anxious at the moment?
+215.31521::226.20814::Patient::, no, not necessarily at work, sometimes I do feel a bit anxious. Um, but I, I kind of just, uh, the panic of not being able to get my work done on time.
+225.96776::226.62339::Doctor::
+226.20814::231.33668::Patient::Um, but other than that, I, I don't, feel, um, massively anxious.
+232.12672::240.12013::Doctor::OK, all right. Um, now, sorry to ask this, just need to ask this for , anyone suffering from anxiety. Do you have any , have you had any thoughts about harming yourself or hurting yourself?
+240.3198::241.00441::Patient::No.
+242.36517::250.00096::Doctor::Good, I'm glad to hear that. Um, now, with regards to this headache. Is it worse when you lie down, or um, is, is, is it better when you lie down?
+250.0012::262.83287::Patient::Um, when I lay down, like, uh, it kind of feels a little bit sore at first, um and it takes me a while to get comfortable. Um, so yeah, at the beginning it does, but then again that's just kind of, um, soothes a little bit.
+263.47145::264.27017::Doctor::OK.
+265.08025::271.13806::Doctor::Um, so, would you say ultimately, it's better when you lie down? Or have you not ?
+270.14052::273.01858::Patient::Uh, yeah, I would say so.
+273.79817::282.62817::Doctor::OK. Um, and um, in terms of um, this, headache since this morning, have you taken anything for it yet?
+282.99976::285.35071::Patient::Um, I've taken some Paracetamol.
+285.79809::287.13796::Doctor::Has that helped?
+287.4465::289.09171::Patient::Um, not really, no.
+289.8765::292.23597::Doctor::OK. Taking anything else at all?
+292.5447::294.8183::Patient::No that's it, just Paracetamol.
+294.62158::297.83071::Doctor::OK. Um, do you have any other illnesses at all?
+298.3921::299.30749::Patient::Uh, none.
+299.95488::302.35356::Doctor::Have you ever been diagnosed with high blood pressure?
+302.43697::303.22927::Patient::No.
+303.75879::306.03982::Doctor::Have you ever had your blood pressure checked?
+305.89019::306.62096::Patient::No.
+307.86335::311.83064::Doctor::OK. Um, and are there any illnesses in your family?
+312.34046::321.2642::Patient::Um, no, there's nothing. My parents, uh, my mum's had a history of anxiety as well but, no kind of like physical illnesses or anything like that.
+321.40573::325.34689::Doctor::OK, all right. And um, are you on any medication?
+325.70302::332.80369::Patient::Um, no, other, other than Sertraline and having taken, um, Paracetamol this morning, uh, nothing else.
+333.18343::335.35989::Doctor::Do you have any allergies to any medication?
+335.54468::337.30727::Patient::Not that I'm aware of, no.
+337.28799::341.15071::Doctor::All right. And, are you living by yourself at the moment, or living with someone else?
+341.3576::343.20226::Patient::Um, I live with my partner.
+343.65396::345.88271::Doctor::OK. Are you a smoker?
+345.94751::346.94751::Patient::No.
+347.47094::350.30099::Doctor::OK. And, uh, do you have any pets at home?
+350.40793::351.91152::Patient::Uh, I have a cat.
+352.49052::356.60161::Doctor::OK. And, can I just double-check, how much exercise would you do normally a week?
+356.76689::360.61152::Patient::Um, so normally I, try to go running at least three times a week.
+361.15714::361.82265::Doctor::OK.
+362.84088::364.52313::Doctor::And what's your diet like?
+364.85389::371.46928::Patient::Um, it's OK, um, it's nothing, it's nothing um, really healthy, um, but it's fine.
+372.1636::373.07209::Doctor::OK.
+372.44424::374.05526::Patient::I wouldn't say unhealthy.
+374.28124::382.63337::Doctor::All right. Um, now um, in terms of this headache, uh, obviously I haven't been able to examine you, or see you directly.
+382.63337::388.09159::Doctor::But, um, it sounds like it might be one of two things. It could be an element of what we call tension headache.
+382.63794::383.36871::Patient::Sure.
+388.09159::397.68539::Doctor::OK. That's one possibility. Um, and what makes that, more likely is the fact that, you've been under some pressure, and you have a history of anxiety in the past, OK. Um.
+388.26636::389.00482::Patient::OK.
+397.68539::400.86927::Doctor::The other possibility is, um, migraine as well.
+400.86927::408.55949::Doctor::OK. Um, and, the fact, what makes that more likely is the fact that it's on one side, and that you've got some sensitivity to light.
+401.32106::402.14142::Patient::OK.
+408.55949::416.56196::Doctor::OK, So, what, what I think we can do, is um, I think we can give you some, um, generic, pain relief.
+408.70973::409.50972::Patient::OK.
+416.56196::423.65864::Doctor::That would be the appropriate first step, for, migraine type headaches. OK. So I'll tell you what it is in a second.
+421.97583::422.97583::Patient::OK.
+423.65864::429.91046::Doctor::And the other thing that I was gonna suggest is, we maybe look, explore things to try and decrease the stress from work.
+429.91046::439.17351::Doctor::So, um, the medication-wise, the things that we'd start off first line, if someone had migraine was to, would be to start Ibuprofen.
+430.46498::431.46498::Patient::OK.
+439.17351::452.57285::Doctor::And um, uh, that, the doses of Ibuprofen can be a bit, more than the normal doses Ibuprofen so that's one thing we can start. You can keep on taking Paracetamol as well if you like, but the, the Ibuprofen's um, actually more effective , for migraine.
+439.68076::440.59615::Patient::OK.
+452.57285::460.81171::Doctor::And, um, yeah, so the, the guidelines have changed, recently we used, we, before that we used to give Paracetamol as first line but now it's, um, Ibuprofen or Aspirin.
+453.16496::454.16269::Patient::Ohh right, O.
+460.81171::468.56808::Doctor::That's, thing. Um, the other thing I'd like you to do, is maybe consider taking some time off work. OK, because if the headache is due to stress from work.
+461.17261::461.88799::Patient::OK.
+466.52952::467.22183::Patient::OK.
+468.56808::481.58224::Doctor::Um, maybe having a week off if you self-certify, that might help with things. And I'd also like you to explore, counselling options as well so there's, a counselling service in your area, that I can give you the link for, for you to self-refer.
+479.23675::479.89059::Patient::
+481.58224::489.17291::Doctor::I'd like you to, , OK I'd like you to try that. Um, what, we're gonna do is, we'll have a follow-up in a week's time.
+481.96856::482.85318::Patient::Yeah, that'd be.
+489.17291::503.05611::Doctor::As well as those two things, other things I'd like you to do, is to try and ensure that you're having a minimum of seven, eight hours sleep at night, every night. And you're drinking a minimum of, um, one point five to two litres uh, of water or fluids a day, and that's not including coffee or tea.
+496.35723::497.12646::Patient::OK.
+503.6516::504.49006::Patient::OK.
+504.23917::510.66579::Doctor::All right, because sometimes dehydration and you know uh, fatigue can be causes of headaches as well. Um.
+510.112::512.3494::Patient::Ohh OK, I didn't realise that.
+511.66579::517.91761::Doctor::Yeah, so it, that, that, that is um, you know, we need to rule those things out. Um, let's, let's try that.
+517.91761::530.05127::Doctor::OK. Um, and let's have a follow-up appointment, if we're finding that things are not getting better, we might need to arrange some blood tests or um, look at uh, other possibilities, but, we'll try that in the first instance.
+530.05127::539.45643::Doctor::Um, if anything changes in the meantime, or you get worried or things get worse. Feel free, have a lower threshold for ringing us back and we can book you an appointment, and we can reassess the situation.
+539.43553::543.4427::Patient::OK. Yeah, the, that, that sounds brilliant. Thank you so much for your help.
+542.91392::559.93993::Doctor::OK, no problem. So there'll be a summary of all of this in the notes. Um, and I'll also leave a link, to some of the danger signs of symptoms of headaches, in the notes. If you can read through that in your own time, that will just help you to have a bit more, control over what's going on and understanding of what, what, what kind of things, should trigger you contacting another doctor.
+560.02531::562.93896::Patient::OK. That's perfect. Thank you so much for your help.
+562.44319::568.86798::Doctor::No problem, OK. So we'll, we'll touch base in a week's time, with me or, myself or one of the other doctors, and we , we'll take it from there, OK.
+568.88857::573.01715::Patient::OK. Thank you. Yeah, I'll book an appointment, in, um, yeah, in that time.
+572.97906::575.43003::Doctor::Brilliant, OK then, all right. Take care then, all the best.
+574.60183::575.11861::Patient::Bye.
+575.92464::576.99224::Patient::Thank you, and you.
+576.99212::577.99212::Doctor::Bye bye.
+578.00325::578.38561::Patient::Bye.

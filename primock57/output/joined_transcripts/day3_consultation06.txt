@@ -1,0 +1,54 @@
+1.4203::5.05805::Doctor::Hello, hi, I'm Doctor Jacob and welcome to Babylon.
+5.59458::6.81079::Patient::I have been
+7.15668::8.07037::Doctor::You're right.
+8.63426::15.82636::Doctor::So just before we start, is it alright if you could confirm your name for me, please?
+8.99322::10.87159::Patient::Uh, not really.
+17.37156::19.95939::Patient::My name is Jonathan Irving.
+20.29195::21.84626::Doctor::And your date of birth?
+22.47289::25.89855::Patient::Uh, six, twelve, uh, eighty.
+26.22663::28.76106::Doctor::And your address for me, please.
+30.24989::36.0877::Patient::Uh, sixty two Lewin Road Streatham SW sixteen six JT.
+36.19081::41.88711::Doctor::correct, and just to confirm that you're in a secure location and we can have a confidential conversation.
+41.98632::42.9728::Patient::Yes.
+42.46769::49.49118::Doctor::Yeah. You've mentioned you had some breathing difficulties in the, the notes. How can I help you?
+49.70925::57.03393::Patient::Yes, about fifteen minutes ago, I was gardening and, um, I was stung by wasp. Um, ran inside.
+57.00747::57.5791::Doctor::Mm-hmm.
+57.03393::62.4727::Patient::And now I'm, um, just starting to notice a few things. Yeah, I'm having quite shallow breath.
+64.11109::66.71166::Doctor::You're having difficulties breathing since then, yeah?
+66.58744::67.6895::Patient::
+67.93829::73.81298::Doctor::OK. So, is there any swelling of your lips, you feel your throat is closing up?
+74.0779::78.04511::Patient::Not throat, but I can , yeah, I can I can definitely feel something in the lips, yeah.
+78.25061::80.19473::Doctor::Right, like a tingling kind of feeling?
+80.33072::81.44559::Patient::Yes, yeah.
+81.41235::83.20458::Doctor::OK, but no swelling, yeah?
+83.18207::87.7612::Patient::Alright. I mean, you know, to be honest, I'm just doing this to establish whether I should go to the hospital.
+88.24786::91.9004::Doctor::OK. Right, OK. Have you had anything like this before?
+92.73068::93.58068::Patient::Uh, no.
+93.46737::99.48025::Doctor::No. OK. So, um, do you feel wheezy in your chest, or just tightness?
+99.98605::105.83062::Patient::Uh, yeah. Um, a bit of tightness. Yeah, a bit of tightness, yeah.
+106.02132::115.84232::Doctor::Bit of tightness, OK, OK. So, I, unfortunately, I don't have much of your past medical history. Do you have any significant past medical or surgical history you'd like to share?
+116.18191::122.32377::Patient::Uh, no, not really. Uh, a bit of eczema and I'm allergic to penicillin.
+122.57068::126.78519::Doctor::OK. Are you on any regular medication at all?
+126.96391::128.26294::Patient::
+128.21468::128.86639::Doctor::OK.
+129.70243::130.76901::Doctor::Righty-ho.
+132.09297::135.26969::Doctor::Are you having any rash on your body at the moment?
+135.61425::139.10748::Patient::Yes there's a bit of blotching .
+137.37953::142.08681::Doctor::OK. Well, have you taken anything at all for the blotching?
+142.78314::144.65476::Patient::I wouldn't even know what to take then.
+144.35823::157.54388::Doctor::OK so you've, OK. That's fine. So from what you're saying, you do need to have medical attention straight away. OK? Um, do you have any antihistamines in your house at all?
+158.68846::165.07357::Patient::Um, yes, I've used them for flying. I have aerosinusitis, so yes, I do
+164.49535::173.79092::Doctor::So, why, why, and I'm, because your your breathing problem can get worse very quickly, I would like you to call. Is there someone else at home with you?
+174.51271::177.07351::Patient::Yes, my wife can take me to the emergency room, yeah.
+176.89274::191.23722::Doctor::Uh, no, I wouldn't want your wife to take you, I would like, I'd like her to call the ambulance because that might take a bit longer, and, you know, we need to deal with it quickly. So, what we are worried about is, you know, in case you develop an anaphylactic reaction.
+186.76265::187.23137::Patient::
+191.39777::193.71455::Patient::OK. She's listening. I'll get her to call now, yeah
+193.44506::202.58882::Doctor::Yeah so, I'll ask her to give you the, um, antihistamine, in the meantime while the ambulance is coming. And take yourself to hospital.
+202.58882::211.81452::Doctor::Um, it might just be an articularly reaction, but because you're complaining of breathing difficulties, it is quite important that you go to hospital straight away.
+211.81452::217.11367::Doctor::But I'd like you to call the ambulance because, you know, so that you will be sorted out quickly.
+211.97172::212.78568::Patient::OK.
+217.58005::221.08506::Patient::Yeah. Alright, thank you. She's on it now. Yeah, she's on the phone.
+217.65944::218.53619::Doctor::
+221.23199::223.44453::Doctor::OK. Alright then, you take care.
+223.52598::225.5057::Patient::Alright, thank you for the advice .
+225.00503::225.73044::Doctor::

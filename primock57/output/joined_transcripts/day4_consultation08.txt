@@ -1,0 +1,167 @@
+0.0::1.64789::Doctor::
+3.16471::4.04226::Doctor::Hello.
+5.75008::6.41474::Patient::Hi there.
+6.86309::14.36882::Doctor::Hi! Hi there. Uh, my name's Joe. I'm one of the doctors at Babylon. I, just, can I confirm your name please?
+14.5413::17.37588::Patient::, yeah. Uh, my name's .
+15.69018::17.71835::Doctor::Makes sense. Yeah.
+19.47604::21.62264::Doctor::So, . Sorry, your name is?
+22.03752::23.32324::Patient::Name was Brian.
+23.24294::25.56438::Doctor::Brian. Hi Brian. Nice to
+24.89466::25.56384::Patient::Hi.
+25.82695::29.576::Doctor::Um, uh, and your date of birth.
+30.38337::34.48862::Patient::Yeah, my date of birth is the eighth of August, nineteen eighty two.
+30.63787::31.15504::Doctor::
+35.91856::42.77131::Doctor::Great. And uh, are you in a sort of, uh, confidential place where you can speak freely?
+43.04498::44.70034::Patient::Yeah. No, no one else can hear me.
+44.86081::47.36632::Doctor::Great. And you're happy to continue with the consultation.
+47.42787::48.17279::Patient::Yes.
+48.36632::51.70723::Doctor::Marvelous. OK. So, um, how can i help today?
+52.19533::57.41336::Patient::Yeah, um. So basically it's, just been happening over the last few weeks or so.
+58.65396::66.65393::Patient::But I don't really feel like um, like, getting up in the morning's really difficult, and I don't have much energy at all, during the day, um.
+67.41333::68.45844::Patient::Often.
+69.36822::75.31868::Patient::Yeah just like, doing most things that I would normally find, easy , is become quite difficult.
+78.05529::81.00265::Doctor::OK. So, things have become quite difficult for you.
+81.18021::81.87946::Patient::Yeah.
+81.72904::82.97208::Doctor::Is there anything else?
+84.98104::94.00935::Patient::Um, no it's quite hard to say like. Things like, I'm not, I'm not eating very much at the moment. I just don't feel like I have a lot of energy.
+95.23076::97.53028::Doctor::OK. I'm sorry to hear that.
+97.53028::104.10794::Doctor::Um, so you had difficulty waking up. No energy, not eating.
+104.10794::112.54512::Doctor::And that's been going on for a few weeks. When you say a few weeks, do you mean two or three or five? how many hours of sleep?
+110.08103::121.96271::Patient::Actually, well, now I kind of think about it maybe, maybe even longer, um. I guess uh, , might be related to, so I also started a new job, um, slightly recently.
+121.96271::129.14244::Patient::Um. It might of even coincided, coincided with uh, with that, job, a couple of months ago.
+129.23168::131.55146::Doctor::When did you start your new job? Two months ago, did you say?
+131.91664::132.48211::Patient::Yeah.
+133.93241::133.94028::Doctor::
+133.94028::141.21852::Doctor::OK. And, um, so this has been going on perhaps for um, sort of, six weeks or so?
+142.75052::145.07494::Patient::More like, , two months, I would say, yeah.
+147.66245::148.48526::Doctor::OK.
+149.41458::151.67221::Doctor::Alright. So, um,
+153.98533::161.03726::Doctor::Is there anything that you're particularly, sort of concerned about, um, or hoping to get out of this consultation?
+161.80938::171.85992::Patient::Well, um, I, I know that it's not really normal for me, so, before this phase. So I'd have thing, you know I wouldn't have, uh, any problems sort of.
+171.85992::180.86183::Patient::, eating, what I want to eat, or you know, doing standard things in life, and, and, what I want, to do is just like, kind of return to that previous state.
+180.86183::189.37529::Patient::Uh, somehow. Um, I'm not sure how that is. Uh, what, what the best ways of doing that are, but, yeah. Do you have some advice or?
+187.15427::187.86056::Doctor::
+190.48807::192.14972::Patient::Whatever, that'd be really useful.
+192.0352::204.9747::Doctor::OK. Sure. OK. Um, well what would I like to do is just ask you a few more, sort of questions around what's been going on, um, and also around your background health and um, and things like that.
+204.9747::208.36688::Doctor::And then we can go on to sort of what can be done from there. Is that alright?
+209.0958::209.67709::Patient::OK.
+209.86615::222.07894::Doctor::OK, great. so you say you've been, um, feeling unwell with not a lot of energy, difficult waking up in the mornings. Do you tend to just on that , do you tend to wake up early, and then stay in bed in the morning?
+222.57818::235.42025::Patient::Um, actually I'm, just uh, not, not really waking up early. It's more like I'm just having trouble sleeping at all, really. I think that's probably closer.
+234.78074::237.18144::Doctor::, difficulty sleeping as well.
+238.36009::239.07438::Patient::Yeah.
+238.39046::244.70018::Doctor::Um, and have you, and, how, how has your mood been over this period?
+246.15108::249.72722::Doctor::Have you been feeling your usual self?
+246.42022::247.42022::Patient::Um.
+248.93901::254.0593::Patient::Distracted, , I'd say. Uh, I, I kind of, um.
+255.36005::261.15961::Patient::Yeah, uh, finding it really hard to, quite, difficult to keep focusing, I would say.
+261.15961::267.80361::Patient::Um, not unhappy or, happy, but just uh, quite, just , not focused.
+269.9295::273.55367::Doctor::OK. So difficulty focusing, quite distracted.
+273.55367::277.41066::Doctor::And, would you say you've been in good spirits? Or is your mood low?
+278.63815::279.52537::Patient::Um.
+280.67575::286.27666::Patient::Actually uh, now you, you, you mention it like, my, mood is a bit lower recently.
+286.27666::295.85614::Patient::Um, and so I've noticed like, uh, my sex drive has kind of decreased, um, a bit over the, the past few months as well, so, yeah.
+293.95066::294.85374::Doctor::Right.
+297.49396::305.5133::Doctor::K. And uh, so lower mood, decreased sex drive recently as well.
+305.5133::310.08675::Doctor::And, just on that note, just a few questions around that.
+310.08675::315.8644::Doctor::Are you able to, uh, it may be slightly personal questions, but if you're O. O. K. to answer this,
+315.8644::323.25461::Doctor::Do you tend to, to have morning erections like you, is that something that you've noticed, ?
+315.97636::316.66809::Patient::Yeah.
+322.54777::326.02896::Patient::Um, I haven't noticed anything like that, specifically, no.
+326.21867::339.36124::Doctor::So, you've not, so you're saying you have not noticed morning erections, and usually you would. So, normal thing to have, uh, waking up in the morning with something. But you have not noticed those recently.
+336.02759::336.87944::Patient::Yes.
+340.09658::341.66049::Patient::I have not noticed those recently.
+342.05621::344.34047::Doctor::OK. So, and that's been a change, has it?
+345.14168::345.99883::Patient::Um.
+348.23035::353.96121::Patient::Important one I don't think, um, yeah. Not, I don't think it's important to change, no.
+350.21796::351.14242::Doctor::Sorry?
+353.85926::358.0012::Doctor::Uh, so you, you, you, you don't think there's been a change there. You
+357.84841::359.58525::Patient::No, there hasn't been a change there.
+359.77457::361.39053::Doctor::Ohh OK, sorry. Right, so
+361.39053::363.53461::Doctor::OK. So, um,
+364.15411::375.16951::Doctor::Just going back to the mood symptoms as well. Uh, you have had uh, difficulty focusing, easily distracted. Your mood has been uh, slightly lower, with lower sex drive.
+367.11099::367.75905::Patient::Yeah.
+375.35964::375.9461::Patient::Yeah.
+375.9069::382.51591::Doctor::Um, and in what way has your sex drive been lower? are you in a relationship at the moment?
+382.42728::386.40406::Patient::Yeah, I, I'm married, um, have been for, many years.
+386.3809::387.07028::Doctor::Mm-hmm.
+386.40406::393.87219::Patient::And, uh, yeah just, um. Over the last few months, just uh, been disinterested.
+394.45114::395.25534::Doctor::Disinterested.
+398.54459::399.04657::Doctor::OK.
+400.15558::402.22853::Doctor::OK. Sorry, you froze there for a moment.
+402.22853::405.87751::Doctor::Um, . So less interested as well, OK.
+402.52495::403.21668::Patient::
+405.86329::406.61517::Patient::Yeah.
+405.87751::415.40204::Doctor::And, just to ask you a few questions before we uh, wrap up is, uh, any significant past medical history?
+415.40204::423.64291::Doctor::Um, so do you suffer from any, uh, mental health problems in the past, or any, uh, physical health problems?
+422.98353::431.28425::Patient::Um, so, in the past, um, I have a, a history of, hypothyroidism, um.
+431.07758::432.07276::Doctor::Hypo?
+432.8632::434.27673::Patient::Hypothyroidism.
+434.68992::436.16525::Doctor::Hyperthyroid.
+437.63762::438.35233::Patient::Yeah.
+438.8943::442.05781::Doctor::K, so that's high thyroid, just to sort of confirm that.
+439.15478::439.89659::Patient::Um.
+442.65894::444.35941::Patient::Sorry, can you say that again please?
+443.29725::447.26978::Doctor::hyper, as in high, hyperthyroid.
+447.77822::448.71468::Patient::Hypo.
+448.85946::451.73468::Doctor::Hypo, OK. Hypothyroid. Thank you.
+452.36691::454.14886::Patient::Thank you. Um.
+455.26164::465.11897::Patient::Yeah, and uh, also in the past, I mean, I haven't had any kind of specific, uh, medical diagnoses, along these lines.
+455.87337::456.54469::Doctor::OK.
+465.11897::475.81044::Patient::Um, but the suspicion, that it may have uh, had an impact on me, but my father has commited suicide, um, about fifteen years ago.
+476.40914::477.80553::Doctor::OK.
+478.465::480.74177::Doctor::OK. And um,
+482.36779::485.49554::Doctor::Uh, do you take any medications?
+488.06603::491.68256::Patient::I had a, a, drug history of Thyroxine.
+492.03044::493.06068::Doctor::Mm-hmm.
+493.28406::495.71263::Patient::So, maybe, yes.
+495.6904::498.94688::Doctor::Do you, do you continue to take Thyrocsin now?
+501.3277::502.269::Patient::Yes.
+502.40902::505.4892::Doctor::You do. You're, so you're taking Thyrocsin at the moment?
+506.69655::507.66748::Patient::Um.
+510.7201::511.56221::Patient::Yes.
+511.831::515.63609::Doctor::Cool. And any drug allergies? Are you allergic to any medications?
+515.44089::519.13439::Patient::No, I have no uh, medication allergies, no.
+517.52174::518.11314::Doctor::No.
+518.93085::533.35387::Doctor::No allergies. And you mentioned the , the suicide of your father fifteen years ago. I'm very sorry to hear that. Is there any other, um, uh, significant family history of medical conditions, or psychiatric conditions?
+533.68995::534.40424::Patient::No.
+534.6919::538.67783::Doctor::No depression or anything like that running in your family, or uh,
+537.62979::539.78016::Patient::Uh, nothing, nothing, that sort.
+539.87501::543.64405::Doctor::OK. And your mother is, is well? Any brothers or sisters?
+543.93052::547.05082::Patient::Yeah she's fine, um, and no, I'm an only child. Um.
+550.9304::551.85919::Doctor::Um,
+553.34771::554.19442::Doctor::OK.
+554.61136::561.91654::Doctor::So, I just uh, uh, sorry it might seem like a slightly random question, but any uh, change in vision?
+563.05817::563.68696::Doctor::No
+563.06579::564.54699::Patient::No, no, nothing like that.
+564.37704::578.29932::Doctor::. OK. And, just to go back to your, you were saying you had low mood. Some people who , who do have low mood, uh, and low sex drive can sometimes feel uh, suicidal as well. Have you had any thoughts of harming yourself or harming anyone else?
+577.75747::578.51687::Patient::No.
+578.64023::579.20156::Doctor::No.
+579.59205::581.4116::Patient::No, not , not really, no.
+581.14274::587.18679::Doctor::and are you able to get the usual enjoyment out of your daily activities, that you have done in the past?
+588.04315::599.66041::Patient::Sometimes, I mean, I guess, um, most of the activites, but, when I've been doing sports as well, , I find sometimes it's quite difficult to breathe, um.
+600.42636::606.79497::Patient::So, I have some kind of like, shortness of breath um, when doing, sports, compared to maybe a couple of months ago.
+606.95875::610.96366::Doctor::OK. So you, you've become more short of breath over the last few months.
+610.93029::611.68969::Patient::Yeah.
+611.49618::614.71646::Doctor::Um, and you've had a
+615.38005::623.6459::Doctor::OK. So uh, any other things around that? So, more fatigue, more shortness of breath, um, over the last few months?
+623.72568::624.40527::Patient::Mmm.
+624.3434::632.77673::Doctor::Um, with a low, lower mood, decreased sex drive. Um, is there, just before we wrap up, is there anything else that you would like to talk about?
+634.06433::637.26955::Patient::Um, no, nothing specific, no.
+637.49338::638.99354::Doctor::So, um,
+639.64602::645.51805::Doctor::We're getting a little bit towards the end now, but I would quite like to make a bit more of a plan for you. Um,
+645.51805::655.92406::Doctor::I would like to, probably see you in person, and do an examination. And, and also, we would probably like to do some blood tests um, as well.
+655.92406::668.58759::Doctor::So, do you think it would be possible to see uh, to to book an appointment in the next few days uh, with your GP? Or, or um, that would be ideal, I think here.
+668.58759::677.95999::Doctor::Um, and then we can, we can probably do some more uh, we'll do an examination and uh, do some investigations really, to see what's going on here a little bit more.
+670.10952::671.14923::Patient::, yes.
+678.55232::679.712::Patient::That makes sense, yeah.
+679.75513::680.86141::Doctor::Is that alright?
+680.95237::683.06033::Patient::Yeah, that's very useful, thank you, um.
+683.30414::684.09435::Doctor::OK.
+683.39908::686.9225::Patient::Yeah, it feels, better to have some kind of plan, uh.
+686.20594::692.47358::Doctor::Yeah. Yeah, yeah. I think , I definitely think we need a plan here. Um, it's been nice talking to you. I'm sorry, we've run out of time now.
+692.47358::697.07104::Doctor::Uh, but we've at least started the ball rolling with um, some further investigations and tests.
+697.07104::705.26994::Doctor::I'm glad you're, you know, you're, you're , you're, although you have a low mood, um, you're, you're, um, you're not feeling suicidal, just to confirm that.
+705.01266::706.60664::Patient::Mm-hmm, yes.
+705.26994::714.97419::Doctor::And, and you're, uh, and uh, we'll hopefully get to the bottom of some your tiredness, and your other symptoms, when we see you. OK?
+715.18555::717.26074::Patient::Thank you very much, for taking the time. Thank you.
+716.54359::718.28406::Doctor::OK. Thank you. Thanks.

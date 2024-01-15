@@ -1,0 +1,153 @@
+1.09934::2.52318::Doctor::Hi there. Good morning.
+2.69174::3.64662::Patient::Hello.
+3.90729::7.15894::Doctor::Um, I'm Doctor Deen Mirza from GP at Hand. Nice to see you.
+7.38348::8.61656::Patient::Lovely to meet you.
+8.80133::12.63577::Doctor::OK. So, before we start your appointment. Can I please confirm your full name and date of birth?
+13.24815::19.27073::Patient::Uh my name is, Tracy Chapman, and, um, my date of birth is.
+20.30398::23.59688::Patient::God . , I'm forty five.
+20.8477::22.16216::Doctor::Just tell me how old you are.
+22.7522::27.3782::Doctor::, OK. Uh, and could you just confirm the first line of your address, and your postcode?
+28.12789::34.90235::Patient::Uh, fifteen Babylon Street. Um, W six five .
+32.16559::32.74837::Doctor::
+34.10599::38.91394::Doctor::That's great, OK, thank you. Um, are you in a private place where you're OK to speak at the moment?
+39.1956::39.83469::Patient::Yes.
+39.98016::44.94705::Doctor::OK, fantastic. All right, so tell me what's been going on. You said you're, a bit short of breath. Is that right?
+45.36855::48.7069::Patient::Yeah, yeah, feeling very sort of breathless recently.
+49.7069::56.39113::Patient::Um, like, I don't know, whenever I like breathe deeply, I, it sort of catches in, in the, right-hand side of my back.
+56.68309::60.34442::Doctor::Right, OK, OK. And how long has this been going on for now?
+61.33852::63.27085::Patient::Just, just today really.
+63.80368::68.31794::Doctor::Right, OK. Any other symptoms at the same time, uh, that you've had this pain?
+69.38365::78.31601::Patient::Um, well I've had a , I've got a bit of slight fever, um, and, and, uh, well like, I coughed up a bit of blood on, on two occasions.
+69.8941::70.40403::Doctor::
+77.14576::77.63582::Doctor::
+78.74178::79.59534::Doctor::Right, OK.
+79.03782::80.5491::Patient::what that means.
+80.58507::88.11265::Doctor::OK, all right. , well it might, it might all be connected then. Um, and um, yesterday, before this, all of this, were you completely fine?
+88.99274::97.05597::Patient::Um, yeah, yeah, kind of, I , I, I can sort of feel my heart beating, but , other than that, no, sort of fine.
+91.04643::91.42391::Doctor::
+97.37094::103.2848::Doctor::OK. So you can feel your heart kind of, um, beating a little bit, bit faster, do you think than normal? Is that?
+100.18826::100.85743::Patient::
+103.14315::110.91009::Patient::, I don't know I can just sort of feel it, more , you know. Um, but I've, I've also, I've been feeling a bit, like a bit tired at work.
+104.34572::106.37195::Doctor::OK. Sure.
+110.91009::115.96825::Patient::Haven't really been, like exercising has been a bit difficult, because I've been feeling tired.
+115.96825::123.66554::Patient::Um, and, , yeah performing, , performing daily activities has, has been a bit harder than usual.
+119.21864::121.12593::Doctor::
+122.71533::130.61023::Doctor::. OK, all right. , and um, how long has that been for? The tiredness and, you know, , not wanting to exercise and.
+131.37633::135.57183::Patient::Um, , only after, only for a couple of weeks or so.
+135.49018::146.26214::Doctor::Couple of weeks, OK. And then, and the last day or so that's when you get the cough and the pain in the side? And you've cough blood, OK, all right. Um, you said you felt a bit warm. , have you measured your temperature at all?
+141.1873::141.7239::Patient::Yep.
+147.00044::152.03805::Patient::Um, with the back of my, my hand, yes.
+150.36063::158.00676::Doctor::just with that, OK, fair enough, all right. Um, OK. And now, can I just ask? Um, do you smoke at all?
+158.6095::159.5719::Patient::Uh, no.
+159.80146::161.56305::Doctor::OK. What do you work as?
+162.24108::165.38395::Patient::Um, I work in an office, just a, desk job.
+165.54319::168.82796::Doctor::OK, all right. And, um, do you live alone?
+169.44411::170.44411::Patient::Uh, yes.
+170.42398::172.52332::Doctor::Yeah. In a flat or a house?
+172.76742::173.61705::Patient::Flat.
+173.63591::175.32465::Doctor::OK. Do you have any pets?
+175.70728::176.48923::Patient::Cat.
+176.55644::182.11696::Doctor::A cat, OK. Um, uh, uh, are you on, any medication at all? Regular medication?
+177.97795::178.59449::Patient::
+182.40653::186.86519::Patient::Uh, yeah, um, , Methotrexate, Methotrexate, that's.
+186.7276::189.81473::Doctor::Methotrexate. OK. , what are you on that for?
+190.67724::193.11333::Patient::Um, I've, I've got SLE.
+193.27831::197.72202::Doctor::SLE, OK. Do you have any other , diagnoses? Any other illnesses at all?
+198.06071::198.79756::Patient::No.
+199.27169::202.775::Doctor::Right, OK. Um, and do you have any allergies to any medication?
+203.13591::203.86524::Patient::No.
+204.09288::205.64255::Doctor::Any other allergies at all?
+206.36148::206.95547::Patient::No.
+207.58295::212.90746::Doctor::OK. So, um, you're on, you're taking Methotrexate at the moment. When was the last time you had Methotrexate?
+213.45173::214.4818::Patient::Uh, this morning.
+215.19885::217.9091::Doctor::Ohh, you had it this morning. OK, ohh right, all right.
+215.28631::215.8427::Patient::
+216.54195::217.06826::Patient::
+217.9091::225.31295::Doctor::OK. Um , um, couple of things I'd like to do in order to try and um, get an idea of how, unwell you are.
+225.31295::230.41899::Doctor::OK. Um, the first thing I'd like to do, is to try and measure your pulse.
+230.41899::236.74794::Doctor::So, what, the way we're gonna do this, is that, if you're, if I can get you to try and locate the pulse in your wrist.
+237.76083::240.46995::Doctor::. Not everyone can do this, so don't worry if you can't.
+241.06897::247.81004::Doctor::But if you, if you can tell me whether you can feel the regular pulse. It's just under the thumb. If you put two fingers up and down like that, you might be able to feel the pulse.
+248.06838::248.94808::Patient::I've got it.
+248.83985::250.73188::Doctor::You got it, OK. Are you sure?
+250.82026::251.42176::Patient::Yep.
+251.55541::258.0532::Doctor::All right. So what I'm going to do, is I'm going to tell you when to start counting, and when to stop counting OK. So I'll just get my stopwatch up.
+262.45718::266.03334::Doctor::OK. So if you can, um, you've still got the pulse?
+266.56468::267.24137::Patient::Yep.
+267.2217::270.86778::Doctor::OK. So if you can start counting, now please.
+271.47446::273.66996::Patient::One, two, three.
+274.61732::279.57223::Patient::Five, six, , eight, , ten, .
+280.65493::281.16621::Patient::
+281.01349::289.6154::Doctor::If you can stop now, . That, I think that was about eleven or twelve. Um, so that would make your heart rate about, sixty six to seventy four, that's, that's OK, good.
+289.6154::296.18569::Doctor::Fantastic. And the next thing I'd like you to try and do, OK. Um, it depends on the lighting, so it may not be possible.
+296.18569::300.88428::Doctor::But the next thing I'd like you to try and do is just, to get you to squeeze the tip of your finger.
+301.71587::313.54332::Doctor::And then let me see how quickly the redness come back. OK, so if you can see what I'm doing now. My finger's come, right behind the screen, I'm squeezing it, OK. , just watch me first, it's all right, just watch me first. Yeah, I'm, I'm squeezing it.
+313.54332::318.32126::Doctor::And then you can see, that, it goes, pale and then it goes back to the normal red colour, OK.
+318.32126::325.13274::Doctor::So if I can get you just to put your finger up to the, your camera. And then with the other hand, just try and squeeze it, and see.
+321.95583::322.6359::Patient::
+324.02729::326.26412::Patient::You look like you've got very good circulation.
+327.53479::328.2566::Patient::
+329.01353::331.21789::Doctor::OK, perfect, that's great. Thank you so much.
+331.55535::335.88991::Doctor::The last thing I'd like to do, is I'd like , to , try and have a look down your throat.
+336.21489::340.6162::Doctor::OK. Are, are you doing this consultation via, um, a phone or a , laptop?
+340.91078::341.49734::Patient::Phone.
+342.02017::342.87447::Doctor::A phone?
+342.30604::345.43711::Patient::rested it on my laptop, so I think we're good to go.
+346.98044::348.30156::Doctor::, sorry, say that again.
+348.66268::350.82058::Patient::Got it rested the laptop but I can.
+348.75913::349.50213::Doctor::
+349.88763::359.33807::Doctor::OK, , OK. So if you, if you, um, position your device up above your head, put your head back, mouth open wide, and let me see if I can have a . That's, fantastic. And say ah.
+359.62512::362.03114::Patient::Ah.
+360.3376::360.88773::Doctor::
+362.08641::363.93647::Doctor::Perfect. Thank you for that. Excellent.
+364.01611::364.76799::Patient::Lovely.
+364.50199::375.27848::Doctor::OK. Last thing, is if I can get you to feel inside your neck. Just on the sides here, OK, um, by your Adam's apple. Tell me whether you can feel any enlarged glands or not.
+376.22667::378.44472::Patient::No, they feel pretty normal to me.
+377.05993::379.12187::Doctor::. OK.
+379.64021::380.33946::Patient::I think.
+380.05435::382.28428::Doctor::All right. Um.
+383.30202::387.90763::Doctor::Now, um, uh, . Sorry, I've forgotten your name.
+388.80565::390.93348::Patient::Um, Doris.
+389.23213::389.54339::Doctor::
+390.78842::399.11781::Doctor::Doris, OK Doris. Um, so, so Doris, um, what, what I think we need to do, is um. This sounds like you might have a chest infection.
+399.43517::403.92089::Doctor::OK. If you're coughing up blood, and you're feeling your heart racing. Um.
+403.92089::408.28308::Doctor::Uh, I think, you need to be examined today, someone needs to listen to your chest.
+408.68308::417.15931::Doctor::And, um, maybe check your blood pressure as well, check that, you're stable. I have to say examining you now, from what limited, examination I could do online.
+408.89595::409.61023::Patient::
+417.15931::422.0238::Doctor::You're, everything does seem to be OK, in terms of, you, you don't seem acutely unstable.
+422.0238::432.00701::Doctor::However, if you've got, this kind of pain, um, when taking a deep breath in and you're coughing up blood. We do, do, we do need to assess you to figure out whether you have a Pneumonia or chest infection.
+432.00701::441.88781::Doctor::And um, that would involve someone listening to your chest with a stethoscope, and you may need um, an antibiotic. Uh, there's one thing I need to ask you. Have you been, on any long-haul flight recently?
+432.33212::432.93362::Patient::
+442.66298::444.52013::Patient::No, no.
+443.76199::448.23881::Doctor::No, OK. Have you ever had any clots in your legs, or clots in your lung? Blood clots?
+448.59533::450.07653::Patient::Not that I know of, no.
+449.80835::451.77524::Doctor::No, OK. Anyone in the family have that?
+452.52767::453.21939::Patient::No.
+453.33815::460.00293::Doctor::No, OK. All right. Um, what I think we'll do is um, we'll arrange for you to get reviewed in a clinic today.
+460.00293::464.4855::Doctor::OK. Um, I would like someone to listen to your chest, and check your blood pressure.
+464.4855::469.72227::Doctor::And to, to recheck your pulse as well. Just make sure, and check your temperature, make sure all those parameters are OK.
+469.72227::475.4495::Doctor::You may well need an antibiotic, OK. Um, do you have any allergies to any antibiotics?
+475.38489::476.09917::Patient::No.
+476.03459::483.55672::Doctor::No, OK. Um, I, I'm not, I'm gonna, not, I'm not going to prescribe anything for you now, because I think you need to have that, basic assessment first.
+483.55672::493.05964::Doctor::Um, before we proceed to the next step. But the, that's what I would predict the next step might be. Um, I'm going to leave the number in the notes for this appointment, for you to ring our support team.
+493.05964::497.43753::Doctor::And then, they will, book you in for a face-to-face appointment with one of our GPs today.
+497.43753::500.51038::Doctor::And then, they'll do that assessment, and then we'll take it from there, OK.
+497.4376::498.32482::Patient::OK.
+500.53535::502.78347::Patient::But we don't think I'm dying of lung cancer.
+503.61635::516.07331::Doctor::Um, uh, given the, the way in which you uh, have presented now. Just one day, with a fever and, this slight pain, , concurrent with the, the blood in the, the, the flem.
+516.07331::522.27518::Doctor::That's not usually how lung cancer is presented. It's more insidious, over a longer period of time, with other symptoms.
+522.27518::529.07333::Doctor::Um, however, we might need to get some investigations to exclude that. It depends on the examination finding, when we see you.
+529.40763::530.27981::Patient::OK.
+530.31836::532.33823::Doctor::All right. , are you worried about lung cancer?
+532.58809::538.52796::Patient::Well you know, you start coughing up blood and you think you're, gonna, die of lung cancer, so.
+536.95413::541.52367::Doctor::. Sure, of course yeah. So, just remind me how old you are again. I'm sorry.
+541.64075::542.64075::Patient::Forty five.
+542.54049::554.59653::Doctor::Forty five, OK. It's something we do need to be cognisant of, OK. Um, and, we may end up having to do a follow-up chest X-ray, if things don't settle down. But at the moment, it, it seems more like a chest infection, rather than a lung cancer.
+554.95658::556.10696::Patient::That's good to know.
+556.07335::563.61477::Doctor::Yeah, that, that is good to know, yeah, so that's, 'cause that's easier to treat. But we still need to make sure that things are OK because, chest infections can become nasty as well.
+563.61477::571.5833::Doctor::It can lead to infection inside the body, , we want to avoid that as well. So, let's get you checked out today, and hopefully we can put your mind to rest, and get you on the right course of treatment.
+563.89646::564.45901::Patient::Yep.
+571.81377::573.40776::Patient::Perfect. Thank you very much.
+573.24185::575.41102::Doctor::All right, you're welcome. All right, take care then. All the best.
+575.15212::575.6403::Patient::
+576.22195::576.83596::Doctor::Bye.

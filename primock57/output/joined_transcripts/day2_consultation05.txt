@@ -1,0 +1,141 @@
+1.0::5.55394::Doctor::Hi there. Good morning. I'm Doctor from GP at Hand. Nice to see you.
+5.58899::7.08214::Patient::Hi.
+6.84171::11.56832::Doctor::OK. So, um, before we start your appointment. Could I confirm your full name and date of birth please?
+11.43389::15.27413::Patient::Yeah, it's John Smith, and I am thirty two years old.
+15.95415::17.88485::Doctor::Sorry, I didn't catch your date of birth.
+18.31201::19.5836::Patient::I'm thirty two years old.
+19.48917::24.94958::Doctor::Thirty two years old, OK. Could you tell me the first line of your address, and your postcode please?
+25.10968::29.09266::Patient::It's four Park Avenue, and it's AB one CB two.
+29.1582::33.78755::Doctor::That's great, thank you so much for that. Are you in a private place where you're OK to speak at the moment?
+33.8928::34.41281::Patient::Yes.
+34.51645::38.86619::Doctor::OK. So how can I help you today? You've been having some problems with your asthma. Is that right?
+39.90719::41.41577::Patient::Sorry, say that .
+40.84162::42.82004::Doctor::How can I help you today?
+43.22818::48.96578::Patient::So, um, I've been experiencing very weird symptoms, over the past month or so.
+48.96578::56.00573::Patient::And I don't know what's causing them. I have googled it and, um, nothing's coming up, so I thought I'd come and speak to you about it.
+49.12277::49.86713::Doctor::OK.
+56.50962::59.59346::Doctor::OK. So, tell me a bit more about these weird symptoms you've been having.
+61.25979::67.21865::Patient::So, it started with, feeling very tired, but for a couple of days, and then I get back to normal.
+61.65518::62.34338::Doctor::
+67.95838::75.61838::Patient::And then I started losing feeling, in my hands and arms. I get a weird sensation like, uh, I guess, pins and needles.
+76.68325::83.97008::Doctor::Right again, the connection's not so great. You've been getting pins and needles in the hand. Is that right?
+77.15889::78.28453::Patient::And.
+84.3697::85.19113::Patient::Yeah, that's correct.
+85.69042::87.46225::Doctor::OK. Is that the right or left hand?
+87.4101::88.7288::Patient::My right hand.
+89.0885::90.46019::Doctor::Is it always the right?
+89.87399::91.45214::Patient::Yes.
+92.45299::98.35945::Doctor::OK. Um, we've lost video now, maybe is there a, a, a button you can press?
+100.79829::101.71227::Doctor::OK.
+102.47866::105.64001::Doctor::Are you happy for us to carry on without the video? I can't see you at the moment.
+105.45936::106.57402::Patient::Yes, that's fine.
+106.9558::116.96604::Doctor::All right. Um, so, you've been having these pins and needles, and episodes of numbness, in the right hand. Is it just the hand, or does it go up the arm as well?
+117.58919::126.90309::Patient::Uh, the pins and needles are in the hand, but I feel like my arm is getting weaker, but it only lasts few days and then goes back to normal. So, it's very weird.
+127.69122::131.22992::Doctor::Right, OK. Um, is there any involvement of your leg at all?
+131.85589::136.59341::Patient::Uh, my, colleague said, I'm walking slightly differently to normal.
+137.06925::139.85777::Patient::And again, it's only for three days, or three or four days.
+140.97084::144.57605::Doctor::OK. You, you said you've been having weird symptoms for about a month.
+145.28581::145.8501::Patient::Yes.
+146.08409::149.29818::Doctor::, so, what has been happening from the beginning of the month? What else has been happening?
+150.50672::153.35209::Patient::Um, I generally feel tired, and weak.
+154.09533::158.01242::Patient::And, sometimes I feel nauseous, and I don't feel like I want to do anything.
+159.6702::161.26559::Doctor::Right, OK.
+161.94022::163.92507::Doctor::Um, and, um.
+165.85723::169.42176::Doctor::You know, , your colleague said you've, you've not been walking normally.
+169.63218::170.25361::Patient::Yes.
+170.363::175.69017::Doctor::Do you feel anything different, on either side, in terms of your legs? Can , have you noticed anything different?
+176.46716::181.35478::Patient::Yeah, so, at the same time I get my arm symptoms, my leg feels weaker.
+182.69729::183.87758::Doctor::Right, OK.
+184.44913::185.08059::Doctor::And.
+186.05414::190.93218::Doctor::You know you, the abnormal gait. Has that been present, outside of these episodes?
+191.84109::195.67031::Patient::No, it has not. So normally, I'm, fit and well actually.
+193.48797::194.15715::Doctor::Right, .
+196.07298::202.84323::Doctor::All right, OK. Um, and, these, these episodes. How often have they been happening?
+204.17689::214.82082::Patient::They have been getting more regular. So at the start, it would be maybe once a week, uh, to every once , once a month, but now it's getting uh, uh, a couple of times a day.
+216.09028::222.22241::Doctor::Right, OK. And, how long have these episodes been going on for? When, when did it all start? Was it a month ago?
+220.6694::223.69678::Patient::, probably a month and a half, maybe two months.
+223.9758::224.92115::Doctor::Right, OK.
+225.47857::236.32217::Doctor::OK. And, along with these symptoms, of the weakness and numbness. Do you have any other symptoms at the same time? Like swallowing, or difficulty speaking, or vision problems?
+236.73168::241.17607::Patient::So, recently I've noticed, I can't hold my cup of coffee.
+242.17607::246.4127::Patient::And when I, do drink coffee, it's slightly harder to drink.
+246.90402::249.43872::Patient::And that's only been in the last couple of days, I guess.
+250.84822::254.56763::Doctor::Right. Is that during these episodes, or outside of these episodes?
+254.60062::256.14856::Patient::Only during the episodes.
+256.38777::256.98124::Doctor::OK.
+257.63698::260.02086::Doctor::Do you have any difficulty swallowing at all?
+260.08405::261.29696::Patient::Not currently, no.
+261.3426::263.7822::Doctor::. During the episodes, do you have any difficulty swallowing?
+264.10135::266.6572::Patient::I, I, I feel like there's something in my throat.
+267.52444::272.98486::Doctor::OK. What about, um, difficulty speaking during these episodes? Any, any issues with that at all?
+273.29961::274.67318::Patient::No, I can speak fine.
+275.30053::278.33709::Doctor::OK. And any visual problems during these episodes?
+278.6391::280.75181::Patient::I, I don't think so, but I wear glasses.
+281.07837::288.89329::Doctor::OK, all right. Now um, can I just ask? , has, uh, is there any history of stroke, or mini-strokes in your family?
+289.95701::299.26445::Patient::Uh, yes. My, father has had a, operation to the side of his neck, to reduce the risk of stroke.
+299.79308::300.85187::Doctor::Right, OK.
+301.57849::310.14346::Doctor::Um, and, uh, how about yourself? Have you had any history of, mini-strokes or anything like that, along those lines? I know you're quite young.
+310.54048::317.61634::Patient::No, so after my, dad had his operation, I was required to be checked, and my cholesterol , was fine.
+318.84895::324.63911::Doctor::Good, excellent. So you had a, a blood test done. And did they check for diabetes as well?
+322.8662::323.4662::Patient::Yeah.
+324.96209::332.04559::Patient::They checked my diabetes, my blood pressure and my, cholesterol, and the doctor said it was all OK.
+331.89836::335.71949::Doctor::Fantastic, OK. Now, do you have any other illnesses at all?
+335.82619::336.49047::Patient::No.
+336.70448::338.35752::Doctor::No. Are you on any medication?
+339.05015::344.42906::Patient::I take an aspirin, seventy five milligrams, once a day, but that's, because of something I read on the internet.
+345.82042::348.50982::Doctor::OK. So, so, why is that? Why do you take that?
+349.06905::352.8513::Patient::I think it's, meant to reduce your risk of stroke and heart attack.
+354.05489::357.94864::Doctor::OK. Do, have you ever told a doctor before, your GP, that you're on Aspirin?
+358.30234::363.56471::Patient::Yes I took, I started to , taking it after my, father had his operation, but that wasn't the doctor telling me.
+364.24451::372.26515::Doctor::OK. Uh, and, has any GP ever spoken to you about, the risks of Aspirin, and whether you should be on it? Or have you not , told the , the GP in the past?
+372.27022::373.44731::Patient::No, I haven't.
+373.5673::385.0967::Doctor::You haven't, OK. Um, all right. Um. Now, um, in terms of your uh, your kind of social situation. Um, are you working at the moment?
+385.38498::386.37929::Patient::Yes, I am.
+386.52626::387.69486::Doctor::, what do you work as?
+388.17714::389.79973::Patient::Uh, I'm, uh, I'm actually a doctor.
+390.18948::392.02319::Doctor::You're a , a, a medical doctor?
+391.85736::392.65735::Patient::Yes.
+392.93202::395.34822::Doctor::OK. Uh, which, specialty are you in?
+396.36418::398.47033::Patient::I work in, uh, plastic surgery.
+398.71793::404.98096::Doctor::Plastic surgery, OK, great. And, um, do you, have any, um, allergies to any medication at all?
+405.96928::408.13366::Patient::I'm allergic to penicillin only.
+408.37296::412.66791::Doctor::OK. And, um, are you, um, living alone?
+413.10495::414.35768::Patient::No, I live with my wife.
+414.68949::419.80459::Doctor::Right, OK. Um, fantastic. Uh , do you smoke at all?
+420.5635::421.41712::Patient::No, I don't.
+422.14271::430.55276::Doctor::Right, OK. Um, that's fine. Now, obviously you're a, you're a medic yourself. Did you have any thoughts as to what might be going on?
+431.64031::434.21564::Patient::Uh, I've actually, got no idea.
+434.7326::446.76854::Doctor::Right, OK. Um, well the, the way you're describing these episodes. They make me concerned about, mini-strokes or TIAs, , transient ischemic attacks. Um.
+446.32854::446.84282::Patient::OK.
+446.76854::452.66222::Doctor::And so, that's something quite urgent. And given that you've got a family history of um, stroke.
+452.66222::463.7225::Doctor::Um, even though you're quite young, I think um, it's something that we need to exclude. So, what I'm probably going to do, uh, in fact what I am going to do, is I'm going to, refer you to a stroke, a TIA clinic.
+464.39938::468.2289::Doctor::Um, now just to double-check. Do you have the symptoms right now?
+468.60592::470.3112::Patient::No, I'm perfectly fine at the moment.
+470.27925::475.73585::Doctor::OK. So, so, what I'm gonna do, is I'm uh, I'm gonna refer you to a, a mini-stroke clinic, or a TIA clinic.
+475.73585::483.7569::Doctor::Um, I send that referral off now, and then you can attend them, they, they'll usually, call you in within the next one to two days, OK.
+483.7569::493.47117::Doctor::Because it's something relatively urgent. Now, today it's Wednesday, so we've got a few days , before the weekend. So, um, uh, basically the deadline should be, Thursday, Friday.
+493.47117::496.9327::Doctor::We're expecting you to be seen by the time, that's the kind of turnaround we're, we're looking at.
+496.9327::511.78392::Doctor::And in that clinic, they'll be doing a number of things. Um, they'll be checking, they'll be doing a ultrasound of the, carotid arteries, like your, your father had. Um, and, they'll be doing a, maybe a, they might do a scan of your brain as well, to check if there's any signs of a bleed there.
+511.78392::522.90873::Doctor::But, um, they'll be doing a range of tests in a short time frame, in order to exclude whether, you have um, any illness. OK, whether you have got any kind of stroke or, mini-stroke.
+519.547::520.32635::Patient::Sure.
+522.90873::530.29691::Doctor::Now, if your symptoms return and they persist, they're prolonged. Then um, you may need to attend A and E.
+530.29691::536.98689::Doctor::OK, because um, our presumptive, working diagnosis is, mini-stroke or TIA, OK.
+536.98689::551.18689::Doctor::And if, a mini-stroke is prolonged then uh, then we end up thinking that this might be a stroke and in that case, that becomes even more of an emergency. So, we're not talking about waiting one or two days, we want you to go to hospital in that instance, as soon as possible, OK.
+550.94993::551.44278::Patient::Sure.
+551.18689::560.53075::Doctor::Now if , things happen again, feel free to contact us, we can assess you over the phone, we can give you direction and guidance over the phone. That's, that's, that's not a problem, you know, you, you've got easy access to us.
+560.53075::568.14865::Doctor::OK. So, um, this is the plan going forward. Um, I'm going to, um, do that referral.
+568.14865::571.25306::Doctor::You should hear back from the hospital, relatively soon.
+571.25306::578.4696::Doctor::The hospital, you can actually ring them, on um, uh, the PALS number, and then there's also the TIA clinic number.
+578.4696::584.86545::Doctor::I'm going to leave that number in the notes for this consultation, OK. So you'll have all the information you need, to chase this appointment.
+578.70308::579.27451::Patient::OK.
+584.86545::589.13873::Doctor::And um, if you want, you can ring them, either today or tomorrow morning.
+589.13873::598.48747::Doctor::, today in the afternoon, wait uh, one or two hours. Or tomorrow morning just to find out when they got time to slot you in. And, just to make sure they've got you in the system, that they've got in the books, and they're going to be calling you in, OK.
+598.46767::599.39213::Patient::
+598.48747::606.88307::Doctor::, this isn't, a, an immediate emergency that you need to rush down to A and E. But it's something quite urgent we need to, deal with in a short space of time, OK.
+606.88307::617.37638::Doctor::So if there's, if there's any delay that, transpires for example, you can't make the appointment or, you know, they, you don't get called. , you, you get, get in contact back, back with us, OK.
+617.45918::618.03775::Patient::
+618.315::620.45867::Doctor::All right. Did you have any questions at all?
+620.85281::622.69516::Patient::No, I think that covers, most of it.
+623.05633::631.66522::Doctor::OK, great. So just bear with me a few minutes, and then I'll send that uh, all through and then you should, um, you should be able to help, you should have the information at your hands to, in order to take things further, OK.
+631.82717::632.73432::Patient::, thank you.
+632.76074::634.50894::Doctor::All the best. Take care now. Bye bye.
+634.11308::634.55593::Patient::

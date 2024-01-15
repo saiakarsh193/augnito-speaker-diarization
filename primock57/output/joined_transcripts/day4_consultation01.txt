@@ -1,0 +1,140 @@
+0.0::0.35936::Doctor::
+4.80803::5.69427::Doctor::Hello.
+5.87972::7.04287::Patient::Hello. Can you hear me?
+7.29565::8.91294::Doctor::Yeah, I can. Can you hear me?
+9.15571::11.61423::Patient::
+15.22345::17.08854::Doctor::Hi, my name is Doctor Gohill.
+17.83708::21.53734::Doctor::I'm one of, Hi, I'm one of the physicians that works at Babylon.
+18.04361::18.59576::Patient::
+22.21779::24.95033::Doctor::Are you in a quiet and private space to talk?
+25.43218::26.44374::Patient::I am, yes.
+26.69275::29.87212::Doctor::Good, and can I confirm your name and date of birth please?
+30.15513::37.56531::Patient::Uh, it's Joe Bloggs. It's the seventh, of June, nineteen seventy four.
+38.0269::40.58359::Doctor::Seventy four, and how old does that make you?
+40.74928::45.13268::Patient::Sorry, fifty four . I'm, suppose I'd be fifty three, well, yeah.
+42.0506::42.85901::Doctor::Perfect.
+45.15226::50.98997::Doctor::Great, and it says here, um, it says you're having chest discomfort. Is that correct?
+50.26099::55.29319::Patient::That, that is correct, yes. I'm experiencing discomfort in my chest.
+52.21748::52.95404::Doctor::
+55.21736::60.40246::Doctor::OK, can you tell me a little bit more about your chest discomfort? When it started, and how you're feeling at the moment?
+61.47851::65.35816::Patient::Sure, um, it's been ongoing for, a couple of hours now.
+65.7364::71.13977::Patient::Um, I'd say that it's come on, quite suddenly. I was, digging in the garden.
+71.66894::76.60359::Patient::And it, if I had to describe where it is, it's somewhere in the middle of my chest.
+76.98879::82.45268::Patient::And it's more, it feels like it's pressure, discomfort, than more, than a pain.
+82.77157::85.91327::Patient::Um, if I, had to .
+87.6524::94.54751::Patient::If I, if I had to describe what discomfort feeling, it's, it's like someone's sitting on my chest. .
+93.66658::94.64987::Doctor::OK.
+95.99643::96.76837::Patient::And.
+99.22387::99.67786::Patient::Yeah.
+99.54759::104.38542::Doctor::Great. So, you've talked about your chest. Are you still in, discomfort at the moment?
+104.51818::106.10999::Patient::Uh, yes I do smoke, yeah.
+106.056::109.75625::Doctor::OK, and when it started, how would you rate it out, out of ten?
+111.76129::116.32517::Patient::Say about, say, seven out of ten.
+116.11486::117.24658::Doctor::OK, .
+116.74426::120.53009::Patient::Ten being, very sort of, unbearable and severe pain. Seven is.
+121.36546::124.02931::Patient::Quite manageable, well, it's quite .
+124.3955::125.94633::Doctor::OK, and how about now?
+126.5049::127.94227::Patient::Um, it's still the same.
+129.16162::133.69411::Doctor::OK, and tell me before this happened, what were you doing?
+133.19942::133.62985::Patient::Yeah.
+134.82841::138.79746::Patient::Um, I was, relaxing.
+140.20326::143.45675::Patient::My wife, and, we're watching Jeremy Kyle.
+143.52532::144.50138::Doctor::OK.
+144.09479::145.96071::Patient::still go out into the garden.
+146.22584::148.66278::Doctor::OK, and how often do you do gardening?
+149.24408::152.34981::Patient::Um, every other week. So, fortnightly.
+152.26724::157.26075::Doctor::OK, and are you normally fit and well? So, are you normally OK to garden as you would?
+157.7285::158.51982::Patient::Uh, yes.
+159.42228::163.88292::Doctor::Great, and apart from this, do you have any other medical problems?
+167.20457::173.13345::Patient::Um, high cholesterol, and, I've had hypertension, hypertension.
+173.62433::178.65974::Doctor::OK, so that's high blood pressure, and high cholesterol. Do you take any medicines for that?
+177.38909::177.95964::Patient::
+183.08644::184.79632::Patient::No, I don't take any medicine.
+185.04828::187.12599::Doctor::OK, and are you allergic to anything?
+187.53297::189.07898::Patient::Uh, .
+190.6167::201.15441::Doctor::OK. So, let me summarise what you've told me already. You were gardening a few hours ago, and you experienced chest discomfort, which was roughly seven out of ten.
+194.44985::194.8793::Patient::
+201.72932::205.7469::Doctor::And it feels more like someone's sitting on your chest, as opposed to pain.
+201.73421::202.18206::Patient::Yeah.
+206.26147::207.77628::Patient::Yes, that's great.
+208.24372::213.47073::Doctor::And apart from this, have you noticed anything else unusual, specifically with your breathing?
+216.83001::224.56898::Patient::Uh, yes I have. Um, I've got shortness of breath. And I feel slightly, light-headed.
+226.61889::228.76845::Doctor::OK, and is that getting worse or better?
+231.73145::245.98765::Patient::Um, it's remained the same. Although, I would say recently I've noticed, in terms of sort of breathing, I've had, some difficulty climbing the stairs. And, if I have to sort of walk uphill, there's that sort of challenge as well.
+246.36528::252.13101::Doctor::And when you get short of breath, when you're walking up the stairs, have you noticed any pain?
+255.18141::262.02584::Patient::Um, no pain as such, but there's often calf pain and, leg swellings.
+262.8244::268.69205::Doctor::OK. So, let me confirm. You have the pressure at the moment, and you have shortness of breath, is that correct?
+268.67865::269.68674::Patient::That is correct, yes.
+269.27892::276.43982::Doctor::. So, given what you've told me about your past medical history. I think it might be worth, you calling an ambulance.
+276.83809::277.58042::Patient::OK.
+277.27218::284.10378::Doctor::get you to the hospital as soon as possible. Because, my concern is, it might be something to do with your heart.
+285.06785::291.81563::Doctor::So, While to you, I will ring an ambulance. Who, should come to your address.
+285.29957::286.75205::Patient::Ohh, OK.
+292.11572::292.75375::Patient::Ohh right.
+292.57614::299.98251::Doctor::But in the meantime, I think we should stay on the phone. So I can gather some more information, that we can give to the paramedics. Is that OK?
+297.20775::297.85628::Patient::OK.
+300.81645::303.53852::Patient::Um, should I, be concerned about anything?
+304.06596::314.64558::Doctor::It's nothing to worry about at the moment, but, given that you've got high blood pressure and high cholesterol, and you've got some chest pain. I'm always worried about the heart first, before anything else.
+314.0249::316.29556::Patient::, OK, .
+315.31628::319.16622::Doctor::, and we, and we need to look after your heart before anything else.
+321.08227::327.33311::Doctor::So, apart from this light-headedness, and this chest discomfort, have you noticed anything else unusual?
+331.39456::336.87669::Patient::Um, nothing, else unusual. Um, I'm not sure if I spoke to you about nausea?
+337.29249::340.39219::Patient::I've noticed nausea, but no vomiting, yet.
+340.05019::342.33146::Doctor::Did you have anything to eat or drink this morning?
+342.44252::343.35529::Patient::Um, no.
+344.68459::347.30714::Doctor::And you feel, still feel nauseous at the moment?
+347.93306::349.65183::Patient::I have, yeah. I am, yeah.
+350.34364::356.48768::Doctor::So, I have a couple of other questions to ask you, and I'm gonna reel them off. So, apologies for not letting you talk very much.
+354.57627::355.18976::Patient::OK.
+356.84274::357.79526::Patient::No, that's fine.
+357.50982::360.87479::Doctor::Have you noticed this pressure, radiating to your head?
+361.71454::363.44442::Patient::Uh, not to my head, no.
+363.42549::365.85046::Doctor::And how about to your left, or right arm?
+366.63364::371.32361::Patient::Uh, yes. There is some pain in my left shoulder and arm.
+372.01747::375.64588::Doctor::And does that pain go anywhere else? To your left arm, or to your back?
+376.2725::377.3214::Patient::Uh, no.
+378.23849::381.76512::Doctor::And, have you noticed any problems swallowing, or drinking water?
+384.87286::385.72562::Patient::Uh, no.
+386.60296::387.28563::Doctor::Good.
+387.92041::390.50704::Doctor::And have you noticed any problems going to the loo?
+391.19171::392.851::Patient::Uh, no problems going to the loo.
+394.32105::398.1171::Doctor::And you're normally fit and well, apart from the two things you told me about?
+398.6812::399.67564::Patient::Um.
+400.45485::415.52281::Patient::Yes, however, there's some problems just, performing daily activities. Um, like I said, with the difficulties climbing up the stairs and going uphill. Um, I try to limit my daily activity to just moving around the house, nothing too strenuous.
+414.3068::414.83979::Doctor::
+417.47849::419.8933::Doctor::And, do you live at home with your wife at the moment?
+420.02464::421.04109::Patient::Uh, yes.
+420.59992::429.88031::Doctor::OK. I would suggest, if she's there, you let her know that, you'll both be having an adventure to the hospital today. So, she might need to get your things together.
+428.32679::428.92801::Patient::OK.
+430.37969::431.47758::Patient::Got it, OK.
+431.70656::439.19566::Doctor::The ambulance should be there very soon. In the meantime, I would suggest that you stay calm, and have some water if you need to.
+434.73028::435.39286::Patient::OK.
+439.19566::441.70542::Doctor::Don't take any of those medications.
+439.5754::440.13369::Patient::Right.
+442.37589::442.95871::Patient::OK.
+442.37612::445.71115::Doctor::And the paramedics should be with you, very shortly.
+446.25817::446.93915::Patient::All right.
+446.8788::450.55525::Doctor::So, when they do come, there are two things they will be worried about.
+450.72142::451.31651::Patient::OK.
+451.07029::456.31486::Doctor::The one is your chest, so, your heart. And the second is your breathing, which is your lungs.
+453.87026::454.37946::Patient::Yes.
+456.54529::457.13424::Patient::OK.
+456.96759::466.50544::Doctor::So, they will give you lots of things to breathe through, and attach things to your arms. Just to check, things like your blood pressure, and your heart rate. So, don't be worried.
+466.75044::467.24123::Patient::OK.
+467.12824::472.6606::Doctor::And, when you get to the hospital, you'll be seen by a consultant, pretty, pretty much immediately.
+474.49519::475.64398::Patient::Yeah, .
+474.82812::476.09754::Doctor::
+476.76739::478.9659::Patient::Reassuring, I'm getting .
+479.91156::489.80265::Doctor::Sure. So, I will let the paramedics do their job. And when, you're at the hospital, the consultant would normally call me within a couple of minutes, to let me know how everything's going.
+489.94895::490.80829::Patient::Ohh, that's great.
+491.22176::496.21527::Doctor::Great. I'll um, book another appointment, to see you soon. Uh, , once you've had your adventure.
+494.2734::494.85622::Patient::OK.
+497.28167::498.88859::Patient::That is perfect. Thank you so much.
+498.56839::500.5982::Doctor::No problems. Do you have any questions for me?
+500.38206::503.99512::Patient::Uh, no questions. I'll just await the ambulance.
+504.6996::506.13667::Doctor::Great, thank you very much.
+506.24106::507.88151::Patient::No problems. I'll speak to you soon.
+507.13667::508.44801::Doctor::Bye bye.
+508.20205::509.02471::Patient::Thank you so much.
+509.94241::510.43605::Patient::Bye.
+511.90279::512.76508::Doctor::

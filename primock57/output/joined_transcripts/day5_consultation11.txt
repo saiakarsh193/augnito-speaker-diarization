@@ -1,0 +1,133 @@
+0.95302::1.65772::Patient::Hi.
+1.525::3.65018::Doctor::Hi there. It's Doctor Smith from Babylon.
+4.20337::9.03333::Doctor::Hi Doctor Smith. Hi, can you confirm your name, date of birth, and your home address please?
+4.24161::5.08725::Patient::Hi Doctor Smith.
+9.49332::15.07545::Patient::Yes. My name is Mary Jo. Date of birth is January first, nineteen eighty.
+10.01667::12.425::Doctor::
+15.07545::19.33111::Patient::And my address is uh, sixty Sloane Avenue, London.
+19.29167::23.125::Doctor::OK, I, are you in a private place where you can have a consultation today?
+22.8073::23.95789::Patient::Absolutely.
+23.83333::25.2::Doctor::What can I do for you?
+26.23945::36.32027::Patient::So, a couple of things. I, I, think I may have, overdone my workouts, and now my knees are hurting, and they're clicking a lot, and it's starting to worry me.
+36.32027::42.56851::Patient::Um, I can't run very far, um, any more without just feeling, pain in my knees.
+42.56851::47.93971::Patient::And then, sometimes I also get this weird tingling in my toes. Um.
+47.93971::55.06238::Patient::So yeah, that's, that's it. I'm just concerned and I figured you know I'd call and, see if you can, help me figure out what's going on.
+55.35::57.85::Doctor::OK, that's fine. So when do you think it started?
+58.7729::61.34707::Patient::So probably, it's been about two weeks.
+61.46666::66.45::Doctor::OK. Um, and, any joint problems before that?
+67.67504::77.86475::Patient::You know not, not really. I mean I play a lot of sports. Um, and I had a , like I play some ice hockey, and I had this injury a few months ago.
+77.86475::83.81265::Patient::You know I just like, fell on the ice and, and, you know had a, huge bruise but, I think that's about it.
+84.13333::91.25::Doctor::OK, So, um, at the moment, just tell me about the exercise that you're doing, normally.
+91.49948::101.24857::Patient::So I'm training, well, I'm currently training for a marathon, um, that's gonna happen in, June. And so, I'm trying to run like.
+102.35821::110.38662::Patient::I mean right now, I'm actually not even doing such long runs, maybe like seven or eight miles. And so, I started about uh, maybe a month ago.
+110.21666::110.98333::Doctor::
+110.38662::116.45854::Patient::Uh, I've done like, you know, four or five miles, and I've just done like a couple of seven, mile runs.
+116.45854::122.80435::Patient::And then uh, uh, and then you know I go to the gym like few times a week and, kinda do my, usual routine.
+120.825::122.025::Doctor::
+122.80435::129.37523::Patient::Um, but, yeah, I think the only thing that's really different has, have been, the runs, the longer runs.
+129.51666::135.3::Doctor::And, have you had, any times when the knee feels like it's giving way underneath you?
+137.3706::141.99365::Patient::Um, well, I, what do you mean by that? I'm not sure what, what that means.
+140.96666::148.80833::Doctor::So, it means if you're, if you're there and uh, you just feel it sort of jolt, like give way, feel unstable underneath you.
+149.58391::153.75207::Patient::Not, not bad, I mean it just kinda starts hurting, you know. Um.
+152.71666::157.96666::Doctor::And does it hurt, uh, how far into the run does it generally hurt?
+159.35557::171.16822::Patient::You know I would say probably starts off like after, uh, maybe, twenty minutes or so. Which is, probably I don't know like somewhere around mile, three maybe, two and a half or three miles.
+171.15::174.725::Doctor::OK. Ooh you're fast. Um.
+174.03589::178.32369::Patient::switching my kilometres and miles, I'm not sure, all right.
+176.07499::183.24999::Doctor::Um. And, um, do you have to stop running, or can you run through the pain?
+184.7544::197.19776::Patient::Yeah, that is a good question. So, um, you know the last few times, the last time I actually stopped, I mean I ran a little bit longer, but then I stopped, because it was um, I, I feel like it's getting worse.
+197.01133::197.83486::Doctor::OK.
+197.19776::209.96331::Patient::Um, and, when I start doing my abs, that's, you know when I do my abs. It's kind of requiring me to move my you know, um, to kind of go from the flex position on my knees, and straighten my legs, then I feel all this clicking.
+209.8433::210.71725::Doctor::OK.
+209.96331::215.02069::Patient::And, I think that's also freaked me out, and uh, I just figured you know, something's wrong here.
+212.90213::217.0534::Doctor::Right. And, you said before, it's both knees.
+217.90493::222.02071::Patient::So it's more, um, it's actually my right knee that hurts.
+221.39795::222.39795::Doctor::
+223.48198::225.46518::Doctor::And, any problems with your left one?
+226.74555::227.35629::Patient::No.
+227.56603::233.80134::Doctor::OK, and, can you just describe in the knee, or show me whereabouts the pain, is happening mainly?
+234.25563::244.41354::Patient::So, ah, you know I, I feel it, it's kind of weird, I feel it in the middle, but I almost feel like maybe it kind of uh, um, moves to the right, to the right of my knee a little bit.
+244.43163::249.35601::Doctor::OK. Have you noticed any tenderness when you press over any areas in the knee?
+249.66732::258.96711::Patient::So, yes, well it's, I have, probably some fluid. I googled it, and you know it says that sometimes fluid accumulates uh, I.
+257.37284::260.08714::Doctor::OK. , does it look swollen to you?
+260.49731::261.05436::Patient::Sorry?
+260.87749::262.54092::Doctor::Does the knee look swollen?
+262.54523::270.29726::Patient::Um, well it did, like, the first time I ran, it was a little bit swollen, but then I just put some like ice on it, and it went away.
+270.22162::270.88548::Doctor::
+270.29726::275.98134::Patient::Um, but, right now, right now it's not swollen, and right now it doesn't hurt, you know.
+275.98134::287.1178::Patient::Um, but, it just kind of comes on when uh, um, or you know right now when I flex and extend my leg, it, there's no clicking but, I'll notice it in the gym and then, you know, when I run it'll start hurting.
+287.52419::295.39816::Doctor::OK, and, if you're sitting, still for a while, do you have any problems when you stand up, any locking up of the knee?
+296.10814::296.55781::Patient::No.
+296.54102::299.87274::Doctor::Can't straighten it. Any problems going up and down stairs?
+300.68533::301.18197::Patient::No.
+302.26372::304.54104::Doctor::Any problems just walking normally?
+304.80447::306.62642::Patient::No, none, I don't.
+306.71751::311.44021::Doctor::And intervals of range of movement. Are you able to fully straighten the leg?
+312.51086::313.20884::Patient::Yes.
+313.24694::315.3898::Doctor::And what about fully flex it?
+316.30952::316.94039::Patient::Yes.
+317.07048::320.8436::Doctor::OK. Are you taking any medication for the knee?
+322.11062::337.66891::Patient::Well, um, since you're asking. Um, yes I , I take Ibuprofen, um, and I'll just kinda, use it sometime like uh, um, like sometimes I have some joint issues, but you know, that kind of, is not very frequent. So I'll take Ibuprofen for that.
+337.66891::343.6653::Patient::But you know it's nothing like major maybe, like, four hundred milligrams max, something like that.
+343.6653::347.52648::Patient::I also sometimes will um, you know, smoke a joint.
+347.52648::352.6724::Patient::Um, and, yeah, other than that, that's it.
+352.70749::362.39837::Doctor::OK, and any other joint problems, that you're getting? Any back pains? Small swelling of your, hands, feet, elbows, wrists? Any pain?
+356.68547::357.10157::Patient::No.
+362.68791::372.5854::Patient::Uh, well I have sometimes, you know how sometimes like if you stand for a long time, your feet will kinda, or your legs will swell up. Like I noticed it because of my socks, I'll just kind of, notice this indentation.
+370.76814::371.43201::Doctor::OK.
+372.5854::380.10008::Patient::And then, another weird thing. I've felt this just once, but there was this tingling in my toes, like uh, um, after the run.
+380.10008::385.11674::Patient::There was tingling in my toes like on my, you know my right toes, um, so.
+385.0455::386.81021::Doctor::On your right side.
+386.77914::387.3701::Patient::Yes.
+387.65054::391.96148::Doctor::Any change in colour, or temperature of your lower legs?
+392.34327::392.79293::Patient::No.
+392.91946::398.2136::Doctor::Any swelling which stays if you push in, and then you release it, that it stays there?
+398.9928::416.39702::Patient::Well I don't know if I really try that, but I, I will tell you that, what I noticed is like if I, you know when my socks come off, I kind of notice that indentation a little bit, I mean it's not like major, right but, I. Uh, I mean do you mean I just need to like press and see what happens, if it like kind of stays or, .
+415.43215::419.43216::Doctor::Yeah, any, or any pain in the back of the calf or anything like that?
+418.96079::420.97421::Patient::No, no, nothing like that, no.
+420.65064::429.26412::Doctor::Um, and, with your foot, has that gone back to normal now? Do you feel any altered senstation, tingling numbness, anything like that?
+429.39705::435.43639::Patient::No it was just, it was that time, uh, but it was just really weird, because it kind of went on for a while.
+435.72632::444.72635::Doctor::OK.And any pain in the joints of your foot or , on the underside in the arch? Any problems walking round on hard floors?
+441.8199::442.23601::Patient::No.
+445.26957::445.73937::Patient::No.
+446.16333::449.39023::Doctor::OK, have you had, any other medical problems before?
+450.75244::453.11036::Patient::Uh, well, I had uh.
+455.05036::465.02197::Patient::You know what just, kind of your garden variety stuff, right, colds and, uh. I mean I, I do have, I'm far-sighted, and so I had uh, I had Lasik surgery.
+465.02197::470.98426::Patient::And then, once I had this really bad UTI, they thought it was kidney stones, and so they had me actually in ER.
+470.98426::476.2941::Patient::And if my GP didn't call them, tell them, that you know, they don't need to give me Morphine.
+476.2941::484.34535::Patient::Um, that was kind of an awful experience but, uh, other than that, you know, I'm, I'm, I'm pretty good.
+484.34535::488.5553::Patient::
+484.54019::488.07353::Doctor::OK, and, do you take any other medications, apart from the ones you told me about?
+488.5553::490.94866::Patient::Well, I'll take uh, I take vitamin D.
+490.94866::502.41086::Patient::Uh, I take melatonin. Sometimes, you know, just for cramps, I'll take, like, uh, um, ibuprofen, or actually , uh, I'll take, what am I taking? Aleve. Whatever Aleve is.
+502.41086::507.659::Patient::Think that's maybe um, Acetaminophen, or, I can't remember what class of drugs.
+507.659::512.96175::Patient::You know occasionally, if I'm really having hard times, like I'll, I'll sleeping, I'll take Xanax.
+512.96175::516.94239::Patient::Um, but, I prefer Melatonin, it's just sometimes Melatonin doesn't work.
+517.90686::523.79853::Doctor::OK. And, any problems with your stomach, or asthma, indigestion, acid reflux?
+522.64917::524.77984::Patient::No, no, no problems.
+525.22353::535.55808::Doctor::. And, what I would suggest is, definitely carrying on with the ice therapy that you've been using. So, as much as you can, 'cause that really does make a difference to injuries.
+535.55808::542.54757::Doctor::Brings the healing blood into the area, and it gives it the best chance of, getting better. So, as much as you can, use the ice.
+535.8537::536.33692::Patient::Mm-hmm.
+542.54757::545.80936::Doctor::Um, obviously you're trying to stick to a marathon programme, but.
+545.80936::554.97463::Doctor::Um, I would, try and ease up on the running, if you can. And if it, if it's painful enough that you're, having to stop running, then it's not a good idea, to do that.
+554.97463::567.32966::Doctor::Um. It's fine to take the Ibuprofen. Um, I can prescribe you a slightly stronger, anti-inflammatory that you can take regularly instead of the Ibuprofen, but not with the Ibuprofen.
+555.38395::555.86717::Patient::Hmm.
+567.32966::573.05889::Doctor::But make sure that with food. Ultimately we probably need to, examine the knee.
+567.86721::568.48466::Patient::I see.
+573.05889::584.71004::Doctor::Um, so, the best thing I would, suggest, getting a appointment with the physiotherapist first, who can do like a long, assessment, and examination of the knee.
+584.71004::593.94019::Doctor::And then we can make an assessment as to whether we need to do any, um, imagery to , have a look inside the knee, and see if there's any problem with the, cartilage.
+584.96792::585.55853::Patient::OK.
+594.90326::607.8767::Patient::Well, you know I read, I read some stuff online that, that maybe like my ligaments there's, I think it's like ACL or, or something like that right, and so if that. I mean I'm kind of like freaked out that that may break.
+607.8767::610.14136::Patient::So do you think it's that, or?
+610.04852::624.23334::Doctor::Um, it's, it's not really possible to, diagnose that over the , over the video. So we definitely would need to, see you. And, the, a physio is the best point of call, because they'll probably be the most likely initial treatment.
+616.59888::616.94787::Patient::Right.
+624.23334::629.8764::Doctor::But certainly if the appointment time's too long to wait, then we can see, we can see you in our clinic as well.
+624.57876::625.08212::Patient::OK.
+628.713::629.21635::Patient::OK.
+630.35432::632.90092::Patient::Can you, so are you going to send referral for that?
+632.79909::646.61982::Doctor::Yep, we can, we can do a referral before that. If in the meantime you develop like persistant swelling, heat, redness, um, of the knee, or high temperature, feel unwell, or it completely locks up and you can't bend and stretch it.
+634.04951::635.12537::Patient::OK. Great.
+646.61982::653.50203::Doctor::Then, you'd need to see a doctor urgently, so call us back in that, case. .
+646.68619::647.21639::Patient::Mm-hmm.
+651.91438::658.65171::Patient::That sounds good. Thank you yeah. , sure I mean, give me the, stronger medicine, I'll give that a try.
+658.48305::663.95685::Doctor::OK. I'll send it through to your pharmacy for you. OK? Thank you, bye.
+660.95449::665.69998::Patient::OK. Sweet. Thanks so much. OK. Bye, bye.

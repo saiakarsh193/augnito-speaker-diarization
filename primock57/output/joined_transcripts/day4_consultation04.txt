@@ -1,0 +1,104 @@
+2.94103::3.75604::Doctor::Hi.
+5.44645::6.23027::Patient::Hi.
+6.16396::7.21602::Doctor::Hi. How are you?
+8.21913::13.72674::Patient::Uh, , yeah. I'm all right, thanks. Um, though, I'm actually feeling a bit wheezy.
+13.8626::15.68107::Doctor::OK. My name is Doctor .
+15.17649::18.47007::Patient::Like .
+16.20821::19.08023::Doctor::I'm one of that work for Babylon.
+20.12957::22.48403::Doctor::Can I confirm your name and date of birth, please?
+23.23994::24.52623::Patient::Uh, yeah.
+24.87114::28.41353::Patient::My, my name is, um, uh, Tina Smith.
+29.05141::30.80114::Patient::And, I'm forty years old.
+30.66937::34.38158::Doctor::OK. And, are you in a space that's quiet and private?
+35.57162::38.30252::Patient::Uh, yeah, yeah, yeah. I'm just, I'm .
+36.43062::41.08109::Doctor::OK. And, you mentioned that you are wheezy.
+41.37636::42.12988::Patient::Mm-hmm.
+41.84512::44.38385::Doctor::Can you tell me a little bit more about that?
+44.98789::48.75845::Patient::Yeah. So, um, it started, like, about two days ago.
+48.75845::65.20068::Patient::Um, I don't know if it's because, you know, I was, like, cleaning the house. And, like, um, all this dust came out of the, the carpet. And, you know, I've always thought that maybe I've got, uh, an allergy to, like, dust. Um, I think so. So, if it was triggered by
+66.63026::70.2597::Patient::Um, you know, two days later. Still not gonna be better. So.
+70.2597::72.57561::Patient::Um, just getting a little bit worried about it now.
+73.67552::78.347::Doctor::OK. So, you were cleaning the house two days ago. And, that's when it first started?
+79.33452::80.69145::Patient::Uh, yeah. That's right.
+80.62563::83.2179::Doctor::Did the wheezing start suddenly, or was it gradual?
+85.47937::89.97212::Patient::Uh, so, it started after maybe, uh, an hour or so .
+91.28027::94.27572::Doctor::And, has it got worse over the past two days?
+96.42147::100.0123::Patient::Yeah. So, it get's a bit worse, um, at night, I find.
+99.91334::100.64833::Doctor::OK.
+101.35487::103.31851::Doctor::And, have you taken anything for the wheeze?
+105.83285::108.18261::Patient::Uh, no. No, I haven't actually.
+108.84092::117.40593::Doctor::OK. And so, and the wheeze has been getting worse. And, today you're particularly worried. Is it because you're finding it hard to breathe or finding it hard to talk?
+118.03382::122.91106::Patient::Yeah, yeah. A bit of both actually. So, um, I'm feeling like a little bit, uh, uh, short of breath.
+122.95639::123.71353::Doctor::OK.
+124.0856::134.23671::Patient::Um, and, actually, when I'm, you know, talking, um, to my friends, I start finding that, uh, sometimes, um, I'm unable to , complete my sentences.
+134.19402::134.80116::Doctor::OK.
+134.23671::136.73642::Patient::Um, it can, it can get really bad, yeah.
+137.00693::141.85179::Doctor::And, when you can breathe, and you take a deep breath, do you notice any pain?
+144.6026::145.83945::Patient::Um.
+146.87065::149.40178::Patient::Mmm, no, no. No pain.
+149.19411::153.67067::Doctor::OK. And, have you noticed yourself feeling dizzy or the rooms spinning more than normal?
+154.99611::157.81608::Patient::Uh, no. No dizziness. Uh, none of that.
+157.64913::161.59249::Doctor::OK. And, have you been eating and drinking OK, particularly water?
+162.70046::166.83623::Patient::Yeah, yeah. I think I'm having, like, you know, four or five glasses a day. Yeah.
+167.18879::171.75169::Doctor::OK. And, are you normally fit and well? Or do you have any other medical problems?
+172.60719::173.49252::Patient::Um.
+174.21026::178.82231::Patient::Well, actually, uh, I used to have, like, a bit of, um, asthma, uh, as a child.
+178.82231::183.36632::Patient::Um, and, also in the summer I sometimes get, um, hay fever.
+184.40394::187.37072::Doctor::And, when you get hay fever, do you take any medications for it?
+189.28729::190.32525::Patient::Uh.
+190.86251::191.81796::Patient::Not really.
+191.9646::192.64678::Doctor::OK.
+192.95527::196.44198::Doctor::And, your asthma, did it resolve when you were a child?
+198.25384::212.10166::Patient::Uh, I think mostly, yeah. I mean, sometimes when I, um, run for, like, long periods, it can, it can start up a bit. But, um, I have, uh, I have, like, an asthma inhaler. I use that.
+212.45435::214.65108::Doctor::OK. So, do you still have your inhalers?
+215.82547::220.25159::Patient::Um, I think I might have one from, like, a couple of months ago.
+221.02252::221.71538::Doctor::OK.
+221.035::221.86542::Patient::Um.
+223.04395::225.47887::Doctor::But, you don't see your doctor regularly for asthma?
+226.78318::227.61751::Patient::Uh, no, I don't.
+227.50544::228.21973::Doctor::OK.
+229.31777::232.21945::Doctor::And, apart from this, do you know if you're allergic to anything?
+234.27109::236.49682::Patient::Uh, not that I know of.
+239.39717::243.29156::Doctor::OK. And, how far are you away from a doctor's surgery at the moment?
+245.49023::246.79543::Patient::Sorry, could you repeat that?
+246.64189::249.83869::Doctor::How far are you away from a doctor's surgery at the moment?
+252.04166::255.95056::Patient::Uh, they may be minutes' drive away.
+255.74959::256.85106::Doctor::OK, good.
+257.50966::261.68617::Doctor::So, given that you've had a history of asthma when you were a child,
+262.58458::265.51435::Doctor::And, you get hay fever sometimes in the summer.
+266.82149::268.28419::Doctor::Your shortness of breath.
+269.74982::273.36337::Doctor::Hi. I've lost, um, video signal. Can you still hear me?
+274.45427::276.52482::Patient::Um, yeah. We just turned off.
+276.51889::277.19355::Doctor::
+278.12857::280.68705::Doctor::So, given you've got a history of asthma and
+281.74917::284.55289::Doctor::hay fever. This could be one of two things.
+285.51968::288.7511::Doctor::But, we want to rule out asthma or an allergy first.
+290.21683::295.47059::Doctor::So, what you'll need is visit one of our clinics, so we can do some more tests.
+290.69784::291.65433::Patient::OK.
+297.42666::299.03248::Doctor::Such as check your .
+297.92032::299.38715::Patient::OK. Well what sort?
+299.6455::305.31489::Doctor::So, the first thing we would do, is use a small device on your finger, to check the amount of oxygen in your blood.
+307.63113::308.3917::Patient::OK.
+308.08823::310.93929::Doctor::And, from that we can tell if it's asthma or something else.
+311.99179::313.24248::Patient::Right, OK.
+312.68544::323.08341::Doctor::Before this happens, if you've got something, like an antihistamine, which you normally take for hay fever at home, I would take one, just in case it is an allergy you've had from the dust.
+324.32407::327.77319::Patient::OK. Uh, yeah. I don't have any antihistamines at home, unfortunately.
+326.93714::331.7966::Doctor::You might be able to get one on your way to the doctor's surgery. If not, they can prescribe you one.
+332.79071::335.47688::Patient::OK, OK. So, I can just get it over the counter then?
+335.31153::338.06921::Doctor::Yes. And it, they're normally about four to six pounds.
+339.0721::339.67774::Patient::Great.
+340.23957::343.15574::Doctor::Is there anything else that you're particularly worried about, you want to ask me?
+345.15175::348.0394::Patient::Um, um, not really. I mean.
+349.12248::353.91211::Patient::I have, before, taken steroids for asthma. Um, I don't know if that's relevant.
+354.21809::360.64468::Doctor::Yes, that is. And, you may need to take some steroids now. But, we cannot, we, we won't be able to know until we've done those tests first.
+361.6727::363.67435::Patient::OK, OK.
+362.85189::371.96274::Doctor::Cool. So, I'm gonna write a letter for your GP, just to let him know what's happened. And, the consultation with the GP in person shouldn't take too long.
+374.23703::375.905::Patient::All right. How long do you think it will take?
+375.99504::377.38631::Doctor::Probably ten minutes.
+378.74492::380.35533::Patient::OK, that's great.
+380.33356::385.16383::Doctor::Cool. Um, you should get the letter over the app. And then, we can, you can take yourself to the GP.
+387.06433::388.87036::Patient::All right. Thank you very much.
+387.65624::388.33481::Doctor::Cool.
+389.64909::390.76647::Doctor::OK, bye.
+391.25815::393.3::Patient::OK. Thank you. Bye bye.
+392.82028::393.3::Doctor::

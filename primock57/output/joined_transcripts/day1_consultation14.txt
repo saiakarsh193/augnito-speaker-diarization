@@ -1,0 +1,139 @@
+1.38637::2.11006::Patient::Hello?
+1.58183::9.27281::Doctor::Hello? Hello. Um, before I go any further, can I confirm your name and your date of birth?
+9.6251::13.22683::Patient::Uh, yeah. Uh my name is April, and I'm fifty.
+13.41568::16.9633::Doctor::You're fifty, OK. April, how can I help you this afternoon?
+17.34468::26.01348::Patient::Well I've just been having this like, cough, for quite a few days. And my nose is running. Um and it's just been super annoying, and it's not going away.
+25.83237::28.29207::Doctor::, OK. When did it all start?
+28.80596::34.7594::Patient::Uh I think it started like maybe, a bit less than a week ago. Like maybe, maybe five or six days ago.
+34.49905::40.92921::Doctor::OK. And you mentioned a couple of things there. You mentioned a cough. You mentioned a bit of a runny nose. Is that right?
+40.78757::42.2846::Patient::
+40.92921::45.18955::Doctor::OK. Let's focus on your cough first. Can you tell me a bit more about your cough?
+45.90844::53.98932::Patient::Uh, it's just so continuous. It's really, really frustrating. It's quite dry. And it's just all day, it like keeps me up at night as well, which is really annoying.
+53.89195::64.2253::Doctor::OK. So it's a dry cough. So you're not bringing up any , you're not bringing up any mucky, ohh I can hear that, yeah. Um you're not bringing up any uh, mucky phlegm or anything like that.
+64.2253::73.51104::Doctor::No, OK. So it keeps you up at night. Um you mentioned uh the cold symptoms as well, the runny nose. Do you have a do you have a sore throat at all?
+74.23481::86.35282::Patient::I mean, apart from, I mean the coughing is giving me a sore throat. But it's not like, you know not more than, than that. You know just, just my throat is irritated from coughing. But it's not like, it's not that bad when I swallow or anything.
+83.10629::84.10629::Doctor::
+85.91582::91.8325::Doctor::Right. Do you have any uh, how are your ears? Do you ears feel blocked or?
+91.85946::99.95588::Patient::No.They feel OK, actually. Yeah. . Nothing, nothing on the ears.
+94.22536::97.50978::Doctor::No pain, no discharge coming from your ears.
+97.50978::97.54716::Doctor::
+99.79846::109.4959::Doctor::OK, alright. Um fine. In terms of your breathing, how is your , how's your chest? Is your breathing more labored?
+111.05531::120.18343::Patient::Um, I don't think so. Like, I guess I get laboured when I'm coughing and I can't breathe. But I, not, yeah, not, I, I don't think so. Not really.
+118.99219::122.95702::Doctor::Day to day when you walk around, uh you don't feel breathless do you?
+123.17448::128.12641::Patient::I don't feel restless. No, I feel you know, generally tired.
+124.752::125.75999::Doctor::
+128.27635::129.45864::Doctor::OK. OK.
+129.07183::132.71768::Patient::So like, yeah, but not, not anything special with my chest.
+132.57297::134.1147::Doctor::Any pain in your chest?
+134.1147::134.13784::Doctor::
+134.98205::136.6914::Patient::No not, not that either.
+136.6674::142.44332::Doctor::OK. You mentioned feeling tired. Um have you felt feverish at all? Have you had a temperature?
+143.33144::148.40784::Patient::Um I've been having like, like shivers, even when I'm in, when I'm in bed.
+148.40784::155.84299::Patient::You know like, when you, when you go to sleep and, and you feel like I I should be warm. But I'm still, still you know, shivering a little bit.
+151.24125::151.86387::Doctor::
+155.78715::156.47389::Doctor::OK.
+155.84299::170.5639::Patient::But I haven't taken my temperature, so I'm not a hundred percent sure if I had a fever. But it feels like I probably did. 'Cause I was just, I was next to my boyfriend. And he was completely warm and totally fine. And I just like couldn't stop shivering. And kept adding more sweaters on, and I was still cold.
+166.26451::166.9815::Doctor::
+167.85351::168.54778::Doctor::
+170.3741::179.34457::Doctor::OK. OK. OK. Alright. Um, fine. And in terms of any other symptoms, so have you had any nausea? Have you had any vomiting?
+179.76976::185.60477::Patient::No. No, no nausea. No vomiting. Like, um yeah, nothing like that.
+182.47782::183.01999::Doctor::OK.
+185.51411::186.71161::Doctor::How's your appetite?
+187.79677::195.7299::Patient::Um, I mean it's OK. I, at the beginning, like when I was starting to have the , the , the coughing and stuff.
+195.7299::207.03987::Patient::Um, I had a little bit of diarrhea. Um but, but it didn't, it didn't cut my appetite or anything. I just like, my stomach wasn't feeling great.
+199.79699::200.43554::Doctor::
+203.84662::204.28035::Doctor::
+207.48977::209.55589::Doctor::OK. Has that got better now, the diarrhea?
+209.62541::219.09924::Patient::Yeah, yeah. It got better. It was only like the first, like it started at the same time as the cough started. And then it stopped. So I thought everything would be fine. But then the cough just kept going.
+217.0516::217.6355::Doctor::
+217.6355::217.66869::Doctor::
+219.03287::224.98965::Doctor::OK fine. Um, any problems with your waterworks at all?
+224.98965::225.01815::Doctor::
+225.5742::226.65914::Patient::With my what?
+226.52349::228.76232::Doctor::Uh your your waterworks, your urine.
+228.76232::228.78927::Doctor::
+229.03116::231.62629::Patient::Ohh. Uh, no. No no, it's fine.
+230.90836::234.83763::Doctor::you're passing urine OK. You're drinking plenty of fluids, and passing urine OK.
+235.01388::241.15332::Patient::No. I, I drank loads of water, when I started having the diarrhea. Now that it stopped, I just went back to normal.
+240.95142::251.53097::Doctor::OK, alright. Um in terms of any other thing, do you notice any, any find any skin rashes, or um problems with your muscles or joints?
+251.76949::259.32587::Patient::Uh like my, you know when I had the, when I was telling you I had like the, I had chills, and I was really cold. My muscle was really hurting.
+257.29242::257.91001::Doctor::Yeah.
+259.13459::260.02303::Doctor::OK.
+259.32587::268.20514::Patient::Sometimes I do pilates. But like, it's hurting me so much at the moment. Um so, to be honest, all I feel like doing is just lying in bed.
+263.77542::264.63694::Doctor::Right.
+268.05246::274.97045::Doctor::Right, OK. OK. I'm sorry. That must be very difficult for you.
+272.25363::278.49235::Patient::Yeah, right. Especially like in my arms, my legs, like just everywhere basically.
+278.24612::287.06459::Doctor::quite lethargic and weak, you mentioned. Um, OK. And um, April are you normally otherwise fit and well?
+280.70468::282.34465::Patient::Yeah, pretty much.
+287.93563::289.36626::Patient::Am I normally what?
+288.90515::291.83976::Doctor::Uh fit and well. So do you have any other medical history?
+292.00384::297.49255::Patient::Uh, well I have type two diabetes. And I have quite high blood pressure.
+294.48464::295.81174::Doctor::OK.
+297.66222::305.14828::Doctor::OK. And what do you take for your blood pressure? Any, or what what medications do you take on a regular basis, if you don't mind saying?
+304.67267::311.85638::Patient::Um I take Metformin for the diabetes. And I take Lisinopril for the high blood pressure.
+308.34456::308.93492::Doctor::Yep.
+311.23242::314.80323::Doctor::Zinopril. OK, fine. Any allergies at all, to medications?
+314.46944::316.11479::Patient::No. No allergies.
+314.80323::314.83821::Doctor::
+316.15884::320.33531::Doctor::No, OK. Regarding any family history, is there anything I should be aware of?
+320.70875::324.98152::Patient::Uh my dad also has type two diabetes. But I think that's it.
+324.58859::331.84944::Doctor::OK, alright. Who's looking after your diabetes? Is there anyone, is there a doctor in a hospital, who looks after your diabetes?
+331.15983::334.47232::Patient::I just regularly go see a doctor.
+334.47232::344.41482::Patient::Um, that just checks up on it. Same with the high blood pressure. Like I, I have it under control. And since I've started taking this medication, I've just been like regularly checking that it, it's under control.
+334.51301::335.79339::Doctor::
+343.95235::349.28086::Doctor::Right, excellent. And in terms of your social situation, who lives at home with you?
+349.60387::351.65354::Patient::Uh just, it's just me and my partner.
+351.37298::355.79358::Doctor::lives OK, um fine. Is your partner well at the moment?
+355.54712::366.52604::Patient::Yeah he has none of this. Like he's just going ahead like, like nothing. Like I was a bit worried that I would pass it to him but, not uh, diarrhea, nothing, fine.
+362.32635::364.34506::Doctor::Right, OK. So he
+366.34428::371.75127::Doctor::Go away, he's got away with it, at the moment. OK. And uh, are you working at the moment, April?
+368.09304::368.60473::Patient::
+372.43311::386.89146::Patient::Uh, yeah I am working. But the, the first day I skipped. because I was feeling just too shit. Um, but then, I just felt like had to go back, 'cause I had so much to do. So I've been going in. But it's not been fun.
+378.36388::379.36388::Doctor::Yeah.
+383.43248::384.27256::Doctor::
+386.68026::389.33087::Doctor::No, I can imagine. What is it that you do for work?
+390.32212::393.29345::Patient::Uh, I am a developer.
+393.46681::399.87809::Doctor::Ohh, so you work in the IT field. OK. IT field. Right, OK. Uh
+395.76416::397.78781::Patient::yeah. Work in IT.
+398.88786::403.58724::Patient::not too active a job. Uh, yeah.
+402.13044::405.00936::Doctor::No. Has it been quite stressful recently?
+406.09922::414.27816::Patient::Not more than usual. I don't think it's related to stress. Like I, I don't feel like I've had a particularly hard time at work that way. Um
+411.98171::412.65835::Doctor::OK.
+414.27317::415.60155::Doctor::The reason I ask is sometimes
+414.27816::419.31711::Patient::I've been able to take a day off to try and recover. So yeah, I don't think it's related.
+417.89908::427.05613::Doctor::Sure. reason I ask is because sometimes stress can really affect your immune system. Um but uh it's good to know you're you're you're not feeling stressed.
+427.05613::429.82474::Doctor::Um, do you smoke at all, April?
+430.15278::433.92855::Patient::I used to, but I've stopped for about six months now.
+434.41979::437.9074::Doctor::OK. Um and what about alcohol?
+438.97525::452.23384::Patient::I mean, yeah I, I don't think I drank that much. Like, I I don't really know how you count the units. So I guess like I don't drink more than like, like, let's say three evenings a week? And I rarely get like properly drunk, or anything.
+452.26283::453.9901::Doctor::And what is it that you drink?
+454.69377::456.41508::Patient::Wine, mostly.
+456.11407::458.8992::Doctor::The wine. How much do you drink on those nights?
+459.47372::462.40378::Patient::Uh, I'd say like maybe two or three glasses.
+462.85789::471.85911::Doctor::OK. So um, yeah so you're probably just about under the limit of um, the recommended limit.
+471.85911::471.87573::Doctor::
+472.75879::479.50257::Doctor::Something think about, just in terms of your blood pressure and diabetes, maybe something that you can maybe cut down on if you can.
+479.40582::482.76472::Patient::Yeah? I should cut down on it.
+479.50257::481.51911::Doctor::
+481.51911::495.00676::Doctor::really ideally, the the the right answer is to cut down completely. But so in practice I know that's not realistic. So maybe for the first few weeks, why don't you cut down to two glasses a week. And then, one week thereafter
+495.00676::499.40346::Doctor::Um and if you are coping OK, then you can maybe try and cut down altogether.
+500.7572::501.4774::Patient::OK.
+501.35388::515.66798::Doctor::OK? Just something for you to think about. Um, right so uh just as we wrap up really, um April I think based on your story, I think uh essentially I think you're, you're going through a bit of a bit of a viral illness. Um, I don't think there's anything to worry about.
+503.39007::503.85534::Patient::Yeah.
+515.66798::521.22998::Doctor::You know you've had a bit of a cough, bit of a runny nose, feeling quite weak and lethargic.
+521.22998::530.44489::Doctor::I'm hoping that, you know, you're probably over the worst of it now. It's been five days. I'm hoping you're maybe going to get better in the next couple of days. It normally lasts for about a week to ten days.
+530.57291::535.74246::Patient::What, what should I do if it just keeps going on and on? Like if it's still going on in, in say four days?
+535.23003::540.83335::Doctor::Yeah, absolutely. So, you know things you can do to help yourself in the meantime is to, you know get some nice, good rest.
+540.83335::545.71766::Doctor::Drink plenty of fluids. Keep yourself well-hydrated. You can take regular Paracetamol.
+545.71766::551.87471::Doctor::If you feel like you're still not getting any better in two to three days, it's probably worth coming back to see me again. We can check you over.
+551.87471::563.65161::Doctor::And if you are still feeling feverish, um and your cough isn't getting any better, then we may look to give you some antibiotics for your chest. some of the uh uh common source of infection. Um
+563.03781::565.85077::Patient::Do you think I should keep going to work? Or do you think I should just
+565.64335::580.42852::Doctor::Yeah so I think you know , really I think it depends on you. it's um if you are coughing, then there is a theoretical, you know risk that you're maybe slightly infectious still. So I would say maybe take a day or two off work, if you can.
+580.42852::585.18887::Doctor::Uh and get some good bed rest. Um and maybe think about work early next week.
+586.10576::588.63636::Patient::OK. OK. Thank you.
+587.6021::593.75914::Doctor::But um, if your cough isn't getting any better, or your breathing is getting worse, I want you to come back and see me sooner. OK?
+593.83021::595.97306::Patient::OK. But otherwise, I don't need to worry.
+595.78593::597.91309::Doctor::No no no , nothing to worry about otherwise.
+598.25138::600.35612::Patient::OK. Alright. Thank you very much.
+598.88402::601.92445::Doctor::OK. Well, have a good day. Appreciate it.
+601.79629::603.20641::Patient::Thank you. Bye!

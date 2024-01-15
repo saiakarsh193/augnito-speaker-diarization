@@ -1,0 +1,157 @@
+2.08695::3.08695::Doctor::Hello?
+4.62318::6.24636::Doctor::Hello, can you hear me?
+6.16007::8.11828::Patient::Hi, I can hear you. Can you hear me?
+7.75361::12.30431::Doctor::Yes, I can. Hi, I'm Dr. Jacob and welcome to Babylon. How are you doing?
+12.15362::16.06397::Patient::Hello, I'm Peter. I'm, I'm doing OK, I guess.
+15.75357::21.92865::Doctor::OK Peter, so just before we , is it alright if you could confirm your full name for me please?
+17.49249::18.02231::Patient::
+21.92076::23.77779::Patient::That's Peter Peterson.
+23.97912::26.33322::Doctor::OK, and your date of birth?
+26.6383::32.8269::Patient::Um, I'm, I'm thirty five years old. That's gonna be difficult now.
+31.62307::37.27521::Doctor::. And uh, and um, what's your email address?
+37.45028::42.42477::Patient::My email address is Peter dot Peterson at dot co dot UK
+42.11577::48.52153::Doctor::That's correct. And just to confirm that you're in a secure location, and we can have a confidential conversation.
+48.21584::50.39427::Patient::I am. That's right, thank you very much.
+50.3766::59.33307::Doctor::Alright. So, you've mentioned that you're not having much of an appetite and energy lately. I'm sorry to hear that. Could you tell me a bit more about it please?
+59.33377::61.0533::Patient::Ohh, that's right .
+61.70358::68.43104::Patient::Started long, long ago now. Uh, that have been feeling down and, and didn't really have yeah, energy.
+68.43104::75.19499::Patient::Um, my, my, my wife was starting to complain as well, uh in, in nightly activities.
+75.10109::76.10109::Doctor::
+75.19499::85.28761::Patient::And um, I just felt like I, I needed to call you guys and needed to get some, some more information about what could be going on.
+85.28761::94.17489::Patient::Um, it's just that, yeah, nothing is like, feeling right and I feel out of place. And, and, it's, it's, yeah, just down .
+93.89809::100.36182::Doctor::So, so you, are you telling me that your, your mood's low? Is that what you're trying to tell me?
+100.34091::101.26123::Patient::Um.
+101.89727::110.50643::Patient::Yes, and like I'm feeling short of breath, breath it's like always yeah, out of energy I would say, yes, definitely .
+108.20236::113.34726::Doctor::your mood, would you say you're depressed?
+113.47047::114.47047::Patient::Um.
+116.0954::120.03314::Patient::Are you, you never want to say that do you?
+118.83998::123.20228::Doctor::it's a tough one isn't it? Because we don't want to actually say
+123.08882::131.64829::Patient::I mean, I mean, work is OK. Um, I have trouble at work sometimes, having headaches, feeling nauseous.
+131.64829::136.77771::Patient::Um, uh I can do my work that's. that's OK .
+135.72395::140.28914::Doctor::Uh do you like your work? Do you like your work?
+137.86699::138.5456::Patient::Again?
+140.41454::145.98455::Patient::Um, who likes to be a lawyer? Sorry, that was mean. Um
+146.6063::148.49103::Patient::Yes, of course I like, I like.
+148.36156::156.18761::Doctor::You like your work. OK. And um you, and how are things at home? Alright? Are you having any kind of stress at home?
+156.0914::168.1122::Patient::Um, it is OK. Uh, sometimes, because I'm having a loss of appetite, I'm, uh, yeah I'm not eating very much, and .
+168.1122::171.6134::Patient::Um, other than that, it's, it's OK, yeah.
+171.18752::173.98461::Doctor::And have you lost any weight?
+174.89883::179.85071::Patient::I have, a little bit, yes. Uh, but, uh, but that's, that's
+180.85071::182.5173::Patient::Over, over long period now.
+182.41935::190.34684::Doctor::OK, right. So you mentioned that you've lost your appetite for a while now. So how long are we talking about?
+192.40905::194.43806::Patient::It must have started when I
+195.05623::199.80706::Patient::When I changed over to the new law firm. Uh, I would say months ago.
+200.41925::205.96994::Doctor::We talking about two months, three months, or six months ?
+204.90178::206.79037::Patient::Uh, uh.
+207.41454::209.65727::Patient::Three months ago, three and a half months ago, that was.
+208.82918::214.86845::Doctor::and a half months ago. But you said your weight loss is much longer than that?
+214.53773::217.22205::Patient::Yeah it stopped doing that, uh, yeah.
+217.10033::220.82495::Doctor::Sorry, could you , I couldn't hear you. What did you say, your weight loss, how long?
+220.54914::226.61993::Patient::It started a little bit earlier than that. I, I, I'm not sure, though, how it's gonna
+225.63652::228.53505::Doctor::at least six months, would you say?
+228.54839::229.53649::Patient::Uh.
+231.05428::232.38757::Patient::Something like that, yeah.
+232.03505::238.62077::Doctor::six months. And roughly how much have you lost? Just approximately.
+238.64287::243.50548::Patient::Ohh gosh. I would say, less than a storm, something like that.
+243.2922::249.82077::Doctor::So about a stone, yeah? Six months, OK. OK. , OK.
+250.74934::261.23505::Doctor::Right, OK. So, just a few more questions. It might seem a bit awkward, but it's quite relevant. OK? So, how are your bowels? Are they OK?
+255.74523::256.31462::Patient::
+258.117::258.55159::Patient::
+261.81564::274.58556::Patient::Um, I feel nauseous every now and again. Uh, it, it's, it's coming up, uh, yeah, it's just every now and again not feeling very good. Uh, trying to eat something, but don't really want to.
+264.73634::265.30007::Doctor::
+274.26363::278.1351::Doctor::Yeah, um, your bowels. How's your toilet?
+278.8411::279.89174::Patient::Uh.
+280.56785::288.62572::Patient::That's OK, I would say. Uh, I don't really have problems when going to the toilet, it's just painless.
+282.46362::283.46362::Doctor::OK.
+288.42077::290.42731::Doctor::So, you're not going to the toilet?
+290.60774::291.73109::Patient::
+292.30679::293.44085::Patient::Yes. Yes.
+292.74934::298.72077::Doctor::you are going. Like, to be very more specific, you don't have any diarrhoea?
+298.83911::303.25762::Patient::Uh, no. No diarrhoea. No,no .
+301.17791::308.1922::Doctor::OK, so there's blood in the poo no mucus nothing of that sort?
+303.60224::304.183::Patient::Uh.
+308.11201::310.22496::Patient::Uh, no, no, nothing.
+309.33505::313.66362::Doctor::Just now, you mentioned nausea. Have you been ever sick with it?
+315.67084::326.49759::Patient::No, actually not. Uh, . Yeah I'm feeling not well, uh, in the, in the, in the bowel region, yeah.
+316.87791::319.20648::Doctor::
+326.77791::334.00648::Doctor::OK, well just the nausea, OK. Is there any particular foods that make you nauseous?
+327.1388::327.87777::Patient::Nauseous.
+335.29364::336.40195::Patient::No, nothing.
+336.67791::341.80648::Doctor::OK. So you can't think of any real.... Do you suffer from acid reflux?
+342.19779::343.91198::Patient::I do not, no.
+343.73505::353.73505::Doctor::OK, OK. You also mentioned that you're feeling short of breath so yeah is there any cough?
+350.33393::351.40535::Patient::
+354.54793::359.36293::Patient::Um, no, not really just, just
+359.50648::360.63505::Doctor::OK.
+360.42245::370.02852::Patient::It's like when, when when I go into the lift, uh, it, it happens to be that, uh, I like, you know, my heart starts beating and I can't really breath, uh
+369.10776::372.31214::Doctor::Yeah. Is it like in closed spaces?
+372.85567::373.85567::Patient::
+376.07576::382.23583::Patient::No, it happens every time. It happens very significantly in, in the lift or when I'm, when I'm
+381.97791::391.24934::Doctor::So, how far can you walk and when you start feeling short of breath? So how far can you walk with no shortness of breath?
+390.63967::391.47134::Patient::Um.
+392.9582::395.26421::Patient::Walk or run.
+395.14934::403.15312::Doctor::Walk, you start with walk. Do you feel short of breathlet's start this way, do you feel short of uh breath when you walk at all?
+403.26334::405.0311::Patient::No, actually not.
+404.17457::408.59874::Doctor::Right. You so you can walk about a mile and you don't feel short of breath at all.
+409.41163::410.58423::Patient::That's right, yes.
+409.83505::417.72076::Doctor::OK, so just explain a bit more just make myself clear about the lift thing. So you said you're short of breath when you're in the lift?
+417.52991::425.19575::Patient::Yeah, my heart starts beating. I, I feel like I can't breathe and, and, uh, it's, it's very difficult too.
+426.19575::436.08154::Patient::Uh yeah, two twenty nine. Uh, it's going, yeah just, just that you, you know, when, when you just feel unwell, and yeah, your heart starts beating.
+434.42076::440.52664::Doctor::described them like palpitations to me, yeah? So that's what you're, you're feeling your own heartbeat.
+440.49779::442.79524::Patient::Yep
+441.05058::445.00648::Doctor::Yeah, OK. You get any chest pains with it?
+445.91403::450.24099::Patient::Not really, no. It's just that
+447.27791::448.27791::Doctor::OK.
+450.32076::452.42076::Doctor::OK, no chest pains.
+451.62785::452.37707::Patient::I'm up.
+453.04998::454.75853::Patient::No chest pain.
+454.67791::468.57791::Doctor::OK. Alright. Fine. So, what we need to do, um, just before that, um, just a few more things. Uh, any any past medical history you'd like to share with me today?
+468.49504::473.86949::Patient::Uh, yes. I had too little activity of my thyroid, uh.
+472.99219::476.09219::Doctor::Sorry you had thyroid problems.
+475.93484::478.50012::Patient::Thyroid. Too little activity, yes.
+478.07791::481.57791::Doctor::Ohh yeah, underactive thyroid, yes. Yep.
+480.71425::484.33892::Patient::Um, yeah, yeah, yeah. Um, and in, in
+485.6246::488.13632::Patient::In view of that, I took thyroxine.
+487.79219::492.30648::Doctor::Yeah, you're taking thyroxine? Are you using it every day?
+489.52913::491.30879::Patient::
+493.02894::494.71338::Patient::Uh, not anymore.
+494.86362::496.3779::Doctor::Why is that?
+496.08833::502.08175::Patient::Uh, I have, I have not been taking it in the last, actually since I changed doctor, I would say.
+501.76362::508.0779::Doctor::OK, so is that, so all these things are since you've stopped taking the thyroxine?
+508.66439::509.55726::Patient::Ohh.
+510.78342::513.90816::Patient::That might be coinciding, I'm not sure about that.
+513.70648::516.33505::Doctor::When was your last blood test?
+517.05075::519.40177::Patient::Uh, haven't taken one in a long time.
+519.16362::521.73505::Doctor::OK, so you've not had a blood test.
+521.71113::522.27071::Patient::Mm hmm
+522.73505::547.09219::Doctor::Right, OK. It could, you know, generally for you know for underactive thyroids what symptoms you've said um it's the opposite that usually happens, yeah. It's for overactive thyroid like you can feel a bit like the racing of your heart beat and all so I'm not quite clear on what picture we are having here. Yeah?
+537.19159::537.89996::Patient::OK.
+547.09219::574.36362::Doctor::I think a general set of bloods is a good , good start. So what we look at, because you're not, you're not having the umph, aren't you? You're like, you're just feeling a bit, you know low and things like that, right? Well, um, and weak and things like that. So we'll just do a general set of bloods. we look at things like anaemia, how your kidney functions are, your livers, all that, with vitamin levels, and your .
+547.92031::548.70838::Patient::OK.
+561.12604::562.24266::Patient::yes.
+573.15809::573.92597::Patient::No problem.
+574.36362::587.69219::Doctor::OK. And uh, now after we get those set of bloods, we will find out if we can find anything in them. If that's all clear, then we would need to do a physical examination. OK?
+575.4021::576.11643::Patient::Uh huh
+587.30683::587.92949::Patient::Okay.
+587.69219::602.60151::Doctor::We would need to then go in and do . But there's nothing from what your history you've said that, that we urgently warrant a physical examination at this point in time. I think it's a good idea to start off with a blood test, and then take it from there.
+588.75995::589.22814::Patient::OK.
+602.60151::624.03381::Doctor::Obviously with palpitations or chest pain, if you get that's more of a medical emergency. You need to go to A and E for that. OK? If things change, you've mentioned now your bowels are fine, and you're not being sick. So if that's the case it's OK, but if your, you know, bowels change or you're being sick again, you need to get in touch with us. OK?
+622.20033::634.24062::Patient::OK, I have, I haven't been walking lately at all. I haven't, yes. I haven't been walking lately at all so like, it's really hard for me to identify when I feel the shortness of breath.
+625.56096::627.83504::Doctor::Sorry? Could you repeat that?
+634.12103::634.74192::Doctor::Mm-hmm.
+634.24062::644.14427::Patient::Uh, just wanted to add that into , because, um, I haven't been walking. I haven't been feeling good enough for a good at all. So, yep.
+643.32589::653.3143::Doctor::OK. So let's do all the blood tests first and we'll take it from there. OK? But you know, if you have any chest pains, or change in bowel habits, do get in touch with us.
+646.47149::647.20366::Patient::Thank you.
+648.43708::648.90608::Patient::
+653.99581::655.25648::Patient::I will, yes.
+654.4779::677.54933::Doctor::OK. Now what we need to do is now you need to ring up support. And I'll the form for you, but in the interim you need to call support so that we can organise that blood test for you. And when you get the result, you will receive a text message through your phone to tell you to book an appointment. If you're feeling poorly, don't wait for that. Just get in touch with us again, yeah?
+658.42287::658.95865::Patient::Uh huh.
+665.6073::666.14848::Patient::
+671.83837::673.08833::Patient::OK. Can I
+677.19509::679.99844::Patient::I will. How do I call to report?
+680.24774::689.36557::Doctor::Ohh, there's a number on your app, yeah? If you open up your app there's the number on there. It's an oh three hundred number, yeah? So just call that number.
+687.09887::687.75601::Patient::OK.
+689.36669::690.59285::Patient::I will find it, thank you.
+690.38202::693.0765::Doctor::Alright then. You take care. Bye now.
+693.12242::694.29502::Patient::Thank you, ciao.
+694.19313::695.35946::Doctor::Ciao, bye.

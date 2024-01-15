@@ -1,0 +1,138 @@
+0.0::0.5::Doctor::
+1.125::1.63158::Doctor::Ah.
+3.45395::4.24054::Doctor::Hello.
+7.94735::8.77625::Patient::Hello.
+8.91695::17.44328::Doctor::Hi, uh, my name is Doctor Kumar. I'm one of the GPs here. Can I just get you to confirm your name and date of birth for me, please?
+18.3285::20.11772::Patient::Uh, yeah, I'm Maria.
+19.44082::20.27634::Doctor::
+21.19127::21.76094::Patient::Yeah.
+22.34666::23.2673::Doctor::Date of birth?
+24.69381::25.38946::Patient::Sorry?
+24.76812::26.77689::Doctor::And your date of birth?
+27.40107::33.37521::Patient::Um, twenty second uh, of March, of um, ninety.
+27.52664::28.49099::Doctor::
+33.66822::35.02637::Doctor::Again, how can I help today?
+36.44195::44.63121::Patient::Um, so, I'm having like a really, really strong headache. I don't know what is happening. I'm, quite concerned.
+44.63121::62.63921::Patient::So, it started in the morning. Um, I feel like um, uh, dizzy. Uh, my vision is a little bit blurred. Um, like, it's, it's really painful, and I'm getting really concerned. Especially because I'm having like these, uh, changes in the vision.
+64.07249::69.40844::Doctor::OK. So, it started this morning, was it a sudden onset headache, did it come on suddenly?
+69.75567::70.98589::Patient::Yeah, yeah, yeah.
+71.21889::79.31019::Doctor::OK. And did it come on really bad or did it start off, uh, like a slight headache and build up to a, a severe headache?
+79.72839::82.64375::Patient::Uh, it came like, kind of suddenly.
+83.79252::89.9607::Doctor::And if , if ten is the worst pain you've ever felt in your life, how bad would you say the pain was between one and ten?
+90.91071::102.03581::Patient::Well, I had the kidney stone, so let's say that that's ten. Um, I have now, , maybe five, well, six, six probably.
+101.97348::103.27447::Doctor::It's not ten. Great!
+102.80192::106.93479::Patient::But, it's more about me being really concerned, because this is very weird.
+108.41017::111.31025::Doctor::OK. No, that's fine. Have you ever had a headache before?
+113.73553::114.50531::Patient::Sorry?
+114.21528::117.46487::Doctor::Have you ever had a headache like this in the past?
+118.71428::121.65361::Patient::Um, well not, really.
+122.09276::123.9875::Doctor::OK. So, it's a first .
+122.74325::127.92206::Patient::Like this, I, yeah, like this, no, definitely. It's something new.
+128.06398::135.2038::Doctor::OK. OK. If you had to say where uh, uh, across the head, uh, the headache is, is it across the front, around the back?
+136.53687::140.76164::Patient::It's in uh, one side, uh, the left side, only.
+140.9127::143.77537::Doctor::And tell me what visual problems are you getting?
+144.55932::151.60267::Patient::My vision is quite blurred. Um, it, it's, it's really weird, like some zigzag lines.
+151.55622::152.27004::Doctor::OK.
+152.10385::155.24981::Patient::Kind of. I don't know how to describe it properly.
+155.29841::159.20303::Doctor::OK. And, um, have you tried any painkillers for this already?
+159.98328::165.44258::Patient::Yeah, I tried Paracetemol, but uh, didn't work. To be honest, I feel exactly the same.
+165.61916::172.09985::Doctor::OK. Um, OK. Um, what time did you take the paracetamol? How long ago was it you'd taken it?
+172.76572::181.49112::Patient::Uh, well, uh, the headache started like four year, four hours ago. So, I would say like, maybe three hours ago, because I couldn't stand it.
+181.51311::185.76353::Doctor::OK. Um, and your visual problem is still ongoing now?
+187.39946::194.13179::Patient::Yeah, yeah, yeah. I feel a little bit, a little bit better. , I cannot stand screens.
+194.13179::203.14956::Patient::Um, but, yeah, definitely. And, when I move, like the thing is that if I, if I leave bed, I start to feel like, even worse if I move.
+203.14956::207.82066::Patient::So, I just want to have my hay, my head like really, uh, not moving.
+207.82115::214.03333::Doctor::OK. OK, Um, so, what about, , have you felt sort of nauseous or like you want to vomit?
+214.89689::218.67155::Patient::Ohh yeah. Ohh, I forgot to mention, definitely, I vomit twice.
+218.67155::229.9702::Patient::Actually, as soon as the, the headache started, I also vomited. So, initially, I thought it was something that I ate, but then the headache started to be really bad, and I still feel nausea.
+229.95442::230.66043::Doctor::Still feel.
+229.9702::233.5307::Patient::To be honest, I'm about to vomit, very soon, I think.
+233.3981::238.9824::Doctor::All right. OK. You've mentioned, in the past, you've had kidney stones, any other medical problems?
+240.33528::241.17701::Patient::Sorry?
+241.17607::247.73077::Doctor::Uh, you've mentioned that in the past, you've had kidney stones. Have you had any other medical problems in the past?
+245.39296::246.08549::Patient::Yes.
+248.18953::257.6323::Patient::Uh, so, uh, uh, not actually. Uh, my mother has migraines. I'm not sure if that's relevant?
+257.6323::261.38412::Patient::And uh, also, I have hypothyroidism in the family.
+261.38412::264.7861::Patient::So, it might be. I don't know, uh, I've, I don't know.
+264.68312::266.64282::Doctor::, what else do you have in the family?
+269.15948::273.56516::Patient::I think we are losing connection. Sorry, I, I think we lost connection.
+274.9426::282.66136::Doctor::Ohh, can you still hear me? Ohh, it's gone. You can hear me. Um, you said, you mentioned your mother has migraines. What else do you have in the family?
+276.79497::277.98664::Patient::Yeah. Yeah, yeah.
+282.9122::284.10398::Patient::Hypothyroidism.
+284.21112::285.22345::Doctor::Hyperthyroid
+284.57639::287.17825::Patient::. She also has Hypothyroidism.
+287.23209::292.52486::Doctor::OK. Bye. OK. Um, and no other relevant family history?
+292.98356::295.43491::Patient::Uh, no, not that I'm aware.
+295.43893::298.23376::Doctor::And do you take any regular medications?
+299.15346::300.9172::Patient::Uh, no.
+301.39536::303.63015::Doctor::Are you allergic to any medications?
+304.27672::306.0508::Patient::Not that I'm aware, uh.
+306.38117::307.8581::Patient::Yeah, not that I'm aware.
+307.95129::310.17169::Doctor::OK. Is there any chance you could be pregnant?
+311.14546::313.12037::Patient::Uh, I really doubt it.
+314.98872::319.43857::Doctor::Fine. And so, you're not allergic to any medications. Fine from.
+319.43857::326.07962::Doctor::And what, what were you thinking might be going on? I know you seemed quite worried about it. Was there anything in particular you were worried about?
+327.14853::342.39557::Patient::Well, I'm a little bit hypochondriac. So, I feel that this can be some kind of brain tumour, tumour or something? Because, I'm like this is, , really, the pain is so horrible that, or maybe a stroke. I don't know, it's, it's just like you know, you hear so many stories.
+342.39557::349.60398::Patient::That, you definitely start wonder, if i should go to A and E urgently, because , I might really have something serious.
+349.35599::358.95675::Doctor::OK. OK, fine. Um, now just, uh, another, uh, question, have you noticed any weakness in your arms or legs, anything like that?
+360.12086::362.23687::Patient::No, no , no, no.
+362.0945::369.15867::Doctor::Uh, and when you're walking, you're able to walk fine in a straight line or is your, your uh walk, are you walking a bit funny?
+369.32749::370.92918::Patient::Uh, not really.
+371.1784::371.97446::Doctor::OK.
+372.38599::375.63223::Patient::It's really about the head. That's why I find it very weird.
+375.41402::384.85916::Doctor::OK. So, just, just to clarify what, what you said . This morning, uh, you woke up and then later on in the, in the morning, about four hours ago, you've developed a headache?
+384.85916::387.81544::Doctor::Um, on the left side of the head?
+385.0654::385.79202::Patient::Yep.
+388.12244::388.79162::Patient::Yeah.
+388.56135::391.23519::Doctor::Left side of the head, is it behind the eye?
+389.46177::390.31842::Patient::Exactly.
+392.21193::393.07524::Patient::Sorry?
+392.8495::395.7903::Doctor::Is it behind the eye? Is that where the pain is?
+396.24707::405.45717::Patient::Uh, no, no it's, ugh, I don't know how to describe it. But it's, just like, , kind of.
+402.55717::405.16285::Doctor::Um, you've .
+406.78086::414.2437::Doctor::OK. That's fine. You've noticed that your vision is blurry, there's funny lines, you feel a bit nauseous, you vomited twice.
+414.2437::421.45778::Doctor::Um, and, uh, you feeling dizzy as well, but your, you've got no neurological symptoms. You're walking fine.
+415.12265::415.98932::Patient::Yes.
+421.45778::426.32984::Doctor::Um, and, and you've taken paracetamol and it hasn't helped. Is that all? OK.
+424.69277::425.52011::Patient::No.
+426.32984::432.67525::Doctor::So, it sounds like what you're suffering from is what's known as a migraine. Is that something you've heard of before?
+426.62802::427.13162::Patient::Yeah.
+432.99873::435.96411::Patient::Uh. Uh, no, it's the first time.
+435.97665::436.91168::Doctor::OK.
+436.3901::440.91075::Patient::But, to be honest, I'm very familiar with the disease, because my mother has it, so.
+440.91075::452.78437::Patient::Uh, well, but I never had it, and I thought that the onset of migraine will be, you know, in much, uh, early ages. So, that's why I'm not sure, if migraine makes sense. .
+451.82455::462.15328::Doctor::OK. So, um, usually with, with migraines they can present at different times in people's lives, so, sometimes they can present as a child, sometimes they can present when they're older.
+462.15328::466.53141::Doctor::Um, and sometimes they can present, you know, even postmenopausally.
+466.53141::474.60956::Doctor::So, there's different, there's different ways you can get migraines. Uh, and the reason why this sounds like migraines is because it's on one side of the head.
+474.60956::482.58306::Doctor::typical of a migraine, you've got blurry vision, again which is very typical, with the nausea and vomiting, that's also typical of a migraine.
+474.94837::475.76852::Patient::Mm-hmm.
+482.58306::494.96816::Doctor::Now, um, uh, obviously, if the headache is really severe, and I'll suggest some medications you can try, if that doesn't work, we would want to see you, um, as soon as possible, to do like a full neurological exam as well.
+494.96816::502.45501::Doctor::to make sure that, you know, there's, you know, when we do a more specific examination that, um, everything all seems fine.
+495.22012::496.60982::Patient::Ohh, that's great.
+502.45501::510.71696::Doctor::Um, I I would recommend in the time between now and when we can see you, uh, if you take some medications, maybe something like ibuprofen?
+504.32649::505.03153::Patient::
+507.35071::507.91186::Patient::Yeah.
+511.29064::520.03316::Patient::OK. So, and, uh, you're, you're saying that if this is a migraine, and if I try that medication. This should go away, kind of, today?
+519.96657::528.29735::Doctor::So, yes, a migraine, yeah, no, you know, even sooner than that, we can look at maybe half an hour to forty minutes, depending on what your response to it is, for some people,
+528.29735::538.67015::Doctor::Uh, whatever medications they take the migraine doesn't improve, um, and they can last from anywhere from four hours to seventy two hours, migraines can last. Um, but .
+538.10215::540.99739::Patient::Ugh. OK. That doesn't sound good.
+539.40329::540.33463::Doctor::
+541.38315::549.86929::Doctor::No. So, what, there's lots of medication treatments so, there's, it can be ibuprofen with an anti-sickness, um, so and , which you can get from the pharmacy.
+549.86929::555.24132::Doctor::Um, and you also to drink, uh, sugary and carbonated drinks, something like Coke.
+555.6042::556.47785::Patient::OK.
+556.19774::564.3881::Doctor::For the three of them is, uh, is a good sort of cocktail to start them, then we can go up the treatment ladder, you can get specific migraine relief medication.
+564.3881::569.50122::Doctor::And that should be something to try between now and when we see you to do the, um, to do the assessment.
+564.62865::565.17541::Patient::OK.
+569.94952::571.2897::Patient::OK. Sounds.
+570.45393::574.18544::Doctor::assessment to where we can see you today at some point.
+574.52776::575.41984::Patient::OK.
+575.47532::584.93711::Doctor::And, but however, if you do take these medications and, you know, by the time your appointment time comes in and you feel much better in yourself, you can cancel it, um, you can give us a call and cancel it.
+585.18285::588.72573::Patient::OK, sounds good, yeah. Sounds, sounds a good plan.
+586.68135::587.19204::Doctor::OK.
+588.57444::590.38201::Doctor::Uh, any, any questions for me?
+590.50393::593.66321::Patient::Uh, no, thank you very much. You were very helpful.
+593.48892::598.43342::Doctor::All right. OK. Um, any, any further problems between now and your appointment, please do let us know.
+599.30032::601.50228::Patient::OK, yeah. Thank you very much.
+601.31789::602.31706::Doctor::OK. Bye.
+602.46323::603.0751::Patient::
+604.02662::604.97344::Patient::Should I disconnect?

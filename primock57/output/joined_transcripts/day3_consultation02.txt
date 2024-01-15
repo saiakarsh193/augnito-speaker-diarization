@@ -1,0 +1,81 @@
+0.0::4.4447::Doctor::Hello, hi, I'm Doctor Jacob and welcome to Babylon.
+4.60041::6.16388::Patient::Hi.
+5.38703::10.95546::Doctor::Hi. So, just before we start is it alright if you could confirm your name for me please?
+11.52575::13.83918::Patient::Yep, uh, John Doe.
+14.14499::18.66675::Doctor::OK and your date of birth?
+16.39739::23.32676::Patient::Uhh, twenty-one twelve and nineteen uh eighty-six.
+23.31894::25.27547::Doctor::And, your address for me, please?
+25.52409::32.95682::Patient::Is, uh, number one London Street. Um, NW three six PQ.
+29.23201::29.90648::Doctor::
+32.72477::38.85488::Doctor::That's correct. And just to confirm that you're in a secure location and we can have a confidential conversation?
+38.83375::40.22358::Patient::We are, yes.
+39.94607::45.24657::Doctor::OK. So I understand you're having a a headache is that correct?
+44.8355::59.23651::Patient::Uh yeah, iIve had a, um a sort of a, a, a very sort of bad, severe headache, the past four days. Um, and um I've been sort of feeling a bit hot as well. Um, I've got, got a bit of a temperature, I think.
+51.01471::52.04369::Doctor::
+59.23651::63.17674::Patient::I haven't measured it but um, think I've, yeah, I think I've got a fever.
+63.07273::69.63798::Doctor::OK. Right. And um, so what started first, was it the headache or the fever?
+69.71101::78.21124::Patient::Um, so um, headache started uh, first. Um, and then sort of yeah, fever sort of came along a bit afterwards.
+77.89888::83.00036::Doctor::OK, afterwards, right. And what have you taken so far for your headache?
+83.19229::88.86901::Patient::Um, so I've had some Paracetamol and some Ibuprofen, but it's not really helping at the moment.
+88.9569::97.0439::Doctor::OK. so just a few more questions, with regards to your headache So do you find it difficult to look at the light?
+92.58984::93.28514::Patient::Yep.
+97.27318::103.49583::Patient::Um no, like um it, it's fine, light doesn't seem to bother me too much.
+103.36277::110.81207::Doctor::OK. Uh, and is it any pain when you try to move your neck from side to side, look up and down, is there any pain?
+110.84084::118.87415::Patient::And I've got some general aching muscles. Um, not necessarily sort of in my neck. It's kind of a bit all over, really.
+118.6237::124.52228::Doctor::OK, all over. Right, and have you been sick with this headache?
+124.58262::126.50506::Patient::No, no I haven't, I haven't been sick.
+126.75417::129.84114::Doctor::OK, and do you have a cough?
+130.17066::131.64602::Patient::Uh no, no cough.
+132.15999::134.64953::Doctor::OK, so there's no cough or cold, yeah?
+134.77816::136.16368::Patient::Uh, no. No.
+135.90564::140.15556::Doctor::OK, and you your ears are OK? There's no earaches?
+140.63465::144.37091::Patient::Um, no it's, it seems to be OK. It, it's fine.
+144.36294::153.29052::Doctor::OK, all right. And with this headache have you experienced any pins and needles in your face, arms and legs?
+153.59254::155.06809::Patient::Uh, no.
+154.60936::158.40647::Doctor::No pins and needles. Any muscle weaknesses at all?
+158.59447::162.45067::Patient::Um just, I, I suppose general aching, body aching.
+161.95721::167.73985::Doctor::Not, not any weakness but where you couldn't, you know, hold a cup or anything like that, that's what I mean.
+167.6088::173.48102::Patient::Uh, no. I'm, I'm sort of, yeah, seem to be sort of fine with that sort of stuff but, yeah.
+170.81232::171.81232::Doctor::Ohh
+173.16015::184.63846::Doctor::Okay, and um just a few more questions to you, because I don't have any of your background history. Um, do you suffer from any medical conditions?
+184.44677::188.05483::Patient::Uh no, um general medical history is fine.
+187.50804::193.01755::Doctor::Fine. And no surgical history then and no medical surgical complaints, yeah?
+192.87394::201.78925::Patient::Uh, no. Um, I, I suppose uh I have been away to um, uh, Thailand. Um, uh week or so ago. Um
+194.44426::194.91131::Doctor::
+201.78925::214.60514::Patient::had some, like, usual mosquito bites from sort of traveling around and a friend of mine has also been a bit unwell, but um, uh, yeah, that 's the only sort of, like, history per se.
+214.6386::220.84153::Doctor::Right, and um, do you have any kind of shivering at all? Do you shivering with the fever?
+220.75762::230.74636::Patient::Um, I um, uh, I I do feel cold quite a lot. Uh, you know it's, um, I no sort of shivering, but definitely like a bit cold.
+229.88505::243.26466::Doctor::cold, yeah? OK, right. And are you using you mentioned about the paracetamol and now, but are you on any regular, any medication, anything that you're using at all?
+231.66937::232.3707::Patient::Yep.
+243.32303::244.4747::Patient::Uh, no.
+244.44958::248.81268::Doctor::OK. Um, any allergies at all?
+248.92967::250.60138::Patient::Uh, no. Um
+251.01559::252.56631::Doctor::Alright.
+254.0011::263.74027::Doctor::OK and... OK, so uh I, I believe that it is quite important for us to actually examine you, yeah?
+263.74027::289.55531::Doctor::Um, it it's not possible for us to do that online. I think you would need to come into one of our hubs to have a proper examination, and I, I think you would need one quite urgently, OK? So the thing that's running in the back of my mind are um, kind of a viral illnesses that can one can get with um, sort of mosquito bites or foreign travel.
+263.99686::264.68027::Patient::OK.
+289.55531::302.91996::Doctor::Like , um the other common thing around Thailand, it will be like some dengue. But that would have, like you would have some, uh, blood spots or bleeding or something, which you don't have at the moment, do you?
+289.68417::290.40938::Patient::OK.
+303.00552::310.81304::Patient::Uh no. I mean I've got a bit of a rash, but nothing like, uh no, no, no, no bleeding.
+310.40717::313.18979::Doctor::OK. So where is the rash?
+313.36627::322.62518::Patient::Um, it's uh, the rash is kind of all over my body. Like it's not, it's not, it's not really localised.
+320.10286::324.71158::Doctor::How would you describe, how would you describe the rash?
+324.62481::328.50526::Patient::Um uh sort of red and itchy.
+329.43623::337.74062::Doctor::Red and itchy. OK. So if you were to put a glass on top of the rash, does that rash go away?
+330.9745::331.65465::Patient::Yeah.
+337.79419::339.24788::Patient::Uh, yes.
+338.94352::340.68265::Doctor::It goes away. OK.
+342.48199::362.88566::Doctor::OK. So what we need to do, need to urgently examine you. And that's sometime today. OK? And um, after our examination there is a high possibility that sometimes we might need to send you to hospital. But I'm not sure as yet. So I'd like you to be seen in one of our hubs as soon as possible?
+347.50239::349.48024::Patient::OK.
+362.84715::363.76478::Patient::OK.
+362.88566::382.29713::Doctor::So um, I'll recommend that you would need to be urgently seen by the doctor, preferably in the next few hours time. OK? And um, in any case if that's not available I'd like you to take yourself to . Alright? Any questions at all?
+372.35314::373.20021::Patient::OK.
+379.16439::379.99219::Patient::OK.
+382.39585::385.05673::Patient::Uh, no. Sounds serious.
+385.92925::394.20465::Doctor::, you know obviously when I've spoken to you, you, you didn't tick the box for many theories, but you're in the middle somewhere. Let's put it that way.
+394.08805::394.93358::Patient::OK.
+394.20465::408.74884::Doctor::Um you know things like we have to rule out is Meningitis and all, but Ben, you just have a general muscle ache. You didn't say that you had things like, you had problems looking at the light or something Those are things when you think of Meningitis
+408.74884::436.1034::Doctor::But and then, it's the uh, in meningitis you get a non-blanching rash. While in any kind of virus the rash usually goes away. Saying that, we don't know whether these are the beginning stage. So that's why I'd rather, but I would rather you see a GP as soon as possible, if uh, we've got a slot available. But if not, I think you need to be seen, and maybe have some blood tests and examinations. OK?
+435.91965::438.22656::Patient::OK, cool. Thank you very much.
+437.92838::441.5828::Doctor::All right, you take care, Ben. Bye now. Cheers. Bye.
+439.62781::441.28783::Patient::Bye.

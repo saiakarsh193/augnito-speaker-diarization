@@ -1,0 +1,133 @@
+2.79818::3.72296::Doctor::Hello?
+4.12847::4.78968::Patient::Hello?
+4.9461::5.96228::Doctor::Hello. Can you hear me?
+6.41715::7.05883::Patient::Yes.
+7.22532::12.05511::Doctor::Great, excellent. Before I go any further, can I confirm you name and your, um, age please?
+12.57146::18.73926::Patient::Uh yes. Um Laura Parkinson. And uh I'm forty five.
+18.57808::21.85333::Doctor::Forty five. Alright Laura, well how can I help you this afternoon?
+22.67745::31.31674::Patient::Uh yeah. So I have uh soreness in my fingers, my finger, like, the skin on my hands is kind of cracked.
+31.26623::33.82588::Doctor::OK. When, when did this all start?
+34.49203::39.04879::Patient::Um, a couple of months ago. I got it three, four months ago.
+38.8626::47.54156::Doctor::OK so it's been that long, has it? OK. And so you mentioned your , is it the skin on your hand, mainly that's dry?
+41.29623::42.29623::Patient::Yeah.
+48.32723::60.95715::Patient::Yeah, I haven't noticed. I mean, I have dryness, like you know, in other parts, like my legs. But it's not, it's not very, it's not severe. It's just you know, I've always, you know, I don't hydrate very much. So
+60.67008::62.79853::Doctor::Right. OK.
+60.95715::61.00477::Patient::
+62.27137::64.53363::Patient::Yeah. Like it's very, it's very bad in my hands.
+64.34899::71.75271::Doctor::OK. Can I ask why have you come to see me today? Uh is it because it's got worse recently, your symptoms?
+72.29662::80.88436::Patient::Yeah I mean, it's gotten to a point where, where it hurts a lot. And I can't really do my job. So, I thought I should probably get it checked out.
+80.78029::87.8629::Doctor::Yeah, that sounds like a very sensible plan. Um, which part of your hands are affected, mainly?
+87.94631::91.62676::Patient::Uh the palm. I don't get, yeah.
+89.89043::96.58772::Doctor::Um, OK alright. Um, have you any itchiness in your palms?
+96.74023::100.90522::Patient::Yeah, it's itchy. Not all the time, but yeah, it does get itchy.
+101.77123::104.00977::Doctor::OK. Any bleeding at all?
+104.71897::110.11152::Patient::Um um I don't, I mean, no I don't think so.
+108.16576::112.74377::Doctor::you scratch yourself, you scratching yourself often, and bleeding?
+112.70948::119.4106::Patient::Um, yeah I guess when I scratched it, yes it has bled sometimes but, yeah. Otherwise, it hasn't bled on its own.
+119.20252::125.55118::Doctor::OK. Um, fine. Uh
+125.55118::133.54206::Doctor::OK. Sorry, I'm writing notes as we go along. Um, and you mentioned that skin is quite cracked as well. Is that right?
+133.33441::134.36796::Patient::Yes, that's right.
+133.54206::136.68886::Doctor::OK, alright. Um
+136.68886::146.01919::Doctor::, I know it's a long time ago, but do you remember how it all started? what were you doing at the time when it all started? Is it anything you may have done, to bring your symptoms on?
+146.59653::152.41301::Patient::Uh, I mean I am a, I do work as a housekeeper. Um
+150.955::151.74399::Doctor::
+152.41301::164.18844::Patient::And to be honest, I'm not always very good about wearing gloves. So that could be related. Um, I switched jobs, uh four months ago. Uh
+156.23025::158.49632::Doctor::OK. OK.
+162.84497::164.1202::Doctor::OK.
+164.18844::170.28759::Patient::I've been working for, as a housekeeper for, for a while now, but um, that's the only thing I can think of.
+170.40464::174.83269::Doctor::Yeah, I think that might be quite important actually. I think there's definitely, maybe a correlation between the two.
+174.83269::181.55149::Doctor::Um, fine. And so you mentioned something about having general dryness. Is that, you mentioned in your legs as well?
+181.75167::185.32902::Patient::Yeah. Yeah but isn't, sorry.
+183.5272::187.75336::Doctor::Is that, is that something you've, you've had for a while now?
+187.98884::194.28862::Patient::Yeah. It's not really, it's not really major. Uh yeah it's just like literally grinding my legs.
+191.05612::192.34714::Doctor::OK.
+194.28862::194.30038::Patient::
+194.42496::196.41317::Doctor::Right, OK.
+195.51822::197.4857::Patient::trouble.
+197.42138::207.00118::Doctor::OK. I'm just going to ask you some very brief yes or no questions, if that's OK. With your symptoms, have you, have you had any other symptoms, such as fever, or temperatures?
+207.40146::208.73136::Patient::No.
+208.86124::210.82507::Doctor::Any nausea, or any vomiting?
+210.9788::211.9788::Patient::No.
+212.17344::213.85445::Doctor::Any problem with your bowels?
+214.26748::215.26748::Patient::No.
+215.30593::218.04508::Doctor::Any problem with your urine, or waterworks?
+218.04508::218.06414::Doctor::
+218.62834::219.62834::Patient::No.
+219.49474::224.54713::Doctor::Otherwise you feel well, do you? And yourself, your eating, drinking, your appetite is well-maintained?
+224.53562::226.41192::Patient::Yeah.
+224.54713::224.57085::Doctor::
+226.44633::235.9463::Doctor::OK, alright. Fine. Um, in terms of your past medical history, do you have any other conditions at all?
+236.79351::238.33991::Patient::I have diabetes.
+238.77884::240.73904::Doctor::Do you know if that's type one or type two?
+241.15437::242.15437::Patient::Type two.
+242.82679::244.73018::Doctor::Diabetes, OK. Anything else?
+245.52554::247.5771::Patient::Um no.
+247.64128::249.15737::Doctor::Any skin problems?
+250.24723::251.24723::Patient::No.
+250.79958::253.58858::Doctor::Eczema, dermatitis, for exmaple?
+253.56683::256.10294::Patient::Not that I know of. No, I haven't been diagnosed.
+256.06566::258.63953::Doctor::No, OK. Which medications do you take?
+259.08235::260.3607::Patient::
+260.38882::266.0382::Doctor::Metformin, OK. Do you have any allergies, either to any medications or in general?
+266.21645::267.21645::Patient::No.
+267.84554::272.24006::Doctor::OK. Family history-wise, is there anything I should be aware of?
+272.83507::274.54643::Patient::Diabetes and what?
+274.61622::278.90065::Doctor::Diabetes as well. OK. Again, any skin problems?
+275.98973::276.86602::Patient::Yeah.
+279.77282::281.6908::Patient::Uh no, not that I know of.
+281.72635::284.46948::Doctor::Any history of asthma, or bowel problems?
+285.38156::288.11355::Patient::Uh, no.
+287.61628::291.26768::Doctor::No. OK, alright. Um
+291.26768::298.74479::Doctor::Fine. In terms of social history, you mentioned that you work as a housekeeper. Um are you, you're not always very good at wearing gloves.
+295.05178::295.87652::Patient::Yeah.
+298.74479::307.46044::Doctor::Um, you've recently changed jobs. Which which kind of places do you work in? Is it mainly residential, or is it commercial?
+299.258::300.258::Patient::Yeah.
+307.56738::315.485::Patient::At a hotel. I have to do the whole thing like bedrooms, bathrooms, .
+309.14852::310.6898::Doctor::Hotel, OK.
+314.35037::317.03097::Doctor::OK. OK.
+317.03097::317.05909::Doctor::
+318.27204::324.66236::Doctor::Do you think there might be a relationship between the two? Between the, kind of the products you're using, and your symptoms?
+325.45421::332.30997::Patient::Yeah, I usually use those for bathrooms. But, yeah bedrooms and corridors not always.
+332.29994::338.31912::Doctor::OK. Have your symptoms stopped you from doing any work? Have you had to take time off work recently?
+338.62964::344.04208::Patient::Uh, yeah like the past three days, I haven't been able to go to work.
+343.88266::348.17903::Doctor::OK. Can I ask a couple questions? Do you smoke at all?
+348.64007::349.64007::Patient::No.
+349.76764::351.7383::Doctor::Do you drink much in the way of alcohol?
+354.05278::355.14925::Patient::pints a week.
+355.32566::356.21202::Doctor::Once a week?
+356.50911::358.27312::Patient::Uh, a couple of pints a week.
+358.07575::363.84607::Doctor::a week. OK so, very minimal, alcohol there. Um
+363.84607::369.98372::Doctor::have you tried anything for your symptoms? Have you tried anything over the counter? Any creams?
+369.9827::372.61973::Patient::Yeah. I tried uh E forty five.
+373.25897::374.53064::Doctor::Any luck with that?
+374.53064::374.54911::Doctor::
+374.53727::376.41358::Patient::Yeah, no it didn't really do anything.
+376.24134::381.11222::Doctor::No, OK. Alright. Um
+380.02186::386.9601::Patient::I also tried an antihistamine, antihistamine. Uh but it didn't
+383.17645::389.01134::Doctor::. OK, alright.
+390.5985::408.74755::Doctor::Um, Mrs. Parkinson, so I think um, based on your story, I I think you might have something called dermatitis or contact dermatitis. Which is very common in, particularly people in your in your in your field, who are using cleaning products, not using gloves. And sometimes you get a bit of reaction between the chemicals and your skin.
+408.74755::420.43355::Doctor::Um, so moving forward there's a couple of options. So firstly, what we try and do is, you know, avoid the triggers. In your case, I strongly recommend that you wear gloves when cleaning at all times.
+408.8367::409.8367::Patient::Yeah.
+420.43355::428.93562::Doctor::OK. And in terms of helping your dryness and the cracking of your skin, um we can try some steroid creams to help with the inflammation.
+420.54819::421.22424::Patient::Yeah.
+428.93562::428.95479::Doctor::
+429.2287::430.2287::Patient::
+429.70903::440.29146::Doctor::As well as some stronger emollients, um which you really need to kind of coat on, three four times a day, for the next couple of weeks, just to help with the moisturizing of your skin.
+440.29146::440.33449::Doctor::
+440.52781::441.52781::Patient::
+441.72146::451.49088::Doctor::Um if it still hasn't got better in about a week, two weeks time, I really need you to come back and see me again. And we can maybe think about other things we can give to you.
+451.49088::451.50293::Doctor::
+451.78568::452.39392::Patient::OK.
+452.75518::453.68037::Doctor::Is that all clear?
+453.97125::455.60012::Patient::Uh yeah, that sounds good.
+455.58069::457.00765::Doctor::Great. Do you have any questions for me?
+457.97128::461.44554::Patient::Um, where do I get the medicine from?
+460.88335::465.72756::Doctor::I'll I'll I'll do a prescription for you now, and send it over to your pharmacy.
+465.85797::472.0333::Patient::OK great. Yeah, uh so you said a couple of weeks, it should get better, right?
+466.91435::467.51681::Doctor::OK.
+471.21368::482.75706::Doctor::I think I think minimum couple of weeks. Uh ten days to fourteen days. Um and if it still hasn't got better, or indeed if it's getting worse, like if it's spreading, or dryness is getting worse, come back and see me sooner.
+484.87047::485.3584::Doctor::OK.
+486.38199::487.77797::Doctor::Great. Thank you Laura. Thank you.
+487.94074::489.4459::Patient::Alright. Thank you very much.
+488.95068::490.02057::Doctor::. Bye bye now.
+490.38405::490.93001::Patient::Bye.

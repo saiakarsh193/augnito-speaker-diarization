@@ -1,0 +1,137 @@
+0.0::5.18627::Doctor::hello can you hear me ok?
+2.35501::3.99502::Patient::Hello. Hi.
+5.18627::10.93116::Doctor::Right excellent, before I go any further, can I confirm your name and your age please?
+5.47002::7.19003::Patient::Yeah I can hear you, hi.
+11.99006::16.05508::Patient::Sure, um, I'm Amanda Jackson and I'm nineteen years old.
+16.06915::19.40712::Doctor::Nineteen years old OK Amanda, and how can I help you this afternoon?
+20.29511::28.15516::Patient::Um, so it's being going on for a few days now. Um, it's not happened before and I'm bit worried. I've uh it quite hurts when I kind of pee.
+28.08309::29.08309::Doctor::
+28.15516::33.25019::Patient::Um, and yeah it's like I'm going to the toilet a lot more, um.
+33.25019::39.92024::Patient::And it's really, like I can't, like go to uni properly. I'm just like constantly looking for the toilet.
+39.50392::40.58668::Doctor::
+39.92024::45.99028::Patient::Um, and it kind of hurts sometimes when I'm, like in at the bottom of my tummy as well.
+45.62122::57.78::Doctor::Right OK. I'm sorry to hear there's a lot going on there and I can, see why it's affecting you. Um, so you mentioned it's been going on for last three days, mainly the burning pain when you pass urine. Um, you said you're going to the toilet more often as well, that right?
+58.55537::64.71041::Patient::Uh, yeah it's been going on for a little bit longer than three days I think actually, maybe just under a week. Um.
+63.08351::66.80079::Doctor::Ohh and a week, sorry my . OK, uh.
+66.18542::71.53545::Patient::Sorry no I didn't explain it properly before, um yeah no I it's been going on for about just under a week.
+68.17321::72.22843::Doctor::
+71.53545::76.90549::Patient::Um, and yeah I notice a sort of burning, stinging, when I when I go to the toilet, yeah.
+75.9526::83.00786::Doctor::Are you noticing any, anything in your urine, predominantly blood or um, discolouration of urine?
+83.48053::88.80557::Patient::Um, I think, well today I noticed, um, that it was like a bit pink.
+88.80557::90.85058::Patient::The, the urine.
+88.93897::89.93897::Doctor::
+91.64243::101.57359::Doctor::OK, uh of any kind of frank blood? I mean red blood at all, in your urine?
+91.85058::94.06559::Patient::Yeah, I think just today .
+99.32062::104.12065::Patient::Um, I think it was probably but I don't know it was pink so.
+103.7805::113.67718::Doctor::OK. Um, fine we'll we'll have to definitely explore that in a little bit or detail later on. Um, you also mentioned some tummy pain as well, can you tell me a bit more about that pain?
+114.71073::122.13078::Patient::Yeah it's kind of at the bottom of my tummy, um, uh mainly when I go to the loo, I think that's when it's worse.
+121.80832::127.14631::Doctor::OK. Um, can you describe it crampy pain? Is it more of a burning pain?
+128.97583::138.7509::Patient::Um, I wouldn't describe it as crampy I don't think it's like a period pain, it's a bit different, it's, it's hard to say, an achey pain I suppose.
+133.65674::134.65674::Doctor::OK.
+138.12574::143.51201::Doctor::An aching pain, OK. And does the pain move anywhere else? Does it move towards your back? Towards your sides?
+143.45593::145.73094::Patient::No, no, no.
+144.76029::151.25692::Doctor::OK, all right. Um, any other symptoms? Nausea? Vomiting?
+153.02099::155.381::Patient::No, no nausea vomiting.
+155.25696::158.47079::Doctor::OK. Any temperatures or fevers?
+159.97103::162.92104::Patient::Um no, no not that I've noticed.
+162.72601::166.47088::Doctor::OK, all right. And how are your bowels at the moment? Are your bowels working OK?
+168.75108::176.29613::Patient::Uh I, I usually have a bit of problems with my bowels anyway, so I don't think it's any, different, from what it usually is.
+174.27097::179.30551::Doctor::OK, and when, when when you say you have problems, what kind of problems do you normally have?
+180.04116::189.14622::Patient::Um, I think I have, um, IBS, um, so I just kinda pass, uh, my bowels like quite, quite a lot.
+185.58145::186.58145::Doctor::Right.
+189.14622::199.9363::Patient::Um, and sometimes it's quite, it's quite variable like sometimes it's a bit softer, sometimes it's a bit, sorry if it's a bit disgusting but like, sometimes it's a bit uh harder and kind of hard to predict.
+195.76778::198.33332::Doctor::
+199.76781::205.5127::Doctor::OK, all right but, and you've noticed no new symptoms? No, no, no new symptoms in your bowels?
+200.7363::202.5813::Patient::Like, yeah OK.
+205.5127::218.50598::Doctor::Uh. OK, all right. Um, and Amanda sometimes we have to ask quite sensitive questions as you can imagine. Um, uh, can I ask? Are you currently uh, are you currently sexually active? At the moment?
+206.34133::208.17633::Patient::No, no, not
+218.24641::225.27645::Patient::Uh uh yeah um, I have a, a long-term, um, boyfriend.
+224.95433::233.73376::Doctor::OK, and um, have you noticed any other discharge from down below? So, from from the front passage?
+234.45152::239.77155::Patient::Hmm no I don't think so. Nothing unusual.
+238.41657::243.34076::Doctor::OK. Have you, do you use any form of contraception?
+244.13658::247.7566::Patient::Uh yeah, uh I'm um on the pill.
+247.68564::250.88567::Doctor::The pill. What kind of pill is it? Is it combined pill or the mini-pill?
+251.26162::252.71163::Patient::Uh, combined pill.
+252.54775::260.25819::Doctor::OK, fine. Um, when was the last time you had um, unprotected sex?
+261.38233::262.74095::Doctor::If you don't want me asking.
+261.93169::267.82173::Patient::Um, uh, I mean, mean unprotected as in like no, no condoms or anything?
+267.13411::268.67205::Doctor::Yeah, exactly.
+268.55673::274.27177::Patient::Um, I, I guess 'cause, um, I don't really use condoms with my boyfriend, like.
+274.27177::281.44682::Patient::I dunno we've just kind of agreed, uh, so um I guess, a week ago, two weeks ago , quite quite .
+277.71354::280.76185::Doctor::Yep, a week ago, OK all right.
+280.76185::292.27924::Doctor::What I'm trying get at is whether um, uh there's any chance you could be pregnant at all. Uh, I know you're on the pill, but um we're we, nonetheless we do have to ask. Um when was your last, when was your last period?
+287.78186::288.28186::Patient::
+290.24186::290.74686::Patient::
+293.49187::295.53188::Patient::Um, two weeks ago.
+295.61031::302.36901::Doctor::Two weeks ago OK, all right. Just something for us, to bear in mind, if your symptoms don't get any better OK, um.
+302.36901::309.31392::Doctor::Fine, in terms of your general health otherwise at the moment are you, uh eating and drinking OK?
+310.682::316.66704::Patient::Uh, yeah, yeah eating drinking OK. Um, I did have one kinda concern I dunno
+316.25194::317.02435::Doctor::
+317.44703::323.33707::Patient::So I I smoked, uh this is quite bad, but I smoked weed for the first time.
+323.33707::329.76712::Patient::Uh, like a week and a half ago, I I just wondered whether it's related at all, probably not but I just thought I'd get some advice from you.
+328.69347::340.24535::Doctor::Sure, well thanks for sharing with me. Um, so, I, I don't think it's is related to your symptoms, I think it probably just pure pure coincidence, um.
+336.74716::337.52716::Patient::Sure OK.
+339.29717::339.90217::Patient::Sure.
+340.24535::350.42479::Doctor::But, uh, you know I do strongly advise you to you know, um, make it a regular habit if you can. Um, just for your, just for your general health moving forwards, OK?
+347.27222::348.11222::Patient::OK.
+350.42479::358.63179::Doctor::Um, fine. Moving on, in terms of your health otherwise, do you have any other medical conditions , apart from the IBS, is there anything else I should be aware of?
+350.59223::351.97223::Patient::Sure .
+359.54728::360.82229::Patient::No, nope.
+360.01111::367.22499::Doctor::No, OK great. And what about any medications that you take on a regular basis, apart from the, um, combined pill?
+368.01733::377.85741::Patient::Apart from the pill, um, I take, um, something for the IBS as well. Um it begins with an M, it's pretty hard to pronounce like something , maybe.
+375.1975::379.33548::Doctor::was it, yeah OK.
+378.79741::381.04742::Patient::Yeah, yeah that's it. Yeah, yeah that's right.
+380.51479::383.53551::Doctor::OK, and is that for the cramps, the crampy pain?
+384.04243::385.38243::Patient::Yeah, yeah.
+384.53551::387.80451::Doctor::Yeah OK, and do you have any allergy to any medications?
+389.00246::396.81751::Patient::Um, yeah I think there was an antibiotic, um, called Clindamycin mycin .
+394.51494::397.78393::Doctor::OK, OK, OK.
+396.81751::403.07755::Patient::Then I took like something and yeah that, that didn't, go too well, with me.
+401.9495::410.61857::Doctor::Ritib, OK sure, I'll make a note of that. Um, in terms of family history, any history of problems with the bladder or the kidneys?
+411.96262::413.46762::Patient::No, no.
+412.37031::418.68073::Doctor::No, or generally anything else, good. And socially, tell me a bit more about your home situation, who's at home with you?
+419.98766::430.18274::Patient::Um, so I am living in halls at the moment, uh at uni um, so uh, uh, I'm just living with a flatmate I suppose, um.
+429.23259::429.86017::Doctor::
+430.18274::440.36781::Patient::But my family, uh, live kind of outside of London not too far away. Um, so yeah the my family are fine and I see them now and then. Uh, yeah things I think, I think they're OK generally.
+436.41887::438.35682::Doctor::Very good.
+440.14304::442.01201::Doctor::Great, and what are you studying at university?
+442.94282::444.99283::Patient::I'm studying, uh, English.
+444.81204::447.57758::Doctor::English, OK good, and how are you enjoying your course?
+448.40285::455.7279::Patient::Yeah, yeah it's it's going well thanks. Just kind of started a few months ago, a few months ago and yeah I, I really enjoy it. Yeah, yeah it's really fun.
+450.69485::451.46037::Doctor::Good.
+454.09488::461.30186::Doctor::Very good, very good, good. Um, in terms of smoking and alcohol, do you, do you participate in either?
+462.19295::473.17303::Patient::Uh, as I admitted before I tried weed for the first time, uh, but, uh, I don't smoke. Uh ,I drink occasionally, um, kind of socially, um, with friends .
+469.37783::472.45372::Doctor::O K
+473.87441::478.95723::Doctor::OK, what, what's made you have your first joint last week? Was
+478.45306::484.7281::Patient::Um, I it was just a party,.Um, there were other people doing it, um.
+481.6676::482.6676::Doctor::OK.
+484.7281::494.77318::Patient::I kind of was a little bit tipsy so, probably wasn't thinking quite straight. Um, but yeah I, I completely agree it's not something I wanna get into on a regular basis.
+488.14353::488.90904::Doctor::
+494.37807::508.75757::Doctor::Sure, uh, and obviously as your doctor I'm here to look after you so yeah I I would strongly recommend you, you know, to avoid if you can. Great, um, fine so, at this stage I wouldn't normally examine you, but I think based on your story I think, um, you know, uh, I'm reassured.
+499.1732::499.9632::Patient::Sure.
+508.75757::516.15077::Doctor::But the fact that I, I I think it's, um, probably just a simple what we'd say a UTI or a cystitis, bladder infection.
+515.54832::517.22832::Patient::OK.
+516.15077::523.275::Doctor::Uh, you know you haven't got any other symptoms that, suggest to me that there's anything to worry about, so things like fevers and back pain.
+523.275::537.30277::Doctor::Um, would be more worrying for me to hear. Um, so it's something we can treat quite readily with antibiotics. Um, so we've got a choice of two antibiotics something called Trimethoprim or, Nitrofurantoin which is a three day course.
+523.92337::524.49337::Patient::
+526.79838::527.54337::Patient::
+531.2384::531.93339::Patient::Mm-hmm.
+536.99843::537.82842::Patient::Mm-hmm.
+537.30277::546.02012::Doctor::And normally they're usually quite effective, um, for your symptoms. It's probably worth giving us a urine sample today as well if you can, so we can send it off to the lab.
+543.13846::543.89846::Patient::
+546.02012::553.83401::Doctor::And see exactly what's going on there. Um, start the antibiotics, make sure you're well hydrated, drink plenty of fluids.
+546.82847::547.42847::Patient::OK.
+549.84848::550.62848::Patient::
+553.83401::559.56512::Doctor::Um, if you are having some pain, simple Paracetamol, um, would probably be advisable.
+554.6435::555.1985::Patient::Yeah.
+559.56512::568.28937::Doctor::Um, we'll see what the urine sample shows. Um, and if it is indeed positive, we'll know which antibiotics are the right ones.
+560.10353::560.69853::Patient::OK.
+568.28937::574.53772::Doctor::Um, but if things still are still not getting any better next week come back and see me, and we can have another look again.
+575.29864::584.4437::Patient::OK, OK uh great. Um, with, with the urine sample, um, uh, how do I go about doing that, do you know? Is it through the app?
+582.61368::600.14495::Doctor::So if I'll give yeah no it's a well uh so yeah good question, so I will give you I will organise uh for you to come in, and drop off a sample at one of our practices, um which we can test there and then, at the urine and send it off to the lab uh we can back in touch with you with the results.
+596.79379::597.79379::Patient::OK.
+601.02881::602.89882::Patient::OK perfect. Great.
+602.0691::608.40022::Doctor::OK, do bear in mind those symptoms I mentioned about the fever and the back pain and vomiting. If you have any of those give me a call, OK?
+609.30386::612.42888::Patient::Either back pain, vomiting, great OK. Yeah, I'll watch out for those.
+611.47611::616.42099::Doctor::All right, OK. Have a good day. Thank you, bye bye.
+613.83388::616.6789::Patient::OK, great thank you. You too, have a good day, bye bye.

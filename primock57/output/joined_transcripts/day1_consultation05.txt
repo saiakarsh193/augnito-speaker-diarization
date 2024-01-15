@@ -1,0 +1,116 @@
+2.09958::3.02554::Doctor::Hello?
+3.60149::5.36841::Patient::
+4.63057::10.11602::Doctor::. Good morning, Tim. Um, how can I help you this morning?
+11.8947::13.82702::Patient::Um, so I'm
+14.74432::23.84954::Patient::Having some, some pain, uh, in my tummy, like the lower part of my tummy. Um and I've just been feeling, quite, hot and sweaty.
+19.34798::20.27841::Doctor::OK.
+23.76829::27.85528::Doctor::Right, I'm sorry to hear that. When, when did your symptoms all start?
+29.26575::30.81434::Patient::About two days ago.
+30.98574::34.85533::Doctor::OK. And whereabouts in your tummy is the pain, exactly?
+36.27055::41.72166::Patient::Uh, like below my belly button, it's like quite, sore when I press on it.
+41.59451::45.58005::Doctor::OK. Did the pain come on quite suddenly, or was it more gradual?
+47.36074::52.93967::Patient::, it hasn't been, it's more gradual and it's just, it is getting a bit worse now.
+52.53663::56.89898::Doctor::OK, OK. And can you describe the pain to me?
+57.78175::70.58621::Patient::Uh, it's kind of like a, a, I guess a burning pain. Uh, and it's just right there yeah, in that spot, like uh, that's mostly where I'm feeling it. It hasn't spread anywhere else.
+68.39803::69.10193::Doctor::
+70.19867::72.6828::Doctor::Just in, just below your belly button you uh, mentioned.
+73.39072::74.12756::Patient::Yeah.
+73.89903::77.67733::Doctor::OK. Um, and is the pain constant, or does it come and go?
+79.09747::91.36057::Patient::It's pretty constant, it's like getting worse. Um, it's not like, I , I can still move and walk around. Uh, I mean I'm still kind of functioning, it's just uh, I'm aware of it time.
+85.91372::86.62488::Doctor::
+89.82678::99.02976::Doctor::. Mm-hmm. OK. Um, and with the pain have you noticed any other symptoms, at all? So, for example, let's, let's focus first on your bowels. Are your bowels working OK?
+99.18761::104.64624::Patient::Yeah, I had a bit of constipation, but that's better, now. That was like, since last week.
+104.49357::108.92671::Doctor::OK. So you've got no other symptoms, like diarrhea or loose stools?
+109.76652::113.40561::Patient::No, I'm , I'm, my bowel movements are normal now.
+110.53008::111.07333::Doctor::No.
+113.1458::116.84148::Doctor::OK. And, what about your waterworks? Are you passing urine OK?
+117.44192::128.69878::Patient::Yeah, I'm fine, that's fine, that's. I did notice that I was a little, the urine was a little pink, in colour. But I haven't like, it hasn't really been burning, specifically or hurting when I pee and uh.
+128.69878::143.30022::Patient::And I did notice I was going to the, I was peeing more, regularly, but I have been drinking lots of fluids. So I wasn't sure, um, I wasn't sure, um, like you know, if that was related to the pain.
+139.3179::140.10914::Doctor::Mm.
+143.6887::148.3635::Doctor::And when you mentioned pink urine, do you, was there any blood at all in your urine? Or was it difficult to say?
+148.53329::150.90922::Patient::I can't say, I mean maybe.
+151.32004::156.16066::Doctor::OK, alright. But otherwise, it doesn't hurt, uh, or or or sting, when you pass urine?
+156.45055::163.55952::Patient::And I haven't noticed that it really burns or anything like that. Um, just that I'm, peeing more than , more regularly.
+159.27662::160.05923::Doctor::OK.
+163.3636::172.9144::Doctor::OK. Um, OK. And um, moving on to other symptoms, have you noticed any vomiting, or feeling nauseous at all?
+173.18733::176.9016::Patient::Just a little nauseous, um, but no vomiting.
+176.78399::179.47966::Doctor::No vomiting. Any temperatures or fevers?
+180.3452::185.27::Patient::I haven't , I felt a bit hot and sweaty, but I haven't really measured it, so I can't really say.
+185.52319::199.82766::Doctor::OK, fine. Um, uh, uh, and Kim, have to ask um, uh all all all patients. This this question is about your cycle, if you don't mind me asking. Um, are you currently um, are you currently sexually active?
+195.44289::196.20981::Patient::Yes.
+200.37197::211.45787::Patient::Uh, yeah I've, I have had the same partner, I am, we were last sexually active about four days ago. Um, my last STD screen was normal, which was about six months ago.
+211.30602::214.25893::Doctor::OK. So you've had no other partner since then.
+214.33004::215.99169::Patient::No, the .
+215.94966::220.78437::Doctor::OK. Um, uh, and do you use any contraception at all?
+221.30746::225.51797::Patient::Uh, I'm, on the Implanon. I had the Implanon inserted about a year ago.
+225.34962::228.91796::Doctor::At the moment, OK, fine. Um, are you still having periods?
+230.36006::231.46532::Patient::Yes.
+231.44394::232.88591::Doctor::When was your last period?
+233.63825::238.55553::Patient::Uh, my last period was about, three weeks ago. I mean, two weeks ago.
+238.40769::247.05994::Doctor::Two week scare, OK. So, is there any chance you could be pregnant? I know you've got an implement in there, but is there any chance you could potentially be pregnant? It's something for us to think about
+246.45775::254.3112::Patient::Well, we don't use any other barrier, method so, we just use the , I just have the Implanon and the same partner. Um.
+254.61053::259.2761::Patient::Theoretically, if the Implanon, hasn't been working then I could be pregnant, but I don't suspect .
+258.13249::265.88788::Doctor::Yeah, OK. Well it's something for us to think about. Um, uh, maybe worth taking a pregnancy test later on, just to confirm that. Um
+265.88788::280.53987::Doctor::OK. And, and so, just to summarize so far, if you don't mind, it's really for the last couple of days, it's tummy pain that's really affected you, mainly lower down towards your belly button. It's quite burning, you said. It's getting worse. Um, you noticed some pink urine.
+280.53987::286.11708::Doctor::Um, but no burning or stinging pain when you pass urine. Your bowels are working OK.
+286.11708::290.48061::Doctor::You've felt a little bit nauseous, um, and feeling hot and sweaty. Have I got that all right?
+290.57035::292.64553::Patient::Yeah, that sounds, very accurate.
+292.33569::297.21979::Doctor::Is there anything else, perhaps, that you feel like you should share with me at this stage, anything that might be important?
+297.64551::302.0064::Patient::I don't think so, I think I've, you , we've covered everything that's really bothering me.
+301.72707::309.1909::Doctor::Yeah, OK. Um, tell me, tell me a bit more about your um, medical history otherwise. Are you normally fit and well?
+309.99133::315.71136::Patient::Yeah, , well, I haven't had any, surgical, I don't have any surgical history.
+316.25028::323.11158::Patient::I don't have any previous, I haven't had any operations before, or, and I'm not on any other medication, I just have the Implanon.
+316.31645::316.88107::Doctor::
+323.14194::327.84323::Doctor::OK. Um, have you had anything like this before in the past? Any similar symptoms?
+328.57772::331.1717::Patient::I've never , I've never had these symptoms before.
+331.09862::333.65677::Doctor::No, OK. Um
+335.23861::344.20569::Doctor::Fine. Um, any other family history I should be aware of? Anything relevant, family, uh related to bowels, maybe related to history?
+344.50999::346.7957::Patient::No, not that , not that I'm aware of, no.
+346.61985::352.10429::Doctor::OK. Alright. Um, and socially, just tell me a bit more about your home situation. Who's at home with you?
+352.70545::359.20919::Patient::Uh, I live in a share house, and with two other, two other room-mates.
+359.81535::363.83569::Doctor::OK. Um, and uh, are you currently working?
+364.8633::367.35202::Patient::Yeah, I currently, I am currently .
+367.20755::368.31408::Doctor::What do you do for work?
+370.11893::371.73547::Patient::I am an accountant.
+371.70022::374.07902::Doctor::OK. Um
+376.42777::379.02797::Doctor::OK. Um, Do you smoke at all, Kim?
+379.78807::380.45724::Patient::No.
+380.47761::382.76337::Doctor::No. And do you drink much in the way of alcohol?
+384.05121::392.4572::Patient::Uh , socially I drink, but uh, I don't think more, more than normal. .
+389.38788::390.40473::Doctor::No, OK.
+392.16284::398.49531::Doctor::OK. Um, just before I go to the examination, I just want to go through just some few screening questions if that's OK, yes or no.
+398.49531::403.59173::Doctor::Uh, we've, we've covered the majority of them already. Uh, but I just want to make sure I'm not missing anything else.
+399.19401::399.93837::Patient::All right.
+403.59173::409.40911::Doctor::Um, how's your, how's your chest? How's your breathing? Um, any
+408.79548::415.50222::Patient::I don't feel short of breath uh, or, I'm not having any problems, or I don't have a cough or anything that's , worrying me.
+414.55408::420.13457::Doctor::OK. Any uh, funny heartbeats or rhythms, palpitations?
+421.17889::422.43453::Patient::Not that it, no.
+422.32225::425.82256::Doctor::OK. Any headaches? Any problems with your vision?
+426.97587::427.70519::Patient::No.
+427.61471::430.48173::Doctor::No, OK. Alright. Um,
+431.93101::437.86648::Doctor::Fine, OK. Um, So really just uh, moving on, um,
+437.86648::449.78485::Doctor::And so based, based on your story really, uh, uh Kim it's, it's it's difficult. it's it's um, you know you've got some tummy pain. You don't exactly know what's causing it. It could be a few different things that could be causing your pain.
+449.78485::463.17768::Doctor::Could just be a, you know, could just be a urine infection, for example. Could just be something related to your gut. Um, could just be something related to your, you know, a pregnancy-related cause. Um, and so it's probably worth doing some tests initially.
+463.67043::470.43907::Doctor::to try and rule out um, what's going on here. Um, which I can organize for you today.
+471.2238::472.13358::Patient::OK.
+471.67941::484.5618::Doctor::Um, and basically those tests, we, we'll have a better idea in terms of how we should proceed. But certainly, it if it's been going on for the last couple of days, um,
+485.18062::492.78664::Doctor::Uh, you know, it's probably maybe worth empirically treating you for a maybe urine infection. And, so it's an
+491.15605::497.44174::Patient::. Yeah, I , can we do that instead of me, going for tests, and then seeing how that goes?
+497.17797::503.3036::Doctor::Yeah, absolutely. So, um I think it's certainly worth, you know covering you with some antibiotics today.
+503.3036::509.692::Doctor::Uh, but i still want you to bear in mind, you know, have a pregnancy test done to make sure we're not missing anything else here.
+509.692::517.23613::Doctor::And, um, and I want you to kind of really come back and see me in a few days time, if your symptoms are not getting any better, or indeed if they're getting worse.
+518.03323::529.85941::Doctor::So, things to look out for would be, you know, worsening tummy pain, um, if you're feeling really hot or sweaty, your temperature's not coming down um, vomiting et cetera. Does that make sense?
+530.23859::532.38896::Patient::Yeah, I think I'm happy with that plan.
+532.58407::542.13756::Doctor::OK. Um, you can try just regular painkillers, uh, Paracetamol would be advisable. Um, make sure you drink plenty of fluids.
+542.13756::546.89673::Doctor::You can try some cranberry juice as well, which uh, can sometimes help with your urine symptoms.
+547.4079::552.32338::Doctor::Um, take the antibiotics, uh, and give me a call, you know, if you are worried about anything else.
+553.68963::559.41893::Patient::Uh, sure. That sounds great. Thank you very much. Um, should I just collect the script at my pharmacy?
+556.16398::556.59606::Doctor::
+559.05626::568.09252::Doctor::Yeah, if I send it straight to your pharmacy, start the antibiotics today, something called Trimethoprim. Um, you can take two tablets, uh, one tablet twice a day for three days.
+563.99786::564.64448::Patient::OK.
+568.51664::570.52416::Patient::OK, , that sounds great.
+568.58616::571.49745::Doctor::Uh, , let's see how you get on.
+571.71213::573.261::Patient::OK. Thank you very much.
+572.96123::574.20937::Doctor::Great. All the best!
+574.52415::575.21589::Patient::Bye.
+575.00781::576.17864::Doctor::Bye bye.

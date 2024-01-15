@@ -1,0 +1,77 @@
+2.36734::3.17006::Doctor::Hello?
+3.42553::4.40871::Patient::Hi there!
+4.14711::8.79587::Doctor::Hi, hi, I'm doctor Jacob and welcome to Babylon. Hello.
+8.84152::10.39403::Patient::I, uh
+9.36732::15.28366::Doctor::Hi. So just before we start, is it alright if you could confirm your full name for me please?
+15.65671::19.34279::Patient::Uh, , that's, uh, John Jones.
+15.98219::16.69938::Doctor::
+19.18522::21.01351::Doctor::And your date of birth.
+21.77341::28.26235::Patient::Uh, that's, uh, the, twenty ninth of September, nineteen eighty.
+28.50325::31.63929::Doctor::K. And your email address for me please?
+32.10901::36.90455::Patient::Uh, that's, uh, John Jones, at, John Jones dot net.
+37.07466::43.07462::Doctor::OK. And just to confirm that you're in a secure location, and we can have a confidential conversation.
+43.2475::44.54805::Patient::Yep. That's absolutely fine.
+44.5236::49.93173::Doctor::OK. So, you've mentioned on our notes that you're having a bit of a cough and a cold. Is that correct?
+50.4867::61.60782::Patient::Yeah, yeah, it's just it's been going on for, like a few days now. Um, sort of like, coughing, and like, general runny nose, and stuff, and, like
+60.35343::64.41463::Doctor::is it two to three days, or longer?
+64.56101::74.67031::Patient::Little bit, uh about like five days around that, uh, yeah it started like, what day is it today? Uh, yeah the week, it started with the start of the weekend, so.
+67.16972::67.78877::Doctor::Fine.
+73.76835::77.01323::Doctor::OK. So, so it started off with a cold, did it?
+77.62251::90.43645::Patient::Yeah just like coughing, and like running nose, and like kind of muscles aching and stuff, like occasional feeling like headache, cold, chills, and things like that.
+84.53701::85.20368::Doctor::
+88.78869::89.45536::Doctor::OK.
+89.95614::91.547::Doctor::Important cold, yeah?
+92.01872::96.15601::Doctor::And, so about your cough, are you bringing up any phlegm at all?
+92.29057::93.12256::Patient::Yeah.
+96.91866::102.94722::Patient::No, no, it's like a, it's like a dry cough Sort of like like, almost hacking, hacking kind of like .
+100.93829::101.56414::Doctor::OK.
+102.13876::104.12877::Doctor::You're not bringing up any blood, are you?
+105.01173::105.69173::Patient::
+105.22619::108.78861::Doctor::OK. Are you feeling short of breath at all?
+109.78284::113.38422::Patient::No, no, no shortness , like yeah, I'm breathing fine.
+113.18147::116.72054::Doctor::Yeah. So you're not wheezy or rattly noises in your chest.
+117.09717::117.98353::Patient::No.
+117.99945::123.63207::Doctor::OK. Um, right. So what have you taken so far?
+124.51931::135.04248::Patient::Uh, so, uh, just like pain killers and such. I mean that I, I, um, in addition to like my normal medication and such. Um, but like
+133.87009::141.82242::Doctor::Well you mentioned, uh, you've come to your normal medications but you've mentioned you've taken some painkillers like, would you tell me the names please?
+141.60366::143.06775::Patient::I'll just like pass it along.
+143.10813::146.09451::Doctor::Paracetamol, OK. Any Ibuprofen at all?
+146.23414::147.03414::Patient::No
+146.77896::161.22366::Doctor::No, OK. And also um you mentioned some regular medication. Unfortunately I don't have your medical, complete medical history. So if you could tell me what your medications are, and what you use them for?
+161.60893::172.09812::Patient::Yeah, so I take, um, uh, what's it called, it's like metformin. I'm a diabetic, so. And, um, I also, like have, uh, lisinopril .
+171.93109::173.80863::Doctor::Lisonopril, OK.
+173.36212::175.92191::Patient::Yeah, but the like slight blood pressure.
+175.77829::180.22356::Doctor::Yeah, OK. And, how long have you been a diabetic for?
+180.69048::185.44223::Patient::Um, like a, a few years, maybe five or six years.
+185.20002::187.3664::Doctor::Five six years, OK.
+187.78003::191.44121::Doctor::OK. Do you monitor your blood sugars at home?
+192.37752::193.17571::Patient::Yes.
+193.04462::195.80174::Doctor::OK. And how have they been doing at the moment?
+196.18152::200.28871::Patient::Uh, no issues nothing like out of the ordinary there.
+199.82212::209.26424::Doctor::OK. So there's no problems with your blood pressure control at the moment, even though you're not, OK so that's fine. That's absolutely fine. And when was the last time you took your blood pressure?
+210.39727::213.00382::Patient::Uh, I've been this morning.
+212.69959::215.81522::Doctor::This morning. And what was it? What was the readings like?
+215.72666::219.84821::Patient::I can't remember off the top of my head, but it was within the normal range.
+219.15534::227.84362::Doctor::Cool, 'cause there's nothing alarming yeah? No more. OK. That's fine. OK. So that seems all right.
+227.84362::234.16886::Doctor::OK. So, um, can I, hypothetically, look into your mouth here?
+234.41524::235.11272::Patient::Sure.
+234.99368::235.74029::Doctor::Yeah?
+236.74029::241.75882::Doctor::Yeah, so, uh, looking into your mouth
+238.27886::239.53764::Patient::
+241.75882::252.70397::Doctor::Um, you know, there's just a bit mild redness at the back of your throat. Um, there's no enlarged tonsils. Can you feel any glands around your neck, at all?
+253.04594::254.98491::Doctor::No. No.
+253.18961::256.06874::Patient::No, I haven't had anything like that.
+256.14836::265.12471::Doctor::OK. So, it looks like, it's just a viral infection. Um, because it's just a cold and a cough. There's nothing there.
+265.12471::272.81738::Doctor::And generally if you have things like a chest infection, you would have a bit like a wheeze or shortness of breath.
+272.81738::292.56302::Doctor::So, um, things that we would recommend is you can use the, you know, Night Nurse, Day Nurse. It's still OK with your medications, yeah. So I'm, I'm sure that you are a bit wary to use them. But it's still OK with your current medication. You can still use that. Might be able to make you feel a bit more better quickly.
+283.30824::283.96424::Patient::OK.
+292.56302::300.93298::Doctor::If there's any change, like you're feeling short of breath or be your symptoms are lasting more than three weeks or something
+300.93298::313.69893::Doctor::Or you're becoming poorly, uh, things like that, then you need to get in touch with us, then probably we might need to examine you and especially your chest. But I don't think so, that's necessary at this point in time
+314.22092::315.89244::Patient::OK, that sounds good.
+315.48124::317.73293::Doctor::OK. Any questions at all ?
+318.04413::322.53468::Patient::Uh, no, I I think that's been very helpful thank you.
+322.18869::335.69199::Doctor::OK. So just to round up, just use the night, Night Nurse, Day Nurse, if any change in your symptoms, like shortness of breath, wheezy, or symptoms are lasting more than three weeks, then get in touch with us.
+335.26869::338.28622::Patient::OK, so I don't need any prescription, or anything like that.
+337.19539::344.45998::Doctor::No, no you don't need anything at the moment. OK. Take care, then. Bye. Bye bye.
+339.81175::340.61975::Patient::OK.
+341.92854::343.45407::Patient::Thank you very much, bye!
