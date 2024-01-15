@@ -69,4 +69,6 @@ python3 check_protocol.py
 
 `pyan_inf.ipynb` will run inference on the dataset using both the pretrained and finetuned models and create the output directories `timestamps_pyan_diar_pretrained` and `timestamps_pyan_diar_pretrained`.
 
+`nemo_inf.ipynb` will run inference on the dataset using pretrained`marblenet-vad`, `titanet_large-speaker_embedder` and creates the output directory `timestamps_nemo_pretrained`.
+
 `der.ipynb` has the code to calculate Diarization Error Rate (DER) for all the models used.
