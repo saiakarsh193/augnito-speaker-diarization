@@ -1,4 +1,3 @@
 pyannote.audio
 ipykernel
 ipywidgets
-simpleder
